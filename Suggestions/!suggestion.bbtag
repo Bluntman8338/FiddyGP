@@ -1,0 +1,4 @@
+> Thank you {userNickname} for your suggestion.
+
+{void;{send;1289291799495573586;{embedBuild;title:__**Suggestion by {userNickname} **__;description:{args};color:#E2B81A;
+footer.icon_url:https://gyazo.com/eba1012515f77f8f231e1ecff813d27a.png;footer.text:{time;DD-MM-YYYY;;;;} @ {time;HH:mm;;;;} UTC }}}

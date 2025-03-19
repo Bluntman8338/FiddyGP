@@ -1,0 +1,20 @@
+{embed;
+{embedBuild;
+title:__**Setting your Timezone**__;
+description:__**Example**__:
+### !timezone <Your Timezone>;
+
+fields.name:To set your Timezone;
+fields.value:Choose from this list of [allowed time zones that can be found on wikipedia](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List) under the `TZ database name` column
+&
+Find your timezone, then head in to #bot spam
+&
+Send `!timezone America/Los_Angeles`
+or 
+Whatever your timezone is. 
+
+This will help us plan for future events better;
+
+color:#E2B81A;
+thumbnail.url:https://gyazo.com/e85b6bc8c839201d50eba9a13c1d4754.png;
+footer.icon_url:https://gyazo.com/eba1012515f77f8f231e1ecff813d27a.png;footer.text:{time;DD-MM-YYYY;;;;} @ {time;HH:mm;;;;} UTC }}

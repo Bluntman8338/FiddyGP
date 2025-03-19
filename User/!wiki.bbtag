@@ -1,0 +1,9 @@
+{embed;
+{buildembed;
+title: OSRS Wiki;
+description:
+> - [Old School RuneScape Wiki](https://oldschool.runescape.wiki "OSRS Wiki")
+;
+
+color:#E2B81A;
+footer.icon_url:https://gyazo.com/eba1012515f77f8f231e1ecff813d27a.png;footer.text:{time;DD-MM-YYYY;;;;} @ {time;HH:mm;;;;} UTC }}

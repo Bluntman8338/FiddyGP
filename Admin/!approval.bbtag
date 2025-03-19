@@ -1,0 +1,19 @@
+{embed;
+{embedBuild;
+title:Membership Approval;
+description:# {userName;{args}}{newline}## Congratulations{newline;2}---------------------------
+You are now a full member.;
+  color:#E2B81A; 
+thumbnail.url:{userAvatar;{args}};
+footer.icon_url:https://gyazo.com/eba1012515f77f8f231e1ecff813d27a.png;footer.text:%7Btime;DD-MM-YYYY;;;;%7D @ {time;HH:mm;;;;} UTC }}
+
+{//;Remove Guest Role}
+{void;{roleRemove;1347885135038644234;{args};}}
+
+{//;Add Announcements Role}
+{void;{roleAdd;1348383387983024179;{args};}}
+
+{//;Add Clan Role}
+{void;{roleAdd;1347874476607410236;{args};}}
+
+{delete}

@@ -1,0 +1,34 @@
+<@{userid}> 
+{embed;
+{embedbuild;
+title:Application Sent;
+description:Thank you {userNick},
+Someone will be with you shortly;
+
+ color:#E2B81A; 
+thumbnail.url:{userAvatar};
+footer.icon_url:https://gyazo.com/eba1012515f77f8f231e1ecff813d27a.png;footer.text:%7Btime;DD-MM-YYYY;;;;%7D @ {time;HH:mm;;;;} UTC }}
+
+
+{void;{send;{1348776081016094750};
+@Cabinet}} 
+
+
+{void;{send;{1348776081016094750};
+{embedBuild;
+title:Application Received;
+description:;
+
+fields.name:Sent by::;
+fields.value:{userNick};
+
+fields.name:Verification:;
+fields.value:Please verify they have sent an in-game application or are a current member before sending 
+!approval @userName
+ in the ⁠general-area 
+;
+
+
+  color:#E2B81A; 
+thumbnail.url:{userAvatar};
+footer.icon_url:https://gyazo.com/eba1012515f77f8f231e1ecff813d27a.png;footer.text:%7Btime;DD-MM-YYYY;;;;%7D @ {time;HH:mm;;;;} UTC }}}

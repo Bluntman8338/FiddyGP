@@ -1,0 +1,105 @@
+{//; Set the array of embed messages here }
+{set;~arr;[
+
+  {embedBuild;
+    title:Mid Game Goals;
+    description:This is a list of Goals to get you through the Mid Game.{newline;3}This command was suggested by:{newline}### > Bluey
+;
+      color:#E2B81A;
+footer.icon_url:https://gyazo.com/eba1012515f77f8f231e1ecff813d27a.png;footer.text:{time;DD-MM-YYYY;;;;} @ {time;HH:mm;;;;} UTC
+},
+
+  {embedBuild;
+    title:Mid Game Goals;
+    description:## __**Combat Skills**__{newline;2}
+### __**Combat Stats**__:{newline}> - 80+ in Attack, Strength, and Defense{newline;2}### __**Ranged and Magic**__:{newline}> - 80+ in both Ranged & Magic{newline;2}### __**Prayer**__: {newline}> - 70+ Prayer for Piety and the option to upgrade to Rigour/Augury{newline;2}### __**Slayer**__:{newline}> - 85 Slayer for Abyssal demons or 87 for Kraken 
+;
+      color:#E2B81A;
+    footer.icon_url:https://gyazo.com/eba1012515f77f8f231e1ecff813d27a.png;footer.text:{time;DD-MM-YYYY;;;;} @ {time;HH:mm;;;;} UTC
+},
+
+  {embedBuild;
+    title:Mid Game Goals;
+    description:## __**Skilling Goals**__ {newline;2}
+### __**Herblore**__:{newline}> - 70+ for brewing better potions (such as Saradomin brews){newline;2}### __**Farming**__: {newline}> - 72+ for Ranarr/Herb runs and Fruit trees{newline;2}### __**Construction**__:{newline}> - 83 for a maxed out Player-owned house (PoH) with a gilded altar, ornate rejuvenation pool, and teleport portals{newline;2}### __**Runecrafting**__:{newline}> - 77 for Blood Runes with the Zeah altar{newline;2}### __**Agility**__:{newline}> - 70+ for shortcuts and faster run energy recovery{newline;2}### __**Mining**__: {newline}> - 92 for Amethyst mining
+;
+      color:#E2B81A;
+footer.icon_url:https://gyazo.com/eba1012515f77f8f231e1ecff813d27a.png;footer.text:{time;DD-MM-YYYY;;;;} @ {time;HH:mm;;;;} UTC
+},
+
+  {embedBuild;
+    title:Mid Game Goals;
+    description:## __**Money-Making**__{newline}### &{newline}## __**Bossing Goals**__{newline;2}### __**Barrows**__:{newline}> - Reliable gear upgrades and money-making option{newline;2}### __**God Wars Dungeon**__:{newline}> - Aim for at least 70+ in stats and gear to do Bandos or Sara{newline;2}### __**Zulrah**__:{newline}> - Unlock and learn Zulrah for consistent money-making{newline;2}### __**Vorkath**__:{newline}> - Learn Vorkath for post-Dragon Slayer II bossing and profit{newline;2}### __**Demonic Gorillas**__:{newline}> - Hunt for Zenyt shards after completing Monkey Madness II
+;
+      color:#E2B81A;
+footer.icon_url:https://gyazo.com/eba1012515f77f8f231e1ecff813d27a.png;footer.text:{time;DD-MM-YYYY;;;;} @ {time;HH:mm;;;;} UTC
+},
+
+  {embedBuild;
+    title:Mid Game Goals;
+    description:## __**Quests**__{newline;2}
+### __**Barrows Gloves**__:{newline}> - Complete Recipe for Disaster for the best gloves in slot{newline;2}### __**Lunar Diplomacy**__:{newline}> - Unlock the Lunar Spellbook{newline;2}### __**Monkey Madness II**__:{newline}> - Unlock access to Demonic Gorillas and extended Ape Atoll{newline;2}### __**Dragon Slayer II**__:{newline}> - Unlock Vorkath and Rune Dragons{newline;2}### __**Song of the Elves**__:{newline}> - Access to Prifddinas and the Gauntlet 
+;
+      color:#E2B81A;
+footer.icon_url:https://gyazo.com/eba1012515f77f8f231e1ecff813d27a.png;footer.text:{time;DD-MM-YYYY;;;;} @ {time;HH:mm;;;;} UTC
+},
+
+  {embedBuild;
+    title:Mid Game Goals;
+    description:## __**Diary Goals**__{newline;2}
+### __**Western Provinces Hard**__:{newline}> - Unlock Elite Void{newline;2}### __**Fremennik Hard**__:{newline}> - Dagannoth Kings shortcut and better DK drops{newline;2}### __**Varrock Hard**__:{newline}> - Access to battle staves from Zaff’s shop daily{newline;2}### __**Kandarin Hard**__:{newline}> - Chance to save cannonballs and agility benefits{newline;2}### __**Morytania Hard**__:{newline}> - Bonecrusher, Barrows benefits, unlocks the Herb Patch and allows 26 bones to be exchange for bucket for ectofuntus 
+;
+      color:#E2B81A;
+footer.icon_url:https://gyazo.com/eba1012515f77f8f231e1ecff813d27a.png;footer.text:{time;DD-MM-YYYY;;;;} @ {time;HH:mm;;;;} UTC
+},
+
+  {embedBuild;
+    title:Mid Game Goals;
+    description:## __**Other**__{newline;2}
+### __**Fire Cape**__:{newline}> - Complete the Fight Caves for a Fire Cape{newline;2}### __**Void Set**__:{newline}> - Full Void gear with Range and Mage helms{newline;2}### __**Graceful Set**__:{newline}> - Full Graceful for better energy regeneration and less run energy depletion{newline;2}### __**Quest Point Cape (QPC)**__:{newline}> - Start working toward it by completing more quests and pushing for higher requirements.
+;
+      color:#E2B81A;
+footer.icon_url:https://gyazo.com/eba1012515f77f8f231e1ecff813d27a.png;footer.text:{time;DD-MM-YYYY;;;;} @ {time;HH:mm;;;;} UTC
+}
+]}
+
+{//; Set the starting page }
+{set;~p;1}
+
+{//; Calculate the max page }
+{set;~maxp;{length;{get;~arr}}}
+
+{//; Send the initial message with the first page }
+{set;~msgid;{output;{embed;{get;~arr;0}}}}
+
+{//; Add the left and right arrow reactions }
+{reactionAdd;{get;~msgid};◀;▶}
+
+{//; Set Reaction Count}
+{set;~reactcount;0}
+{while;{get;~reactcount};<;10;
+    {set;~reaction;{waitreaction;{get;~msgid};{userid};◀▶;true;300}}
+    {switch;{get;~reaction;3};
+        ◀;{//;Go to Previous Page}
+            {if;{get;~p};<=;1;{set;~p;1};{void;{decrement;~p}}}
+            {//; Edit the message with the new content}
+            {edit;{get;~msgid};;{get;~arr;{math;-;{get;~p};1}}}
+            {reactionRemove;{get;~msgid};{userid};◀;▶}
+            {//;Add to react count}
+            {void;{increment;~reactcount}}
+            {//;Change P}
+            {if;{get;~p};>;1;{set;~p;{math;-;{get;~p};1}}};
+        ▶;{//;Go to Next Page}
+            {if;{get;~p};>=;{get;~maxp};{set;~p;{get;~maxp}};{void;{increment;~p}}}
+            {//; Edit the message with the new content}
+            {edit;{get;~msgid};;{get;~arr;{math;-;{get;~p};1}}}
+            {reactionRemove;{get;~msgid};{userid};◀;▶}
+            {//;Add to react count}
+            {void;{increment;~reactcount}};
+        timeout;{reactremoveall;{get;~msgid}}
+    }
+}
+
+{//;Remove all Reacts if the limit is reached}
+{if;{get;~reactcount};==;10;{reactremoveall;{get;~msgid}}}
+{if;{get;~reactcount};==;10;{reactremoveall;{get;~msgid}}}

@@ -1,0 +1,78 @@
+.cc set slayer    
+{//;Aberrant Spectres} 
+{if;{capitalize;{args;0}} {capitalize;{args;1}};==;Aberrant Spectre;
+{embed;
+{buildembed;
+title:__**Aberrant spectre**__;
+description:(Weight: 6): 
+
+> - __**Location**__: [Slayer Tower](https://oldschool.runescape.wiki/w/Slayer_Tower), [Catacombs of Kourend](https://oldschool.runescape.wiki/w/Catacombs_of_Kourend)
+> - __**Items**__: Bring [Nose peg](https://oldschool.runescape.wiki/w/Nose_peg) or [Slayer helmet](https://oldschool.runescape.wiki/w/Slayer_helmet)
+> - __**Key drops**__: [Herbs](https://oldschool.runescape.wiki/w/Herblore), [Rune items](https://oldschool.runescape.wiki/w/Rune_equipment), [Dark totem pieces](https://oldschool.runescape.wiki/w/Dark_totem)
+> - __**Alternatives**__: [Deviant spectre](https://oldschool.runescape.wiki/w/Deviant_Spectre)
+
+[Aberrant Spectres](https://oldschool.runescape.wiki/w/Aberrant_Spectre) can be found in the [Slayer Tower](https://oldschool.runescape.wiki/w/Slayer_Tower) and the [Catacombs of Kourend](https://oldschool.runescape.wiki/w/Catacombs_of_Kourend). They have a strong magic-based attack, so protection with a [Nose peg](https://oldschool.runescape.wiki/w/Nose_peg) or [Slayer helmet](https://oldschool.runescape.wiki/w/Slayer_helmet) is required. They drop various [Herbs](https://oldschool.runescape.wiki/w/Herblore) and [Dark totem pieces](https://oldschool.runescape.wiki/w/Dark_totem), making them useful for herb collection.
+
+__**Assigned by**__:
+# :Vannaka::Chaeldar::Konar::Nieve::Duradel: 
+;
+
+color:#A7D129;
+thumbnail.url:https://gyazo.com/04ab7fd01d49bac36b71d48bb2e31ed2.png;
+footer.icon_url:https://gyazo.com/eba1012515f77f8f231e1ecff813d27a.png;
+footer.text:{time;DD-MM-YYYY;;;;} @ {time;HH:mm;;;;} UTC
+}}}
+
+{//;—————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————}
+
+{//;Abyssal Demons} 
+{if;{capitalize;{args;0}} {capitalize;{args;1}};==;Abyssal Demon;
+{embed;
+{buildembed;
+title:__**Abyssal Demon**__;
+url:https://oldschool.runescape.wiki/w/Abyssal_demon;
+description:(Weight: 10): 
+
+> - __**Location**__: [Slayer Tower](https://oldschool.runescape.wiki/w/Slayer_Tower), [Catacombs of Kourend](https://oldschool.runescape.wiki/w/Catacombs_of_Kourend), [Abyssal Nexus](https://oldschool.runescape.wiki/w/Abyssal_Nexus)
+> - __**Items**__: Bring [Slayer helmet](https://oldschool.runescape.wiki/w/Slayer_helmet) (Required)
+> - __**Key drops**__: [Abyssal whip](https://oldschool.runescape.wiki/w/Abyssal_whip), [Abyssal dagger](https://oldschool.runescape.wiki/w/Abyssal_dagger), [Rune items](https://oldschool.runescape.wiki/w/Rune_equipment), [Clue scroll (elite)](https://oldschool.runescape.wiki/w/Clue_scroll)
+> - __**Alternatives**__: [Abyssal Sire](https://oldschool.runescape.wiki/w/Abyssal_Sire)
+
+Abyssal Demons are high-level Slayer monsters that require 85 Slayer to kill. They teleport around during combat, making them slightly more difficult to fight. They are a great source of Abyssal whips and daggers, making them a profitable Slayer task.
+
+__**Assigned by**__:
+# :Nieve::Duradel::Konar::Vannaka:
+;
+
+color:#8B0000;
+thumbnail.url:https://oldschool.runescape.wiki/images/thumb/9/98/Abyssal_demon.png/150px-Abyssal_demon.png;
+footer.icon_url:https://oldschool.runescape.wiki/images/thumb/1/13/Slayer_icon.png/20px-Slayer_icon.png;
+footer.text:{time;DD-MM-YYYY;;;;} @ {time;HH:mm;;;;} UTC
+}}}
+
+{//;—————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————}
+
+{//;Adamant Dragons} 
+{if;{capitalize;{args;0}} {capitalize;{args;1}};==;Adamant Dragon;
+{embed;
+{buildembed;
+title:__**Adamant Dragon**__;
+url:https://oldschool.runescape.wiki/w/Adamant_dragon;
+description:(Weight: 7): 
+
+> - __**Location**__: [Lithkren Vault](https://oldschool.runescape.wiki/w/Lithkren_Vault)
+> - __**Items**__: Bring [Anti-dragon shield](https://oldschool.runescape.wiki/w/Anti-dragon_shield) or [Dragonfire protection](https://oldschool.runescape.wiki/w/Dragonfire_shield)
+> - __**Key drops**__: [Dragon limbs](https://oldschool.runescape.wiki/w/Dragon_limbs), [Dragon metal slice](https://oldschool.runescape.wiki/w/Dragon_metal_slice), [Runite bars](https://oldschool.runescape.wiki/w/Runite_bar), [Clue scroll (elite)](https://oldschool.runescape.wiki/w/Clue_scroll)
+> - __**Alternatives**__: [Rune Dragon](https://oldschool.runescape.wiki/w/Rune_dragon)
+
+Adamant Dragons are powerful dragons found exclusively in the Lithkren Vault. They require **Dragon Slayer II** to access. These dragons use **melee, magic, and dragonfire attacks**, so proper protection is crucial. They have valuable drops, making them a profitable but high-risk Slayer task.
+
+__**Assigned by**__:
+# :Konar::Duradel::Nieve:
+;
+
+color:#228B22;
+thumbnail.url:https://oldschool.runescape.wiki/images/thumb/b/b6/Adamant_dragon.png/150px-Adamant_dragon.png;
+footer.icon_url:https://oldschool.runescape.wiki/images/thumb/1/13/Slayer_icon.png/20px-Slayer_icon.png;
+footer.text:{time;DD-MM-YYYY;;;;} @ {time;HH:mm;;;;} UTC
+}}}

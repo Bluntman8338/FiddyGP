@@ -1,0 +1,26 @@
+{embed;
+{embedBuild;
+title:Setting up Dink;
+description:
+Use the Plug-in search bar and find [Dink](https://runelite.net/plugin-hub/show/dink "") in the Runelite plug-in section. 
+Once installed, click the Cog wheel to open it's configurations. 
+__**------------------------------**__
+
+To produce a Standardized set of notifications, please [Click here](https://docs.google.com/document/d/1Gf4eAeLCPXmJStNbQvF2gwyBs_tvZ5hCU-28YhjZOWg/edit?usp=drivesdk "Dink Options") to see the Setup list. 
+__**------------------------------**__
+
+After set up, return to the server and send `!fordink`,
+This will DM the Discord Liaison to create your thread within #https://discord.com/channels/1210791595390017576/1281364468173115444 
+&
+Produce your personal webhook link. 
+
+Open Dink back up and paste your provided link into the top input box. 
+
+After that, your new thread will be set up and you'll start to get notified. 
+__**------------------------------**__
+;
+color:#E2B81A;
+thumbnail.url:{userAvatar};
+footer.icon_url:https://gyazo.com/eba1012515f77f8f231e1ecff813d27a.png;footer.text:{time;DD-MM-YYYY;;;;} @ {time;HH:mm;;;;} UTC }}
+
+{void;{addRole;1348381594867601458;{userId};}}

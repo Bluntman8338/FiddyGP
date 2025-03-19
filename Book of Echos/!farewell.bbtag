@@ -1,0 +1,11 @@
+{embed;
+{embedBuild;
+title:Sign-out;
+description:## Book of Echo;
+
+fields.name:__**Name**__:;
+fields.value:{userName};
+
+  color:#E2B81A; 
+thumbnail.url:{userAvatar};
+footer.icon_url:https://gyazo.com/eba1012515f77f8f231e1ecff813d27a.png;footer.text:Left at {time;DD-MM-YYYY;;;;} @ {time;HH:mm;;;;} UTC }}

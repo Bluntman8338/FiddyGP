@@ -1,0 +1,3 @@
+> Thank you {userNickname}, 
+> Your personal webhook link request has been sent. 
+{void;{dm;1235135453179547750;<@1235135453179547750>;{embedBuild;title:Webhook Request;description:{userNickname} has requested their own personal Webhook Link for Dink. }}}

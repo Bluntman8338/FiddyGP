@@ -1,0 +1,18 @@
+{embed;
+{embedBuild;
+ description:__## **Your Time Conversions**__;
+fields.name:__**OSRS Time**__:; 
+fields.value: • {time;HH:mm;;;;UTC};
+
+fields.name:__**Your Current Time**__:;
+fields.value: • {time;HH:mm;;;;{userTimeZone;{userId}} };
+
+fields.name:__**Your Server Reset Time**__:; 
+fields.value: • {time;HH:mm;12:00;HH:mm;UTC;{userTimeZone;{userId};} } ;
+
+color:#ff7700;
+
+footer.icon_url:https://gyazo.com/e85b6bc8c839201d50eba9a13c1d4754.png;
+thumbnail.url:https://gyazo.com/eba1012515f77f8f231e1ecff813d27a.png;
+footer.text:Time is based on 24hr format. 
+}}

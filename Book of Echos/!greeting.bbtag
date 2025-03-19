@@ -1,0 +1,35 @@
+<@{userid}>
+{embed;{embedBuild;title:Welcome to 50gp is 50gp;description:### Founded:{newline}Jan. 7th of 2024
+
+### Please wait for Approval;
+
+fields.name:__**50gp**__;
+fields.value:has grown to be a thriving Community of ppl who believe in one thing{newline}## 50gp is 50gp;
+
+fields.name:Setting your Timezone;
+fields.value:To help better set up future events, please take the time to set your timezone. 
+Send `!settz` to get a better understanding on how to do this. ;
+
+color:#E2B81A;
+thumbnail.url:{userAvatar};
+footer.icon_url:https://gyazo.com/eba1012515f77f8f231e1ecff813d27a.png;
+footer.text:{time;DD-MM-YYYY;;;;} @ {time;HH:mm;;;;} UTC }}
+
+
+
+{void;{send;{1274435290114560133};{embedBuild;
+title:__**Sign-in**__;
+description:## Book of Echos;
+
+fields.name:__**Name**__:;
+fields.value:{userName};
+
+fields.name:__**Member Count**__:;
+fields.value:{length;{guildMembers}};
+
+
+  color:#E2B81A; 
+thumbnail.url:{userAvatar};
+footer.icon_url:https://gyazo.com/eba1012515f77f8f231e1ecff813d27a.png;footer.text:{time;DD-MM-YYYY;;;;} @ {time;HH:mm;;;;} UTC }}
+
+{void;{roleAdd;1274422910102147072;{userId};}}}

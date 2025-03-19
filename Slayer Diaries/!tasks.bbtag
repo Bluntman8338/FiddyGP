@@ -1,0 +1,101 @@
+{//; Set the array of embed messages here }
+{set;~arr;[
+
+{embedBuild;
+    title:Duradel Task List;
+    description:• Abyssal Demons{newline}• Black Demons{newline}• Black Dragons{newline}• Bloodvelds{newline}• Blue Dragons{newline}• Dagannoths{newline}• Dust Devils{newline}• Fire Giants{newline}• Gargoyles{newline}• Greater Demons{newline}• Hellhounds{newline}• Kalphites{newline}• Nechryaels{newline}• Steel Dragons{newline}• Suqahs{newline}• Wyrms{newline}
+;
+      color:#E2B81A;
+thumbnail.url:https://gyazo.com/85b2393a694c1753d123a4d86c216a6c.png;
+footer.icon_url:https://gyazo.com/eba1012515f77f8f231e1ecff813d27a.png;footer.text:{time;DD-MM-YYYY;;;;} @ {time;HH:mm;;;;} UTC
+},
+{embedBuild;
+    title:Nieve/Steve Task List;
+    description:• Aberrant Spectres{newline}• Abyssal Demons{newline}• Black Demons{newline}• Bloodvelds{newline}• Blue Dragons{newline}• Dagannoths{newline}• Dust Devils{newline}• Fire Giants{newline}• Greater Demons{newline}• Hellhounds{newline}• Kalphites{newline}• Kurasks{newline}• Skeletal Wyverns{newline}• Steel Dragons{newline}• Suqahs{newline}• Trolls{newline}• TzHaar{newline}• Wyrms{newline}
+;
+      color:#E2B81A;
+thumbnail.url:https://gyazo.com/85b2393a694c1753d123a4d86c216a6c.png;
+footer.icon_url:https://gyazo.com/eba1012515f77f8f231e1ecff813d27a.png;footer.text:{time;DD-MM-YYYY;;;;} @ {time;HH:mm;;;;} UTC
+},
+{embedBuild;
+    title:Konar quo Maten Task List;
+    description:• Abyssal Demons{newline}• Black Demons{newline}• Bloodvelds{newline}• Blue Dragons{newline}• Brine Rats{newline}• Cave Horrors{newline}• Dagannoths{newline}• Drake{newline}• Dust Devils{newline}• Fire Giants{newline}• Greater Demons{newline}• Hellhounds{newline}• Hydras{newline}• Kurasks{newline}• Steel Dragons{newline}• Wyrms{newline}
+;
+      color:#E2B81A;
+thumbnail.url:https://gyazo.com/85b2393a694c1753d123a4d86c216a6c.png;
+footer.icon_url:https://gyazo.com/eba1012515f77f8f231e1ecff813d27a.png;footer.text:{time;DD-MM-YYYY;;;;} @ {time;HH:mm;;;;} UTC
+},
+{embedBuild;
+    title:Chaeldar Task List;
+    description:• Aberrant Spectres{newline}• Basilisks{newline}• Bloodvelds{newline}• Blue Dragons{newline}• Cave Horrors{newline}• Dagannoths{newline}• Fire Giants{newline}• Hellhounds{newline}• Kalphites{newline}• Kurasks{newline}• Trolls{newline}
+;
+      color:#E2B81A;
+thumbnail.url:https://gyazo.com/85b2393a694c1753d123a4d86c216a6c.png;
+footer.icon_url:https://gyazo.com/eba1012515f77f8f231e1ecff813d27a.png;footer.text:{time;DD-MM-YYYY;;;;} @ {time;HH:mm;;;;} UTC
+},
+{embedBuild;
+    title:Vannaka Task List;
+    description:• Blue Dragons{newline}• Earth Warriors{newline}• Fire Giants{newline}• Hill Giants{newline}• Lesser Demons{newline}• Moss Giants{newline}• Trolls{newline}• Vampyres{newline} 
+;
+      color:#E2B81A;
+thumbnail.url:https://gyazo.com/85b2393a694c1753d123a4d86c216a6c.png;
+footer.icon_url:https://gyazo.com/eba1012515f77f8f231e1ecff813d27a.png;footer.text:{time;DD-MM-YYYY;;;;} @ {time;HH:mm;;;;} UTC
+},
+{embedBuild;
+    title:Mazchna Task List;
+    description:• Banshees{newline}• Cave Crawlers{newline}• Cockatrice{newline}• Crawling Hands{newline}• Ghosts{newline}• Hill Giants{newline}• Rockslugs{newline}• Vampyres{newline} 
+;
+      color:#E2B81A;
+thumbnail.url:https://gyazo.com/85b2393a694c1753d123a4d86c216a6c.png;
+footer.icon_url:https://gyazo.com/eba1012515f77f8f231e1ecff813d27a.png;footer.text:{time;DD-MM-YYYY;;;;} @ {time;HH:mm;;;;} UTC
+},
+{embedBuild;
+    title:Turael/Spria Task List;
+    description:• Banshees{newline}• Cave Bugs{newline}• Cave Crawlers{newline}• Crawling Hands{newline}• Dwarves{newline}• Ghosts{newline}• Goblins{newline}• Minotaurs{newline}• Skeletons{newline}• Wolves{newline}
+;
+      color:#E2B81A;
+thumbnail.url:https://gyazo.com/85b2393a694c1753d123a4d86c216a6c.png;
+footer.icon_url:https://gyazo.com/eba1012515f77f8f231e1ecff813d27a.png;footer.text:{time;DD-MM-YYYY;;;;} @ {time;HH:mm;;;;} UTC
+}
+]} 
+
+{//; Set the starting page }
+{set;~p;1}
+
+{//; Calculate the max page }
+{set;~maxp;{length;{get;~arr}}}
+
+{//; Send the initial message with the first page }
+{set;~msgid;{output;{embed;{get;~arr;0}}}}
+
+{//; Add the left and right arrow reactions }
+{reactionAdd;{get;~msgid};◀;▶}
+
+{//; Set Reaction Count}
+{set;~reactcount;0}
+{while;{get;~reactcount};<;10;
+    {set;~reaction;{waitreaction;{get;~msgid};{userid};◀▶;true;300}}
+    {switch;{get;~reaction;3};
+        ◀;{//;Go to Previous Page}
+            {if;{get;~p};<=;1;{set;~p;1};{void;{decrement;~p}}}
+            {//; Edit the message with the new content}
+            {edit;{get;~msgid};;{get;~arr;{math;-;{get;~p};1}}}
+            {reactionRemove;{get;~msgid};{userid};◀;▶}
+            {//;Add to react count}
+            {void;{increment;~reactcount}}
+            {//;Change P}
+            {if;{get;~p};>;1;{set;~p;{math;-;{get;~p};1}}};
+        ▶;{//;Go to Next Page}
+            {if;{get;~p};>=;{get;~maxp};{set;~p;{get;~maxp}};{void;{increment;~p}}}
+            {//; Edit the message with the new content}
+            {edit;{get;~msgid};;{get;~arr;{math;-;{get;~p};1}}}
+            {reactionRemove;{get;~msgid};{userid};◀;▶}
+            {//;Add to react count}
+            {void;{increment;~reactcount}};
+        timeout;{reactremoveall;{get;~msgid}}
+    }
+}
+
+{//;Remove all Reacts if the limit is reached}
+{if;{get;~reactcount};==;10;{reactremoveall;{get;~msgid}}}
+{if;{get;~reactcount};==;10;{reactremoveall;{get;~msgid}}}

@@ -1,0 +1,40 @@
+{embed;
+{buildembed;
+title: Help Menu;
+description:This Help Menu is based on your roles.....
+Cmds are only visible up to your highest role.
+
+ {if;{userHasRole;{roleId; @Owner }};Owner Cmds
+announce, approval, ban, kick,  mute, pardon, reason, tidy, unban, unmute, warn, say
+{newline};}
+
+{if;{userHasRole;{roleId; @Co-Owner }};Deputy Owners Cmds 
+announce, approval, ban, kick,  mute, pardon, reason, tidy, unban, unmute, warn, say
+{newline};}
+
+{if;{userHasRole;{roleId; @Cabinet  }};Cabinet Cmds
+approval, ban, kick,  mute, pardon, reason, tidy, unban, unmute, warn, say
+{newline};}
+
+{if;{userHasRole;{roleId; @50gp }};50gp Cmds
+!announcements {newline}!dink {newline}!fordink {newline}!midgame {newline}!osrs {newline}!rsn {newline}!settz {newline}!suggestion {newline}!times {newline}!warnings {newline}!wiki
+{newline};}
+
+{if;{userHasRole;{roleId; @50gp }};Wise Old Man Cmds{newline}Individual Cmds 
+{newline}/stats {newline}/update  {newline}/bosses  {newline}/gained {newline}/achievements
+Group Cmds
+{newline}/group gained {newline}/group achievements {newline}/group competition{newline}/group competitions {newline}/group hiscores 
+{newline};}
+
+{if;{userHasRole;{roleId; @50gp }};Tatsu Cmds
+{newline}/rank{newline}/profile{newline}/reputation
+;}
+
+{if;{userHasRole;{roleId; @50gp }};Grow a Tree Cmds
+{newline}/balance{newline}/profile{newline}/shop{newline}/sticker-book
+;}
+;
+
+color:#E2B81A;
+thumbnail.url:{guildIcon};
+footer.icon_url:https://gyazo.com/eba1012515f77f8f231e1ecff813d27a.png;footer.text:%7Btime;DD-MM-YYYY;;;;%7D @ {time;HH:mm;;;;} UTC }}
