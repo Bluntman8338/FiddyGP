@@ -1,18 +1,18 @@
-# Project 50gp.
+# Project FiddyGP
 
 
 <details>
-  <summary>Cmd Categories</summary>
-  <p align="center">
-- Admin 
-- Book of Echos 
-- Dink 
-- Help 
-- Slayer Diaries 
-- Suggestions 
-- Time 
-- User 
-- Welcome & Leave 
+  <summary>Table of Contents</summary>
+  <p align="left">
+- Admin <br>
+- Book of Echos <br>
+- Dink <br>
+- Goals <br>
+- Help Menu <br>
+- Slayer Diaries <br>
+- Suggestions <br>
+- Time <br>
+- User <br>
 </p>
 </details>
 There is a Wiki to give explanation for each command.

@@ -1,12 +1,12 @@
 Aberrant spectre  ✅
 Abyssal demon  ✅
-Adamant dragon  
-Ankou  
-Aviansie  
-Bandit  
-Banshee  
-Basilisk  
-Bat  
+Adamant dragon  ✅
+Ankou  ✅
+Aviansie  ✅
+Bandit  ✅
+Banshee  ✅
+Basilisk  ✅
+Bat  ✅
 Bear  
 Bird  
 Black demon  

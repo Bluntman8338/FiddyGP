@@ -1,4 +1,3 @@
-.cc set slayer    
 {//;Aberrant Spectres} 
 {if;{capitalize;{args;0}} {capitalize;{args;1}};==;Aberrant Spectre;
 {embed;
@@ -76,3 +75,175 @@ thumbnail.url:https://oldschool.runescape.wiki/images/thumb/b/b6/Adamant_dragon.
 footer.icon_url:https://oldschool.runescape.wiki/images/thumb/1/13/Slayer_icon.png/20px-Slayer_icon.png;
 footer.text:{time;DD-MM-YYYY;;;;} @ {time;HH:mm;;;;} UTC
 }}}
+
+{//;—————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————}
+
+{//;Ankou} 
+{if;{capitalize;{args;0}};==;Ankou;
+{embed;
+{buildembed;
+title:__**Ankou**__;
+url:https://oldschool.runescape.wiki/w/Ankou;
+description:(Weight: 5): 
+
+> - __**Location**__: [Stronghold of Security](https://oldschool.runescape.wiki/w/Stronghold_of_Security), [Wilderness Slayer Cave](https://oldschool.runescape.wiki/w/Wilderness_Slayer_Cave), [Catacombs of Kourend](https://oldschool.runescape.wiki/w/Catacombs_of_Kourend)
+> - __**Items**__: None required, but **Salve amulet** is recommended.
+> - __**Key drops**__: [Blood runes](https://oldschool.runescape.wiki/w/Blood_rune), [Death runes](https://oldschool.runescape.wiki/w/Death_rune), [Coins](https://oldschool.runescape.wiki/w/Coins), [Clue scroll (hard)](https://oldschool.runescape.wiki/w/Clue_scroll)
+> - __**Alternatives**__: None
+
+Ankou are ghostly skeletal warriors found in multiple locations, including the **Stronghold of Security** and the **Catacombs of Kourend**. They are weak to **Salve amulet**, making them a great training spot for extra damage. They drop a decent amount of **blood and death runes**, making them somewhat profitable.
+
+__**Assigned by**__:
+# :Vannaka::Konar:
+;
+
+color:#C71585;
+thumbnail.url:https://oldschool.runescape.wiki/images/thumb/5/5b/Ankou.png/150px-Ankou.png;
+footer.icon_url:https://oldschool.runescape.wiki/images/thumb/1/13/Slayer_icon.png/20px-Slayer_icon.png;
+footer.text:{time;DD-MM-YYYY;;;;} @ {time;HH:mm;;;;} UTC
+}}}
+
+{//;—————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————}
+
+{//;Aviansie} 
+{if;{capitalize;{args;0}};==;Aviansie;
+{embed;
+{buildembed;
+title:__**Aviansie**__;
+url:https://oldschool.runescape.wiki/w/Aviansie;
+description:(Weight: 6): 
+
+> - __**Location**__: [God Wars Dungeon](https://oldschool.runescape.wiki/w/God_Wars_Dungeon), [Isle of Souls](https://oldschool.runescape.wiki/w/Isle_of_Souls)
+> - __**Items**__: Bring **Armadyl protection** in **God Wars Dungeon**.
+> - __**Key drops**__: [Adamantite bars](https://oldschool.runescape.wiki/w/Adamantite_bar), [Rune items](https://oldschool.runescape.wiki/w/Rune_equipment), [Clue scroll (hard)](https://oldschool.runescape.wiki/w/Clue_scroll), [Feathers](https://oldschool.runescape.wiki/w/Feather)
+> - __**Alternatives**__: [Kree’arra](https://oldschool.runescape.wiki/w/Kree%27arra)
+
+Aviansie are **flying creatures** found in the **God Wars Dungeon** and the **Isle of Souls**. They are weak to **ranged and magic** attacks. Killing them in GWD requires **Armadyl protection**, and they are a great source of **adamantite bars**. They do not drop bones since they fly.
+
+__**Assigned by**__:
+# :Konar:
+;
+
+color:#4682B4;
+thumbnail.url:https://gyazo.com/3c5a36e8a75a4bb3c4e2fe6464ee81a1.png;
+footer.icon_url:https://oldschool.runescape.wiki/images/thumb/1/13/Slayer_icon.png/20px-Slayer_icon.png;
+footer.text:{time;DD-MM-YYYY;;;;} @ {time;HH:mm;;;;} UTC
+}}}
+
+{//;—————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————}
+
+{//;Bandits} 
+{if;{capitalize;{args;0}};==;Bandit;
+{embed;
+{buildembed;
+title:__**Bandit**__;
+url:https://oldschool.runescape.wiki/w/Bandit_(Kharidian_Desert);
+description:(Weight: 5): 
+
+> - __**Location**__: [Bandit Camp (Desert)](https://oldschool.runescape.wiki/w/Bandit_Camp_(Kharidian_Desert))
+> - __**Items**__: Bring [Waterskins](https://oldschool.runescape.wiki/w/Waterskin) or wear [Desert Amulet 4](https://oldschool.runescape.wiki/w/Desert_amulet_4) to avoid dehydration
+> - __**Key drops**__: [Coins](https://oldschool.runescape.wiki/w/Coins), [Noted food](https://oldschool.runescape.wiki/w/Food), [Clue scroll (hard)](https://oldschool.runescape.wiki/w/Clue_scroll)
+> - __**Alternatives**__: [Bandit (Wilderness)](https://oldschool.runescape.wiki/w/Bandit_(Wilderness))
+
+Bandits in the Kharidian Desert are aggressive if you wear any **Saradomin or Zamorak items**. They are commonly used for **AFK training** due to their aggression. Ensure you have desert protection to avoid taking damage from the heat.
+
+__**Assigned by**__:
+# :Mazchna::Vannaka:
+;
+
+color:#B8860B;
+thumbnail.url:https://oldschool.runescape.wiki/images/thumb/d/d7/Bandit.png/150px-Bandit.png;
+footer.icon_url:https://oldschool.runescape.wiki/images/thumb/1/13/Slayer_icon.png/20px-Slayer_icon.png;
+footer.text:{time;DD-MM-YYYY;;;;} @ {time;HH:mm;;;;} UTC
+}}}
+
+{//;—————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————}
+
+{//;Banshees} 
+{if;{capitalize;{args;0}};==;Banshee;
+{embed;
+{buildembed;
+  title:__**Banshee**__;
+url:https://oldschool.runescape.wiki/w/Banshee;
+  description:(Weight: 3): 
+
+> - __**Location**__: [Slayer Tower](https://oldschool.runescape.wiki/w/Slayer_Tower)
+> - __**Items**__: Bring [Earmuffs](https://oldschool.runescape.wiki/w/Earmuffs) or [Slayer helmet](https://oldschool.runescape.wiki/w/Slayer_helmet)
+> - __**Key drops**__: [Herbs](https://oldschool.runescape.wiki/w/Herblore), [Chaos runes](https://oldschool.runescape.wiki/w/Chaos_rune), [Mystic gloves (dark)](https://oldschool.runescape.wiki/w/Mystic_gloves_(dark))
+> - __**Alternatives**__: [Twisted Banshee](https://oldschool.runescape.wiki/w/Twisted_Banshee)
+
+Banshees are low-level Slayer monsters that require **Earmuffs** or a **Slayer helmet** to fight, as their screams will rapidly drain stats otherwise. They are commonly killed for **herbs and chaos runes**.
+
+__**Assigned by**__:
+# :Turael::Mazchna:
+;
+
+  color:#9400D3;
+  thumbnail.url:https://oldschool.runescape.wiki/images/thumb/8/8e/Banshee.png/150px-Banshee.png;
+  footer.icon_url:https://oldschool.runescape.wiki/images/thumb/1/13/Slayer_icon.png/20px-Slayer_icon.png;
+  footer.text:{time;DD-MM-YYYY;;;;} @ {time;HH:mm;;;;} UTC
+}}}
+
+{//;—————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————}
+
+{//;Basilisks} 
+{if;{capitalize;{args;0}};==;Basilisk;
+{embed;
+{buildembed;
+  title:__**Basilisk**__;
+  url:https://oldschool.runescape.wiki/w/Basilisk;
+  description:(Weight: 5): 
+
+> - __**Location**__: [Fremennik Slayer Dungeon](https://oldschool.runescape.wiki/w/Fremennik_Slayer_Dungeon)
+> - __**Items**__: Bring [Mirror shield](https://oldschool.runescape.wiki/w/Mirror_shield) to avoid stat-draining attacks
+> - __**Key drops**__: [Nature runes](https://oldschool.runescape.wiki/w/Nature_rune), [Rune full helm](https://oldschool.runescape.wiki/w/Rune_full_helm), [Basilisk head](https://oldschool.runescape.wiki/w/Basilisk_head)
+> - __**Alternatives**__: [Basilisk Knight](https://oldschool.runescape.wiki/w/Basilisk_Knight)
+
+Basilisks are found in the **Fremennik Slayer Dungeon** and require a **Mirror shield** to prevent their special attack from draining combat stats. They have decent rune item drops and are a requirement for completing **the Fremennik Exiles quest**.
+
+__**Assigned by**__:
+# :Chaeldar::Konar:
+;
+
+  color:#6AAB4F;
+  thumbnail.url:https://oldschool.runescape.wiki/images/thumb/9/9a/Basilisk.png/150px-Basilisk.png;
+  footer.icon_url:https://oldschool.runescape.wiki/images/thumb/1/13/Slayer_icon.png/20px-Slayer_icon.png;
+  footer.text:{time;DD-MM-YYYY;;;;} @ {time;HH:mm;;;;} UTC
+}}}
+
+{//;—————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————}
+
+{//;Bats} 
+{if;{capitalize;{args;0}};==;Bat;
+{embed;
+{buildembed;
+  title:__**Bat**__;
+  url:https://oldschool.runescape.wiki/w/Bat;
+  description:(Weight: 1): 
+
+> - __**Location**__: [Lumbridge Swamp](https://oldschool.runescape.wiki/w/Lumbridge_Swamp), [Taverley Dungeon](https://oldschool.runescape.wiki/w/Taverley_Dungeon), [Stronghold Slayer Cave](https://oldschool.runescape.wiki/w/Stronghold_Slayer_Cave)
+> - __**Items**__: None required
+> - __**Key drops**__: [Bat bones](https://oldschool.runescape.wiki/w/Bat_bones)
+> - __**Alternatives**__: [Giant Bat](https://oldschool.runescape.wiki/w/Giant_Bat)
+
+Bats are weak flying creatures commonly found in dark and damp areas. They have low hitpoints and are often killed for their **Bat bones**, which can be used in Prayer training. 
+
+__**Assigned by**__:
+# :Turael:
+;
+
+  color:#4A4A4A;
+  thumbnail.url:https://oldschool.runescape.wiki/images/thumb/b/b7/Bat.png/150px-Bat.png;
+  footer.icon_url:https://oldschool.runescape.wiki/images/thumb/1/13/Slayer_icon.png/20px-Slayer_icon.png;
+  footer.text:{time;DD-MM-YYYY;;;;} @ {time;HH:mm;;;;} UTC
+}}}
+
+{//;—————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————}
+
+
+
+{//;—————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————}
+
+
+
+{//;—————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————}
