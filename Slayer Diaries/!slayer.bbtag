@@ -1,4 +1,4 @@
-{//;Aberrant Spectres} 
+{//;1. Aberrant Spectres} 
 {if;{capitalize;{args;0}} {capitalize;{args;1}};==;Aberrant Spectre;
 {embed;
 {buildembed;
@@ -24,7 +24,7 @@ footer.text:{time;DD-MM-YYYY;;;;} @ {time;HH:mm;;;;} UTC
 
 {//;—————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————}
 
-{//;Abyssal Demons} 
+{//;2. Abyssal Demons} 
 {if;{capitalize;{args;0}} {capitalize;{args;1}};==;Abyssal Demon;
 {embed;
 {buildembed;
@@ -51,7 +51,7 @@ footer.text:{time;DD-MM-YYYY;;;;} @ {time;HH:mm;;;;} UTC
 
 {//;—————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————}
 
-{//;Adamant Dragons} 
+{//;3. Adamant Dragons} 
 {if;{capitalize;{args;0}} {capitalize;{args;1}};==;Adamant Dragon;
 {embed;
 {buildembed;
@@ -78,7 +78,7 @@ footer.text:{time;DD-MM-YYYY;;;;} @ {time;HH:mm;;;;} UTC
 
 {//;—————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————}
 
-{//;Ankou} 
+{//;4. Ankou} 
 {if;{capitalize;{args;0}};==;Ankou;
 {embed;
 {buildembed;
@@ -105,7 +105,7 @@ footer.text:{time;DD-MM-YYYY;;;;} @ {time;HH:mm;;;;} UTC
 
 {//;—————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————}
 
-{//;Aviansie} 
+{//;5. Aviansie} 
 {if;{capitalize;{args;0}};==;Aviansie;
 {embed;
 {buildembed;
@@ -132,7 +132,7 @@ footer.text:{time;DD-MM-YYYY;;;;} @ {time;HH:mm;;;;} UTC
 
 {//;—————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————}
 
-{//;Bandits} 
+{//;6. Bandits} 
 {if;{capitalize;{args;0}};==;Bandit;
 {embed;
 {buildembed;
@@ -159,7 +159,7 @@ footer.text:{time;DD-MM-YYYY;;;;} @ {time;HH:mm;;;;} UTC
 
 {//;—————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————}
 
-{//;Banshees} 
+{//;7. Banshees} 
 {if;{capitalize;{args;0}};==;Banshee;
 {embed;
 {buildembed;
@@ -186,7 +186,7 @@ __**Assigned by**__:
 
 {//;—————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————}
 
-{//;Basilisks} 
+{//;8. Basilisks} 
 {if;{capitalize;{args;0}};==;Basilisk;
 {embed;
 {buildembed;
@@ -213,7 +213,7 @@ __**Assigned by**__:
 
 {//;—————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————}
 
-{//;Bats} 
+{//;9. Bats} 
 {if;{capitalize;{args;0}};==;Bat;
 {embed;
 {buildembed;
@@ -237,6 +237,408 @@ __**Assigned by**__:
   footer.icon_url:https://oldschool.runescape.wiki/images/thumb/1/13/Slayer_icon.png/20px-Slayer_icon.png;
   footer.text:{time;DD-MM-YYYY;;;;} @ {time;HH:mm;;;;} UTC
 }}}
+
+{//;—————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————}
+
+{//;10. Bears} 
+{if;{capitalize;{args;0}};==;Bear;
+{embed;
+{buildembed;
+  title:__**Bear**__;
+  url:https://oldschool.runescape.wiki/w/Bear;
+  description:(Weight: 3): 
+
+> - __**Location**__: [Varrock Forest](https://oldschool.runescape.wiki/w/Varrock), [Ardougne Zoo](https://oldschool.runescape.wiki/w/Ardougne), [Fremennik Province](https://oldschool.runescape.wiki/w/Fremennik_Province)
+> - __**Items**__: None required
+> - __**Key drops**__: [Bear fur](https://oldschool.runescape.wiki/w/Bear_fur), [Bones](https://oldschool.runescape.wiki/w/Bones)
+> - __**Alternatives**__: [Grizzly Bear](https://oldschool.runescape.wiki/w/Grizzly_Bear), [Callisto](https://oldschool.runescape.wiki/w/Callisto)
+
+Bears are aggressive melee creatures found in various wooded and open areas. They are often hunted for their **Bear fur**, which can be sold or used in crafting. 
+
+__**Assigned by**__:
+# :Turael:
+;
+
+  color:#8B5A2B;
+  thumbnail.url:https://gyazo.com/400ed41d0d4450a174c4a2e85e602355.png;
+  footer.icon_url:https://oldschool.runescape.wiki/images/thumb/1/13/Slayer_icon.png/20px-Slayer_icon.png;
+  footer.text:{time;DD-MM-YYYY;;;;} @ {time;HH:mm;;;;} UTC
+}}}
+
+{//;—————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————}
+
+{//;11. Birds} 
+{if;{capitalize;{args;0}};==;Bird;
+{embed;
+{buildembed;
+  title:__**Bird**__;
+  url:https://oldschool.runescape.wiki/w/Bird;
+  description:(Weight: 1): 
+
+> - __**Location**__: [Lumbridge](https://oldschool.runescape.wiki/w/Lumbridge), [Feldip Hills](https://oldschool.runescape.wiki/w/Feldip_Hills), [Tree Gnome Stronghold](https://oldschool.runescape.wiki/w/Tree_Gnome_Stronghold)
+> - __**Items**__: None required
+> - __**Key drops**__: [Bones](https://oldschool.runescape.wiki/w/Bones), [Feathers](https://oldschool.runescape.wiki/w/Feather)
+> - __**Alternatives**__: [Terrorbird](https://oldschool.runescape.wiki/w/Terrorbird)
+
+Birds are small flying creatures commonly found in wooded and open areas. They have low health and are often killed for their **Feathers**, which are useful for Fletching and Fishing.  
+
+__**Assigned by**__:
+# :Turael:
+;
+
+  color:#A1C935;
+  thumbnail.url:https://gyazo.com/6fdb98dca6e3da763ec5a01e8efbefd1.jpeg;
+  footer.icon_url:https://oldschool.runescape.wiki/images/thumb/1/13/Slayer_icon.png/20px-Slayer_icon.png;
+  footer.text:{time;DD-MM-YYYY;;;;} @ {time;HH:mm;;;;} UTC
+}}}
+
+{//;—————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————}
+
+{//;12. Black Demons} 
+{if;{capitalize;{args;0}} {capitalize;{args;1}};==;Black Demon;
+{embed;
+{buildembed;
+  title:__**Black Demon**__;
+  url:https://oldschool.runescape.wiki/w/Black_Demon;
+  description:(Weight: 9): 
+
+> - __**Location**__: [Taverley Dungeon](https://oldschool.runescape.wiki/w/Taverley_Dungeon), [Catacombs of Kourend](https://oldschool.runescape.wiki/w/Catacombs_of_Kourend), [Chasm of Fire](https://oldschool.runescape.wiki/w/Chasm_of_Fire)
+> - __**Items**__: None required
+> - __**Key drops**__: [Rune med helm](https://oldschool.runescape.wiki/w/Rune_med_helm), [Dragon bones](https://oldschool.runescape.wiki/w/Dragon_bones), [Hard clue scroll](https://oldschool.runescape.wiki/w/Clue_scroll_%28hard%29)
+> - __**Alternatives**__: [Demonic gorilla](https://oldschool.runescape.wiki/w/Demonic_Gorilla)
+
+Black Demons are strong melee-based demons found in various dungeons. They are **weak to Magic** and commonly farmed for **Slayer points**, **Hard clue scrolls**, and **Dragon bones**. 
+
+__**Assigned by**__:
+# :Vannaka::Chaeldar::Konar::Nieve::Duradel: 
+;
+
+  color:#3D2B56;
+  thumbnail.url:https://oldschool.runescape.wiki/images/thumb/f/fc/Black_demon.png/150px-Black_demon.png;
+  footer.icon_url:https://oldschool.runescape.wiki/images/thumb/1/13/Slayer_icon.png/20px-Slayer_icon.png;
+  footer.text:{time;DD-MM-YYYY;;;;} @ {time;HH:mm;;;;} UTC
+}}}
+
+{//;—————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————}
+
+{//;13. Black Dragons} 
+{if;{capitalize;{args;0}} {capitalize;{args;1}};==;Black Dragon;
+{embed;
+{buildembed;
+  title:__**Black Dragon**__;
+  url:https://oldschool.runescape.wiki/w/Black_Dragon;
+  description:(Weight: 8): 
+
+> - __**Location**__: [Taverley Dungeon](https://oldschool.runescape.wiki/w/Taverley_Dungeon), [Evil Chicken's Lair](https://oldschool.runescape.wiki/w/Evil_Chicken%27s_Lair), [Corsair Cove Dungeon](https://oldschool.runescape.wiki/w/Corsair_Cove_Dungeon)
+> - __**Items**__: [Anti-dragon shield](https://oldschool.runescape.wiki/w/Anti-dragon_shield) or [Dragonfire protection](https://oldschool.runescape.wiki/w/Dragonfire_protection)
+> - __**Key drops**__: [Dragon bones](https://oldschool.runescape.wiki/w/Dragon_bones), [Black dragonhide](https://oldschool.runescape.wiki/w/Black_dragonhide), [Elite clue scroll](https://oldschool.runescape.wiki/w/Clue_scroll_%28elite%29)
+> - __**Alternatives**__: [Baby Black Dragon](https://oldschool.runescape.wiki/w/Baby_Black_Dragon), [King Black Dragon](https://oldschool.runescape.wiki/w/King_Black_Dragon)
+
+Black Dragons are **the strongest standard dragons** and require **dragonfire protection**. They are commonly farmed for **Dragon bones**, **Black dragonhide**, and **Elite clue scrolls**. The **King Black Dragon** variant provides better rewards but is significantly stronger. 
+
+__**Assigned by**__:
+# :Chaeldar::Konar::Nieve::Duradel: 
+;
+
+  color:#252525;
+  thumbnail.url:https://oldschool.runescape.wiki/images/thumb/5/5b/Black_dragon.png/150px-Black_dragon.png;
+  footer.icon_url:https://oldschool.runescape.wiki/images/thumb/1/13/Slayer_icon.png/20px-Slayer_icon.png;
+  footer.text:{time;DD-MM-YYYY;;;;} @ {time;HH:mm;;;;} UTC
+}}}
+
+{//;—————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————}
+
+{//;14. Black Knights} 
+{if;{capitalize;{args;0}} {capitalize;{args;1}};==;Black Knight;
+{embed;
+{buildembed;
+  title:__**Black Knight**__;
+  url:https://oldschool.runescape.wiki/w/Black_Knight;
+  description:(Weight: 1): 
+
+> - __**Location**__: [Black Knights' Fortress](https://oldschool.runescape.wiki/w/Black_Knights%27_Fortress), [Taverley Dungeon](https://oldschool.runescape.wiki/w/Taverley_Dungeon), [Edgeville Dungeon](https://oldschool.runescape.wiki/w/Edgeville_Dungeon)
+> - __**Items**__: None required
+> - __**Key drops**__: [Steel full helm](https://oldschool.runescape.wiki/w/Steel_full_helm), [Black sword](https://oldschool.runescape.wiki/w/Black_sword), [Black dagger](https://oldschool.runescape.wiki/w/Black_dagger)
+> - __**Alternatives**__: None
+
+Black Knights are **low-level warriors** that wear black armor and are hostile to all players. They are commonly found in **Black Knights' Fortress** and dungeons. While they drop some basic **black equipment**, they are mostly fought for quests rather than for loot.
+
+__**Assigned by**__:
+# :Turael::Vannaka:
+;
+
+  color:#1A1A1A;
+  thumbnail.url:https://gyazo.com/e50ee7b73147905dc28ce70367d1f009.jpeg;
+  footer.icon_url:https://oldschool.runescape.wiki/images/thumb/1/13/Slayer_icon.png/20px-Slayer_icon.png;
+  footer.text:{time;DD-MM-YYYY;;;;} @ {time;HH:mm;;;;} UTC
+}}}
+
+{//;—————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————}
+
+{//;15. Bloodvelds} 
+{if;{capitalize;{args;0}};==;Bloodveld;
+{embed;
+{buildembed;
+  title:__**Bloodveld**__;
+  url:https://oldschool.runescape.wiki/w/Bloodveld;
+  description:(Weight: 9): 
+
+> - __**Location**__: [Slayer Tower](https://oldschool.runescape.wiki/w/Slayer_Tower), [Catacombs of Kourend](https://oldschool.runescape.wiki/w/Catacombs_of_Kourend), [Stronghold Slayer Cave](https://oldschool.runescape.wiki/w/Stronghold_Slayer_Cave)
+> - __**Items**__: None required
+> - __**Key drops**__: [Blood runes](https://oldschool.runescape.wiki/w/Blood_rune), [Rune med helm](https://oldschool.runescape.wiki/w/Rune_med_helm), [Dark totem pieces](https://oldschool.runescape.wiki/w/Dark_totem)
+> - __**Alternatives**__: [Mutated Bloodveld](https://oldschool.runescape.wiki/w/Mutated_Bloodveld)
+
+Bloodvelds are **slayer monsters** known for their **high hitpoints** and **accurate magic-based melee attacks**. They are commonly farmed for **Blood runes and Dark totem pieces**. The **Catacombs of Kourend** location is preferred for multi-combat training and totem farming.
+
+__**Assigned by**__:
+# :Vannaka::Chaeldar::Konar6::Nieve::Duradel: 
+;
+
+  color:#8B0000;
+  thumbnail.url:https://oldschool.runescape.wiki/images/thumb/5/56/Bloodveld.png/150px-Bloodveld.png;
+  footer.icon_url:https://oldschool.runescape.wiki/images/thumb/1/13/Slayer_icon.png/20px-Slayer_icon.png;
+  footer.text:{time;DD-MM-YYYY;;;;} @ {time;HH:mm;;;;} UTC
+}}}
+
+{//;—————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————}
+
+{//;16. Blue Dragons} 
+{if;{capitalize;{args;0}} {capitalize;{args;1}};==;Blue Dragon;
+{embed;
+{buildembed;
+  title:__**Blue Dragon**__;
+  url:https://oldschool.runescape.wiki/w/Blue_Dragon;
+  description:(Weight: 7): 
+
+> - __**Location**__: [Taverley Dungeon](https://oldschool.runescape.wiki/w/Taverley_Dungeon), [Myths' Guild](https://oldschool.runescape.wiki/w/Myths%27_Guild), [Ogre Enclave](https://oldschool.runescape.wiki/w/Ogre_Enclave)
+> - __**Items**__: [Anti-dragon shield](https://oldschool.runescape.wiki/w/Anti-dragon_shield) or [Dragonfire protection](https://oldschool.runescape.wiki/w/Dragonfire)
+> - __**Key drops**__: [Dragon bones](https://oldschool.runescape.wiki/w/Dragon_bones), [Blue dragonhide](https://oldschool.runescape.wiki/w/Blue_dragonhide), [Ensouled dragon head](https://oldschool.runescape.wiki/w/Ensouled_dragon_head)
+> - __**Alternatives**__: [Baby Blue Dragon](https://oldschool.runescape.wiki/w/Baby_Blue_Dragon)
+
+Blue Dragons are **mid-tier dragons** with **strong dragonfire attacks**, requiring **anti-dragon shields or dragonfire protection**. They are commonly farmed for **Dragon bones** and **Blue dragonhide**, making them profitable for prayer and crafting.
+
+__**Assigned by**__:
+# :Vannaka::Chaeldar::Konar::Nieve::Duradel: 
+;
+
+  color:#4682B4;
+  thumbnail.url:https://oldschool.runescape.wiki/images/thumb/d/d0/Blue_dragon.png/150px-Blue_dragon.png;
+  footer.icon_url:https://oldschool.runescape.wiki/images/thumb/1/13/Slayer_icon.png/20px-Slayer_icon.png;
+  footer.text:{time;DD-MM-YYYY;;;;} @ {time;HH:mm;;;;} UTC
+}}}
+
+{//;—————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————}
+
+{//;17. Brine Rats} 
+{if;{capitalize;{args;0}} {capitalize;{args;1}};==;Brine Rat;
+{embed;
+{buildembed;
+  title:__**Brine Rat**__;
+  url:https://oldschool.runescape.wiki/w/Brine_Rat;
+  description:(Weight: 5): 
+
+> - __**Location**__: [Brine Rat Cavern](https://oldschool.runescape.wiki/w/Brine_Rat_Cavern)
+> - __**Items**__: [Spade](https://oldschool.runescape.wiki/w/Spade) (for entrance)
+> - __**Key drops**__: [Brine sabre](https://oldschool.runescape.wiki/w/Brine_sabre), [Raw fish](https://oldschool.runescape.wiki/w/Raw_fish), [Ensouled rat head](https://oldschool.runescape.wiki/w/Ensouled_rat_head)
+> - __**Alternatives**__: None
+
+Brine Rats are **mid-level monsters** that require completion of **Olaf's Quest** to access. They are a decent source of **raw fish drops** and the **Brine sabre**, which is useful for low-level training.
+
+__**Assigned by**__:
+# :Konar: 
+;
+
+  color:#8B4513;
+  thumbnail.url:https://oldschool.runescape.wiki/images/thumb/5/52/Brine_rat.png/150px-Brine_rat.png;
+  footer.icon_url:https://oldschool.runescape.wiki/images/thumb/1/13/Slayer_icon.png/20px-Slayer_icon.png;
+  footer.text:{time;DD-MM-YYYY;;;;} @ {time;HH:mm;;;;} UTC
+}}}
+
+{//;—————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————}
+
+{//;18. Bronze Dragons} 
+{if;{capitalize;{args;0}} {capitalize;{args;1}};==;Bronze Dragon;
+{embed;
+{buildembed;
+  title:__**Bronze Dragon**__;
+  url:https://oldschool.runescape.wiki/w/Bronze_Dragon;
+  description:(Weight: 5): 
+
+> - __**Location**__: [Brimhaven Dungeon](https://oldschool.runescape.wiki/w/Brimhaven_Dungeon), [Catacombs of Kourend](https://oldschool.runescape.wiki/w/Catacombs_of_Kourend)
+> - __**Items**__: [Anti-dragon shield](https://oldschool.runescape.wiki/w/Anti-dragon_shield) or [Dragonfire protection](https://oldschool.runescape.wiki/w/Dragonfire_protection)
+> - __**Key drops**__: [Dragon platelegs](https://oldschool.runescape.wiki/w/Dragon_platelegs), [Dragon plateskirt](https://oldschool.runescape.wiki/w/Dragon_plateskirt), [Dragon bones](https://oldschool.runescape.wiki/w/Dragon_bones)
+> - __**Alternatives**__: [Iron Dragon](https://oldschool.runescape.wiki/w/Iron_Dragon), [Steel Dragon](https://oldschool.runescape.wiki/w/Steel_Dragon)
+
+Bronze Dragons are **metal dragons** that use **dragonfire attacks**, requiring proper **dragonfire protection** to fight effectively. They are a source of **Dragon bones** and have a rare chance to drop **Dragon platelegs** and **plateskirts**.
+
+__**Assigned by**__:
+# :Konar::Duradel::Nieve: 
+;
+
+  color:#CD7F32;
+  thumbnail.url:https://oldschool.runescape.wiki/images/thumb/1/1e/Bronze_dragon.png/150px-Bronze_dragon.png;
+  footer.icon_url:https://oldschool.runescape.wiki/images/thumb/1/13/Slayer_icon.png/20px-Slayer_icon.png;
+  footer.text:{time;DD-MM-YYYY;;;;} @ {time;HH:mm;;;;} UTC
+}}}
+
+{//;—————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————}
+
+{//;19. Catablepons} 
+{if;{capitalize;{args;0}};==;Catablepon;
+{embed;
+{buildembed;
+  title:__**Catablepon**__;
+  url:https://oldschool.runescape.wiki/w/Catablepon;
+  description:(Weight: 2): 
+
+> - __**Location**__: [Stronghold of Security](https://oldschool.runescape.wiki/w/Stronghold_of_Security)
+> - __**Items**__: None required
+> - __**Key drops**__: [Iron kiteshield](https://oldschool.runescape.wiki/w/Iron_kiteshield), [Chaos runes](https://oldschool.runescape.wiki/w/Chaos_rune), [Coins](https://oldschool.runescape.wiki/w/Coins)
+> - __**Alternatives**__: None
+
+Catablepons are **mid-level monsters** found in the **Stronghold of Security**. They have a unique **eye attack** that can slightly lower **Strength**, but they pose little threat overall. They drop small amounts of **coins** and basic equipment.
+
+__**Assigned by**__:
+# :Turael::Mazchna: 
+;
+
+  color:#6AAB5D;
+  thumbnail.url:https://oldschool.runescape.wiki/images/thumb/4/49/Catablepon.png/150px-Catablepon.png;
+  footer.icon_url:https://oldschool.runescape.wiki/images/thumb/1/13/Slayer_icon.png/20px-Slayer_icon.png;
+  footer.text:{time;DD-MM-YYYY;;;;} @ {time;HH:mm;;;;} UTC
+}}}
+
+{//;—————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————}
+
+{//;20. Cave Bugs} 
+{if;{capitalize;{args;0}} {capitalize;{args;1}};==;Cave Bug;
+{embed;
+{buildembed;
+  title:__**Cave Bug**__;
+  url:https://oldschool.runescape.wiki/w/Cave_Bug;
+  description:(Weight: 1): 
+
+> - __**Location**__: [Lumbridge Swamp Caves](https://oldschool.runescape.wiki/w/Lumbridge_Swamp_Caves)
+> - __**Items**__: [Light source](https://oldschool.runescape.wiki/w/Light_source)
+> - __**Key drops**__: None
+> - __**Alternatives**__: None
+
+Cave Bugs are **low-level monsters** found in the **Lumbridge Swamp Caves**. They pose little threat to adventurers but require a **light source** to access their area. They do not drop significant loot but are commonly assigned to beginner slayers.
+
+__**Assigned by**__:
+# :Turael::Spria: 
+;
+
+  color:#A3C14A;
+  thumbnail.url:https://oldschool.runescape.wiki/images/Cave_bug_%28level_6%29.png?a482e.png;
+  footer.icon_url:https://oldschool.runescape.wiki/images/thumb/1/13/Slayer_icon.png/20px-Slayer_icon.png;
+  footer.text:{time;DD-MM-YYYY;;;;} @ {time;HH:mm;;;;} UTC
+}}}
+
+{//;—————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————}
+
+{//;21. Cave Crawlers} 
+{if;{capitalize;{args;0}} {capitalize;{args;1}};==;Cave Crawler;
+{embed;
+{buildembed;
+  title:__**Cave Crawler**__;
+  url:https://oldschool.runescape.wiki/w/Cave_Crawler;
+  description:(Weight: 3): 
+
+> - __**Location**__: [Fremennik Slayer Dungeon](https://oldschool.runescape.wiki/w/Fremennik_Slayer_Dungeon), [Lumbridge Swamp Caves](https://oldschool.runescape.wiki/w/Lumbridge_Swamp_Caves)
+> - __**Items**__: Bring [Antipoison](https://oldschool.runescape.wiki/w/Antipoison) or [Superantipoison](https://oldschool.runescape.wiki/w/Superantipoison)
+> - __**Key drops**__: [Herbs](https://oldschool.runescape.wiki/w/Herblore), [Seeds](https://oldschool.runescape.wiki/w/Farming), [Coins](https://oldschool.runescape.wiki/w/Coins)
+> - __**Alternatives**__: None
+
+Cave Crawlers are **low-level Slayer monsters** found in dark, damp caves. They are **poisonous**, so bringing **Antipoison** is highly recommended. They frequently drop **herbs and seeds**, making them a decent choice for low-level Slayer training.
+
+__**Assigned by**__:
+# :Turael::Mazchna::Chaeldar: 
+;
+
+  color:#4CAF50;
+  thumbnail.url:https://oldschool.runescape.wiki/images/Cave_crawler_(1).png?47f4c.png;
+  footer.icon_url:https://oldschool.runescape.wiki/images/thumb/1/13/Slayer_icon.png/20px-Slayer_icon.png;
+  footer.text:{time;DD-MM-YYYY;;;;} @ {time;HH:mm;;;;} UTC
+}}}
+
+{//;—————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————}
+
+{//;22. Cave Horrors} 
+{if;{capitalize;{args;0}} {capitalize;{args;1}};==;Cave Horror;
+{embed;
+{buildembed;
+  title:__**Cave Horror**__;
+  url:https://oldschool.runescape.wiki/w/Cave_Horror;
+  description:(Weight: 5): 
+
+> - __**Location**__: [Mos Le'Harmless Caves](https://oldschool.runescape.wiki/w/Mos_Le%27Harmless_Caves)
+> - __**Items**__: Bring [Witchwood icon](https://oldschool.runescape.wiki/w/Witchwood_icon) & [Light source](https://oldschool.runescape.wiki/w/Light_source)
+> - __**Key drops**__: [Black mask](https://oldschool.runescape.wiki/w/Black_mask), [Seeds](https://oldschool.runescape.wiki/w/Farming), [Various herbs](https://oldschool.runescape.wiki/w/Herblore)
+> - __**Alternatives**__: None
+
+Cave Horrors are **mid-level Slayer monsters** found in the **Mos Le'Harmless Caves**. They require **Slayer level 58** to kill and are **highly aggressive**. A **Witchwood icon** is essential to reduce damage. Their most notable drop is the **Black mask**, used for making the **Slayer helmet**.
+
+__**Assigned by**__:
+# :Chaeldar::Konar::Nieve::Duradel: 
+;
+
+  color:#3D5A80;
+  thumbnail.url:https://oldschool.runescape.wiki/images/Cave_horror_%281%29.png?a57e4.png;
+  footer.icon_url:https://oldschool.runescape.wiki/images/thumb/1/13/Slayer_icon.png/20px-Slayer_icon.png;
+  footer.text:{time;DD-MM-YYYY;;;;} @ {time;HH:mm;;;;} UTC
+}}}
+
+{//;—————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————}
+
+{//;23. Cave Krakens} 
+{if;{capitalize;{args;0}} {capitalize;{args;1}};==;Cave Kraken;
+{embed;
+{buildembed;
+  title:__**Cave Kraken**__;
+  url:https://oldschool.runescape.wiki/w/Cave_Kraken;
+  description:(Weight: 9): 
+
+> - __**Location**__: [Kraken Cove](https://oldschool.runescape.wiki/w/Kraken_Cove)
+> - __**Items**__: Bring [Magic gear](https://oldschool.runescape.wiki/w/Magic) & [Ranged gear](https://oldschool.runescape.wiki/w/Ranged)
+> - __**Key drops**__: [Kraken tentacle](https://oldschool.runescape.wiki/w/Kraken_tentacle), [Trident of the seas](https://oldschool.runescape.wiki/w/Trident_of_the_seas), [Runes](https://oldschool.runescape.wiki/w/Runes)
+> - __**Alternatives**__: [Kraken](https://oldschool.runescape.wiki/w/Kraken) (boss variant)
+
+Cave Krakens are **high-level Slayer monsters** that require **Slayer level 87** to fight. They are best fought using **Magic**, as they have **high Melee defense**. They drop the valuable **Kraken tentacle** and **Trident of the seas**, making them a lucrative task.
+
+__**Assigned by**__:
+# :Chaeldar::Konar::Nieve::Duradel: 
+;
+
+  color:#1A237E;
+  thumbnail.url:https://oldschool.runescape.wiki/images/Cave_kraken.png?4612a.png;
+  footer.icon_url:https://oldschool.runescape.wiki/images/thumb/1/13/Slayer_icon.png/20px-Slayer_icon.png;
+  footer.text:{time;DD-MM-YYYY;;;;} @ {time;HH:mm;;;;} UTC
+}}}
+
+{//;—————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————}
+
+
+
+{//;—————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————}
+
+
+
+{//;—————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————}
+
+
+
+{//;—————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————}
+
+
+
+{//;—————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————}
+
+
+
+{//;—————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————}
+
+
 
 {//;—————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————}
 

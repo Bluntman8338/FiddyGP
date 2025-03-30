@@ -7,21 +7,20 @@ Bandit  ✅
 Banshee  ✅
 Basilisk  ✅
 Bat  ✅
-Bear  
-Bird  
-Black demon  
-Black dragon  
-Black Knight  
-Blank (Explanation)  
-Bloodveld  
-Blue dragon  
-Brine rat  
-Bronze dragon  
-Catablepon  
-Cave bug  
-Cave crawler  
-Cave horror  
-Cave kraken  
+Bear  ✅
+Bird  ✅
+Black demon  ✅
+Black dragon  ✅
+Black Knight  ✅
+Bloodveld  ✅
+Blue dragon  ✅
+Brine rat  ✅
+Bronze dragon  ✅
+Catablepon  ✅
+Cave bug  ✅
+Cave crawler  ✅
+Cave horror  ✅
+Cave kraken  ✅
 Cave slime  
 Chaos druid  
 Cockatrice  
@@ -97,8 +96,7 @@ Sourhog
 Spider  
 Spiritual creature  
 Steel dragon  
-Suqah  
-Task (Weight)  
+Suqah    
 Terror dog  
 Troll  
 Turoth  
@@ -106,9 +104,17 @@ Vampyre
 Wall beast  
 Waterfiend  
 Weight  
-Werewolf  
-Wild (subsection)  
+Werewolf    
 Wolf  
 Wyrm  
 Zombie  
 Zygomite  
+
+
+
+Blank (Explanation)  
+Task (Weight)
+
+
+{//;Subsections}
+Wild 
