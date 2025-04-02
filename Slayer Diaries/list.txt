@@ -21,13 +21,13 @@ Cave bug  ✅
 Cave crawler  ✅
 Cave horror  ✅
 Cave kraken  ✅
-Cave slime  
-Chaos druid  
-Cockatrice  
-Cow  
-Crawling hand  
-Crocodile  
-Dagannoth  
+Cave slime  ✅
+Chaos druid  ✅
+Cockatrice  ✅
+Cow  ✅
+Crawling hand  ✅
+Crocodile  ✅
+Dagannoth  ✅
 Dark beast  
 Dark warrior  
 Dog  
@@ -112,9 +112,8 @@ Zygomite
 
 
 
-Blank (Explanation)  
-Task (Weight)
+Subsections
 
-
-{//;Subsections}
 Wild 
+Blank (Explanation)  ✅
+Task (Weight)  ✅
