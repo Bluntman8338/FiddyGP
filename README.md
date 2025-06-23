@@ -16,4 +16,3 @@
 - User <br>
 </p>
 </details>
-There is a Wiki to give explanation for each command.
