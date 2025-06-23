@@ -3,7 +3,7 @@
 {embed;
 {buildembed;
 title:Sotw & Botw Sign up;
-description:{userNick}, 
+description:**{userNick}**, 
 Thank you for attempting to sign up for the  events.
 
 Unfortunately, you have forgotten to add which event you would like to participate in into the command line.
@@ -23,12 +23,12 @@ footer.icon_url:https://gyazo.com/eba1012515f77f8f231e1ecff813d27a.png;footer.te
 {embed;
 {buildembed;
 title:Sotw & Botw Sign up;
-description:{userNick}, 
+description:**{userNick}**, 
 Thank you for signing up for both events.
 
 Someone will ping you shortly to collect the Entry Fees, please be at the Clan Hall Bank on W420
 ;
-color:#E2B81A;
+color:#9B59B6;
 thumbnail.url:{guildIcon};
 footer.icon_url:https://gyazo.com/eba1012515f77f8f231e1ecff813d27a.png;footer.text:{time;DD-MM-YYYY;;;;} @ {time;HH:mm;;;;} UTC}
 
@@ -39,11 +39,11 @@ footer.icon_url:https://gyazo.com/eba1012515f77f8f231e1ecff813d27a.png;footer.te
 {void;{send;{1385744817644114081};
 {embedbuild;
 title:Event Signup Request;
-description:{userNick} has requested to sign up for {get;event}.
+description:__**{userNick}**__ has requested to sign up for {capitalize;{get;event}} events.
 
 [__**Click Here**__](https://docs.google.com/spreadsheets/d/1Vf8sx3bWc6kT0dA67DoO2ebyRUP9297eEZvTKZKPB4o/edit?usp=drivesdk) to add them to the Ledger.
 ;
-color:#E2B81A;
+color:#9B59B6;
 thumbnail.url:{guildIcon};
 footer.icon_url:https://gyazo.com/eba1012515f77f8f231e1ecff813d27a.png;footer.text:{time;DD-MM-YYYY;;;;} @ {time;HH:mm;;;;} UTC}
 }}
@@ -53,13 +53,13 @@ footer.icon_url:https://gyazo.com/eba1012515f77f8f231e1ecff813d27a.png;footer.te
 {if;{capitalize;{args;0}};==;Skill;
 {embed;
 {buildembed;
-title:Sotw & Botw Sign up;
-description:{userNick}, 
+title:Sotw Sign up;
+description:**{userNick}**, 
 Thank you for signing up for the Skill of the Week event.
 
 Someone will ping you shortly to collect the Entry Fees, please be at the Clan Hall Bank on W420
 ;
-color:#E2B81A;
+color:#2ECC71;
 thumbnail.url:{guildIcon};
 footer.icon_url:https://gyazo.com/eba1012515f77f8f231e1ecff813d27a.png;footer.text:{time;DD-MM-YYYY;;;;} @ {time;HH:mm;;;;} UTC}
 
@@ -70,11 +70,11 @@ footer.icon_url:https://gyazo.com/eba1012515f77f8f231e1ecff813d27a.png;footer.te
 {void;{send;{1385744817644114081};
 {embedbuild;
 title:Event Signup Request;
-description:{userNick} has requested to sign up for {get;event}.
+description:__**{userNick}**__ has requested to sign up for {capitalize;{get;event}}ing event.
 
 [__**Click Here**__](https://docs.google.com/spreadsheets/d/1Vf8sx3bWc6kT0dA67DoO2ebyRUP9297eEZvTKZKPB4o/edit?usp=drivesdk) to add them to the Ledger.
 ;
-color:#E2B81A;
+color:#2ECC71;
 thumbnail.url:{guildIcon};
 footer.icon_url:https://gyazo.com/eba1012515f77f8f231e1ecff813d27a.png;footer.text:{time;DD-MM-YYYY;;;;} @ {time;HH:mm;;;;} UTC}
 }}
@@ -84,12 +84,13 @@ footer.icon_url:https://gyazo.com/eba1012515f77f8f231e1ecff813d27a.png;footer.te
 {if;{capitalize;{args;0}};==;Boss;
 {embed;
 {buildembed;
-title:Sotw & Botw Sign up;
-description:{userNick}, 
+title:Botw Sign up;
+description:**{userNick}**, 
 Thank you for signing up for the Boss of the Week event.
 
 Someone will ping you shortly to collect the Entry Fees, please be at the Clan Hall Bank on W420;
-color:#E2B81A;
+
+color:#E74C3C;
 thumbnail.url:{guildIcon};
 footer.icon_url:https://gyazo.com/eba1012515f77f8f231e1ecff813d27a.png;footer.text:{time;DD-MM-YYYY;;;;} @ {time;HH:mm;;;;} UTC}}
 
@@ -100,12 +101,14 @@ footer.icon_url:https://gyazo.com/eba1012515f77f8f231e1ecff813d27a.png;footer.te
 {void;{send;{1385744817644114081};
 {embedbuild;
 title:Event Signup Request;
-description:{userNick} has requested to sign up for {get;event}.
+description:__**{userNick}**__ has requested to sign up for {capitalize;{get;event}}ing event.
 
 [__**Click Here**__](https://docs.google.com/spreadsheets/d/1Vf8sx3bWc6kT0dA67DoO2ebyRUP9297eEZvTKZKPB4o/edit?usp=drivesdk) to add them to the Ledger.
 ;
-color:#E2B81A;
+color:#E74C3C;
 thumbnail.url:{guildIcon};
 footer.icon_url:https://gyazo.com/eba1012515f77f8f231e1ecff813d27a.png;footer.text:{time;DD-MM-YYYY;;;;} @ {time;HH:mm;;;;} UTC}
 }}
 }
+
+{delete}
