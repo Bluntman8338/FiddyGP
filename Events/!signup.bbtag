@@ -16,11 +16,7 @@ Depending which event you want to signup
 color:#E2B81A;
 thumbnail.url:{guildIcon};
 footer.icon_url:https://gyazo.com/eba1012515f77f8f231e1ecff813d27a.png;footer.text:{time;DD-MM-YYYY;;;;} @ {time;HH:mm;;;;} UTC
-}
-
-
-
-
+}}
 
 
 {if;{capitalize;{args;0}};==;Both;
@@ -51,11 +47,7 @@ color:#E2B81A;
 thumbnail.url:{guildIcon};
 footer.icon_url:https://gyazo.com/eba1012515f77f8f231e1ecff813d27a.png;footer.text:{time;DD-MM-YYYY;;;;} @ {time;HH:mm;;;;} UTC}
 }}
-}
-
-
-
-
+}}
 
 
 {if;{capitalize;{args;0}};==;Skill;
@@ -86,10 +78,7 @@ color:#E2B81A;
 thumbnail.url:{guildIcon};
 footer.icon_url:https://gyazo.com/eba1012515f77f8f231e1ecff813d27a.png;footer.text:{time;DD-MM-YYYY;;;;} @ {time;HH:mm;;;;} UTC}
 }}
-}
-
-
-
+}}
 
 
 {if;{capitalize;{args;0}};==;Boss;
@@ -119,4 +108,4 @@ color:#E2B81A;
 thumbnail.url:{guildIcon};
 footer.icon_url:https://gyazo.com/eba1012515f77f8f231e1ecff813d27a.png;footer.text:{time;DD-MM-YYYY;;;;} @ {time;HH:mm;;;;} UTC}
 }}
-}}
+}
