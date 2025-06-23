@@ -6,6 +6,7 @@
   <p align="left">
 - Admin <br>
 - Book of Echos <br>
+- Events <br>
 - Dink <br>
 - Goals <br>
 - Help Menu <br>
