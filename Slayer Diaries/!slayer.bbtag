@@ -844,63 +844,419 @@ __**Assigned by**__:
 
 {//;———————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————}
 
-31
+{//;31. Dark Beasts} 
+{if;{capitalize;{args;0}} {capitalize;{args;1}};==;Dark Beast;
+{embed;
+{buildembed;
+  title:__**Dark Beast**__;
+  url:https://oldschool.runescape.wiki/w/Dark_Beast;
+  description:(Weight: 9): 
+
+> - __**Location**__: [Mourner Tunnels](https://oldschool.runescape.wiki/w/Mourner_Tunnels), [Kuradal's Dungeon](https://oldschool.runescape.wiki/w/Kuradal%27s_Dungeon)
+> - __**Items**__: [Slayer level 90+ required](https://oldschool.runescape.wiki/w/Slayer)
+> - __**Key drops**__: [Dark bow](https://oldschool.runescape.wiki/w/Dark_bow), [Rune items](https://oldschool.runescape.wiki/w/Rune_equipment), [Crystal shard (Prifddinas)](https://oldschool.runescape.wiki/w/Crystal_shard)
+> - __**Alternatives**__: None
+
+Dark Beasts are **high-level Slayer monsters** requiring **90 Slayer** to kill. They have a **powerful melee attack** but are **slow-moving**, making them easy to **safespot**. They are the **only source** of the **Dark bow**, making them a notable **Slayer target** for high-level players.
+
+__**Assigned by**__:
+# :Konar::Nieve::Duradel: 
+;
+
+  color:#4B3B5F;
+  thumbnail.url:https://oldschool.runescape.wiki/images/thumb/3/3b/Dark_beast.png/150px-Dark_beast.png;
+  footer.icon_url:https://oldschool.runescape.wiki/images/thumb/1/13/Slayer_icon.png/20px-Slayer_icon.png;
+  footer.text:{time;DD-MM-YYYY;;;;} @ {time;HH:mm;;;;} UTC
+}}}
 
 {//;———————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————}
 
-32
+{//;32. Dark Warriors} 
+{if;{capitalize;{args;0}} {capitalize;{args;1}};==;Dark Warrior;
+{embed;
+{buildembed;
+  title:__**Dark Warrior**__;
+  url:https://oldschool.runescape.wiki/w/Dark_warrior;
+  description:(Weight: 1): 
+
+> - __**Location**__: [Dark Warriors' Fortress](https://oldschool.runescape.wiki/w/Dark_Warriors%27_Fortress) (Level 14-16 Wilderness)
+> - __**Items**__: Bring [anti-PK gear](https://oldschool.runescape.wiki/w/Wilderness), food
+> - __**Key drops**__: [Steel equipment](https://oldschool.runescape.wiki/w/Steel_equipment), [Coins](https://oldschool.runescape.wiki/w/Coins)
+> - __**Alternatives**__: None
+
+Dark Warriors are **low-to-mid level** enemies located in the **Dark Warriors' Fortress** in the **Wilderness**. They pose little threat individually but are **aggressive in groups**. Not a commonly assigned Slayer task, but may be killed for **clue scrolls** or **Wilderness Slayer**.
+
+__**Assigned by**__:
+# :Krystilia: 
+;
+
+  color:#5A5A5A;
+  thumbnail.url:https://oldschool.runescape.wiki/images/thumb/1/10/Dark_warrior.png/150px-Dark_warrior.png;
+  footer.icon_url:https://oldschool.runescape.wiki/images/thumb/1/13/Slayer_icon.png/20px-Slayer_icon.png;
+  footer.text:{time;DD-MM-YYYY;;;;} @ {time;HH:mm;;;;} UTC
+}}}
 
 {//;———————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————}
 
-33
+{//;33. Dogs} 
+{if;{capitalize;{args;0}};==;Dog;
+{embed;
+{buildembed;
+  title:__**Dog**__;
+  url:https://oldschool.runescape.wiki/w/Dog;
+  description:(Weight: 1): 
+
+> - __**Location**__: [Varrock Sewers](https://oldschool.runescape.wiki/w/Varrock_Sewers), [Ardougne Zoo](https://oldschool.runescape.wiki/w/Ardougne_Zoo), [McGrubor's Wood](https://oldschool.runescape.wiki/w/McGrubor%27s_Wood)
+> - __**Items**__: None required
+> - __**Key drops**__: Bones, [Clue scroll (beginner)](https://oldschool.runescape.wiki/w/Clue_scroll_(beginner))
+> - __**Alternatives**__: None
+
+Dogs are **low-level monsters** often found in sewers or guarding certain locations. They’re usually assigned by **lower-level Slayer masters** and are very quick to kill. Good for beginners needing fast Slayer points or clue scrolls.
+
+__**Assigned by**__:
+# :Turael::Mazchna: 
+;
+
+  color:#B68C6B;
+  thumbnail.url:https://oldschool.runescape.wiki/images/thumb/0/04/Dog.png/150px-Dog.png;
+  footer.icon_url:https://oldschool.runescape.wiki/images/thumb/1/13/Slayer_icon.png/20px-Slayer_icon.png;
+  footer.text:{time;DD-MM-YYYY;;;;} @ {time;HH:mm;;;;} UTC
+}}}
+
 
 {//;———————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————}
 
-34
+{//;34. Drakes} 
+{if;{capitalize;{args;0}};==;Drake;
+{embed;
+{buildembed;
+  title:__**Drake**__;
+  url:https://oldschool.runescape.wiki/w/Drake;
+  description:(Weight: 7): 
+
+> - __**Location**__: [Karuulm Slayer Dungeon](https://oldschool.runescape.wiki/w/Karuulm_Slayer_Dungeon)
+> - __**Items**__: [Boots of stone](https://oldschool.runescape.wiki/w/Boots_of_stone), [Slayer helmet](https://oldschool.runescape.wiki/w/Slayer_helmet) or nose protection
+> - __**Key drops**__: [Drake's tooth](https://oldschool.runescape.wiki/w/Drake%27s_tooth), [Drake's claw](https://oldschool.runescape.wiki/w/Drake%27s_claw), [Runite bar](https://oldschool.runescape.wiki/w/Runite_bar)
+> - __**Alternatives**__: None
+
+Drakes are **high-level draconic creatures** located deep in the **Karuulm Slayer Dungeon**. They have a **special lava attack** and a **powerful melee hit**, so **anti-fire** and **defensive prayers** are advised. They’re commonly farmed for **valuable uniques** like Drake’s claw and tooth.
+
+__**Assigned by**__:
+# :Konar: 
+;
+
+  color:#A3482F;
+  thumbnail.url:https://oldschool.runescape.wiki/images/thumb/2/27/Drake.png/150px-Drake.png;
+  footer.icon_url:https://oldschool.runescape.wiki/images/thumb/1/13/Slayer_icon.png/20px-Slayer_icon.png;
+  footer.text:{time;DD-MM-YYYY;;;;} @ {time;HH:mm;;;;} UTC
+}}}
+
 
 {//;———————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————}
 
-35
+{//;35. Nechryaels} 
+{if;{capitalize;{args;0}};==;Nechryael;
+{embed;
+{buildembed;
+  title:__**Nechryael**__;
+  url:https://oldschool.runescape.wiki/w/Nechryael;
+  description:(Weight: 7): 
+
+> - __**Location**__: [Slayer Tower](https://oldschool.runescape.wiki/w/Slayer_Tower), [Catacombs of Kourend](https://oldschool.runescape.wiki/w/Catacombs_of_Kourend)
+> - __**Items**__: [Slayer helmet](https://oldschool.runescape.wiki/w/Slayer_helmet) recommended
+> - __**Key drops**__: [Rune boots](https://oldschool.runescape.wiki/w/Rune_boots), [Ancient shards](https://oldschool.runescape.wiki/w/Ancient_shard), [Dark totem pieces](https://oldschool.runescape.wiki/w/Dark_totem)
+> - __**Alternatives**__: [Greater Nechryael](https://oldschool.runescape.wiki/w/Greater_Nechryael)
+
+Nechryaels are demonic creatures known for summoning death spawns when attacked. Found in both the Slayer Tower and the Catacombs, they offer **solid profit** through rune and dark totem drops.
+
+__**Assigned by**__:
+# :Nieve::Duradel::Konar: 
+;
+
+  color:#9B1B30;
+  thumbnail.url:https://oldschool.runescape.wiki/images/thumb/e/e1/Nechryael.png/150px-Nechryael.png;
+  footer.icon_url:https://oldschool.runescape.wiki/images/thumb/1/13/Slayer_icon.png/20px-Slayer_icon.png;
+  footer.text:{time;DD-MM-YYYY;;;;} @ {time;HH:mm;;;;} UTC
+}}}
+
 
 {//;———————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————}
 
-36
+{//;36. Ogres} 
+{if;{capitalize;{args;0}};==;Ogre;
+{embed;
+{buildembed;
+  title:__**Ogre**__;
+  url:https://oldschool.runescape.wiki/w/Ogre;
+  description:(Weight: 2): 
+
+> - __**Location**__: [Gu'Tanoth](https://oldschool.runescape.wiki/w/Gu%27Tanoth), [King Lathas's training grounds](https://oldschool.runescape.wiki/w/King_Lathas%27s_training_ground)
+> - __**Items**__: None required
+> - __**Key drops**__: [Big bones](https://oldschool.runescape.wiki/w/Big_bones), [Steel items](https://oldschool.runescape.wiki/w/Steel_equipment), [Various seeds](https://oldschool.runescape.wiki/w/Seed)
+> - __**Alternatives**__: [Zogres](https://oldschool.runescape.wiki/w/Zogre), [Feldip Hills Ogres](https://oldschool.runescape.wiki/w/Feldip_Hills)
+
+Ogres are **large, melee-based monsters** with **decent drops** and **low accuracy**, making them easy to train on. They’re also known for **seed and bone drops** useful for farming and prayer.
+
+__**Assigned by**__:
+# :Turael::Mazchna: 
+;
+
+  color:#5F8A47;
+  thumbnail.url:https://oldschool.runescape.wiki/images/thumb/3/3b/Ogre.png/150px-Ogre.png;
+  footer.icon_url:https://oldschool.runescape.wiki/images/thumb/1/13/Slayer_icon.png/20px-Slayer_icon.png;
+  footer.text:{time;DD-MM-YYYY;;;;} @ {time;HH:mm;;;;} UTC
+}}}
+
 
 {//;———————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————}
 
-37
+{//;37. Otherworldly beings} 
+{if;{capitalize;{args;0}} {capitalize;{args;1}};==;Otherworldly Being;
+{embed;
+{buildembed;
+  title:__**Otherworldly Being**__;
+  url:https://oldschool.runescape.wiki/w/Otherworldly_being;
+  description:(Weight: 1): 
+
+> - __**Location**__: [Zanaris](https://oldschool.runescape.wiki/w/Zanaris)
+> - __**Items**__: [Dramen staff](https://oldschool.runescape.wiki/w/Dramen_staff) or [Lunar staff](https://oldschool.runescape.wiki/w/Lunar_staff) to enter
+> - __**Key drops**__: [Cosmic runes](https://oldschool.runescape.wiki/w/Cosmic_rune), [Nature runes](https://oldschool.runescape.wiki/w/Nature_rune), [Coins](https://oldschool.runescape.wiki/w/Coins)
+> - __**Alternatives**__: None
+
+These glowing ghost-like beings roam **Zanaris** and drop a good amount of **mid-tier runes**. They’re **not aggressive**, and their drops are **helpful for Ironmen** or Rune crafters.
+
+__**Assigned by**__:
+# :Turael::Mazchna: 
+;
+
+  color:#A173C7;
+  thumbnail.url:https://oldschool.runescape.wiki/images/thumb/f/f5/Otherworldly_being.png/150px-Otherworldly_being.png;
+  footer.icon_url:https://oldschool.runescape.wiki/images/thumb/1/13/Slayer_icon.png/20px-Slayer_icon.png;
+  footer.text:{time;DD-MM-YYYY;;;;} @ {time;HH:mm;;;;} UTC
+}}}
+
+
+{//;———————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————}
+   
+{//;38. Pirates} 
+{if;{capitalize;{args;0}};==;Pirate;
+{embed;
+{buildembed;
+  title:__**Pirate**__;
+  url:https://oldschool.runescape.wiki/w/Pirate;
+  description:(Weight: 1): 
+
+> - __**Location**__: [Brimhaven](https://oldschool.runescape.wiki/w/Brimhaven), [Pirates’ Cove](https://oldschool.runescape.wiki/w/Pirates%27_Cove)
+> - __**Items**__: None required
+> - __**Key drops**__: [Steel scimitar](https://oldschool.runescape.wiki/w/Steel_scimitar), [Coins](https://oldschool.runescape.wiki/w/Coins), [Various low-tier items](https://oldschool.runescape.wiki/)
+> - __**Alternatives**__: None
+
+Pirates are **low-level enemies** found near ports and coves. They are commonly assigned by **early Slayer masters** and offer minimal loot, good only for beginners or diary tasks.
+
+__**Assigned by**__:
+# :Turael: 
+;
+
+  color:#778899;
+  thumbnail.url:https://i.gyazo.com/809225dbc62596ed7a81710345d79c8f.png;
+  footer.icon_url:https://oldschool.runescape.wiki/images/thumb/1/13/Slayer_icon.png/20px-Slayer_icon.png;
+  footer.text:{time;DD-MM-YYYY;;;;} @ {time;HH:mm;;;;} UTC
+}}}
 
 {//;———————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————}
 
-38
+{//;39. Pyrefiends} 
+{if;{capitalize;{args;0}};==;Pyrefiend;
+{embed;
+{buildembed;
+  title:__**Pyrefiend**__;
+  url:https://oldschool.runescape.wiki/w/Pyrefiend;
+  description:(Weight: 3): 
+
+> - __**Location**__: [Fremennik Slayer Dungeon](https://oldschool.runescape.wiki/w/Fremennik_Slayer_Dungeon)
+> - __**Items**__: [Slayer level 30](https://oldschool.runescape.wiki/w/Slayer)
+> - __**Key drops**__: [Steel boots](https://oldschool.runescape.wiki/w/Steel_boots), [Fire runes](https://oldschool.runescape.wiki/w/Fire_rune), [Coins](https://oldschool.runescape.wiki/w/Coins)
+> - __**Alternatives**__: [Jellies](https://oldschool.runescape.wiki/w/Jelly)
+
+Pyrefiends are **fiery elemental monsters** weak to **crush attacks**. They are great for **mid-level training**, but they have a **longer kill time** due to their moderate defense.
+
+__**Assigned by**__:
+# :Mazchna::Vannaka: 
+;
+
+  color:#D2691E;
+  thumbnail.url:https://oldschool.runescape.wiki/images/thumb/e/e5/Pyrefiend.png/150px-Pyrefiend.png;
+  footer.icon_url:https://oldschool.runescape.wiki/images/thumb/1/13/Slayer_icon.png/20px-Slayer_icon.png;
+  footer.text:{time;DD-MM-YYYY;;;;} @ {time;HH:mm;;;;} UTC
+}}}
+
 
 {//;———————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————}
 
-39
+{//;40. Rats} 
+{if;{capitalize;{args;0}};==;Rat;
+{embed;
+{buildembed;
+  title:__**Rat**__;
+  url:https://oldschool.runescape.wiki/w/Rat;
+  description:(Weight: 1): 
+
+> - __**Location**__: [Lumbridge](https://oldschool.runescape.wiki/w/Lumbridge), [Edgeville Dungeon](https://oldschool.runescape.wiki/w/Edgeville_Dungeon)
+> - __**Items**__: None required
+> - __**Key drops**__: None
+> - __**Alternatives**__: None
+
+Rats are the **weakest and most common** monsters across Gielinor. Mostly useful for **tutorials, low-level Slayer tasks**, or **filler assignments**.
+
+__**Assigned by**__:
+# :Turael: 
+;
+
+  color:#A9A9A9;
+  thumbnail.url:https://oldschool.runescape.wiki/images/thumb/6/6c/Rat.png/150px-Rat.png;
+  footer.icon_url:https://oldschool.runescape.wiki/images/thumb/1/13/Slayer_icon.png/20px-Slayer_icon.png;
+  footer.text:{time;DD-MM-YYYY;;;;} @ {time;HH:mm;;;;} UTC
+}}}
 
 {//;———————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————}
 
-40
+{//;41. Red dragons} 
+{if;{capitalize;{args;0}} {capitalize;{args;1}};==;Red Dragon;
+{embed;
+{buildembed;
+  title:__**Red Dragon**__;
+  url:https://oldschool.runescape.wiki/w/Red_dragon;
+  description:(Weight: 3): 
+
+> - __**Location**__: [Brimhaven Dungeon](https://oldschool.runescape.wiki/w/Brimhaven_Dungeon), [Taverley Dungeon](https://oldschool.runescape.wiki/w/Taverley_Dungeon)
+> - __**Items**__: [Anti-dragon shield](https://oldschool.runescape.wiki/w/Anti-dragon_shield), [Dragonfire protection](https://oldschool.runescape.wiki/w/Dragonfire)
+> - __**Key drops**__: [Dragon bones](https://oldschool.runescape.wiki/w/Dragon_bones), [Red dragonhide](https://oldschool.runescape.wiki/w/Red_dragonhide)
+> - __**Alternatives**__: [Baby Red Dragons](https://oldschool.runescape.wiki/w/Baby_red_dragon)
+
+Red dragons are **powerful monsters** that breathe **dragonfire** and drop **high-value bones and hides**. Best tackled with **ranged or magic** while protecting against dragonfire.
+
+__**Assigned by**__:
+# :Vannaka::Chaeldar: 
+;
+
+  color:#B22222;
+  thumbnail.url:https://oldschool.runescape.wiki/images/thumb/f/f8/Red_dragon.png/150px-Red_dragon.png;
+  footer.icon_url:https://oldschool.runescape.wiki/images/thumb/1/13/Slayer_icon.png/20px-Slayer_icon.png;
+  footer.text:{time;DD-MM-YYYY;;;;} @ {time;HH:mm;;;;} UTC
+}}}
+
 
 {//;———————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————}
 
-41
+{//;42. Deviant Spectres} 
+{if;{capitalize;{args;0}} {capitalize;{args;1}};==;Deviant Spectre;
+{embed;
+{buildembed;
+  title:__**Deviant Spectre**__;
+  url:https://oldschool.runescape.wiki/w/Deviant_spectre;
+  description:(Weight: 4): 
+
+> - __**Location**__: [Catacombs of Kourend](https://oldschool.runescape.wiki/w/Catacombs_of_Kourend)
+> - __**Items**__: [Nose peg](https://oldschool.runescape.wiki/w/Nose_peg) or [Slayer helmet](https://oldschool.runescape.wiki/w/Slayer_helmet)
+> - __**Key drops**__: [Ancient shards](https://oldschool.runescape.wiki/w/Ancient_shard), [Dark totem pieces](https://oldschool.runescape.wiki/w/Dark_totem), [Various herbs](https://oldschool.runescape.wiki/w/Herb)
+> - __**Alternatives**__: [Aberrant spectres](https://oldschool.runescape.wiki/w/Aberrant_spectre)
+
+Deviant Spectres are **stronger variants** of aberrant spectres, found exclusively in the **Catacombs of Kourend**. They have **higher Defence** and require **Protect from Magic** due to their aggressive nature in a multi-combat zone. They offer better drops, including **ancient shards** and **dark totem pieces**.
+
+__**Assigned by**__:
+# :Konar::Nieve::Duradel: 
+;
+
+  color:#7E57C2;
+  thumbnail.url:https://oldschool.runescape.wiki/images/thumb/3/3e/Deviant_spectre.png/150px-Deviant_spectre.png;
+  footer.icon_url:https://oldschool.runescape.wiki/images/thumb/1/13/Slayer_icon.png/20px-Slayer_icon.png;
+  footer.text:{time;DD-MM-YYYY;;;;} @ {time;HH:mm;;;;} UTC
+}}}
+
 
 {//;———————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————}
 
-42
+{//;43. Abyssal Sires} 
+{if;{capitalize;{args;0}} {capitalize;{args;1}};==;Abyssal Sire;
+{embed;
+{buildembed;
+  title:__**Abyssal Sire**__;
+  url:https://oldschool.runescape.wiki/w/Abyssal_Sire;
+  description:(Weight: 7): 
+
+> - __**Location**__: [Abyssal Nexus](https://oldschool.runescape.wiki/w/Abyssal_Sire)
+> - __**Items**__: [Slayer level 85](https://oldschool.runescape.wiki/w/Slayer), [Fairy ring code DIP](https://oldschool.runescape.wiki/w/Fairy_ring)
+> - __**Key drops**__: [Unsired](https://oldschool.runescape.wiki/w/Unsired), [Abyssal whip](https://oldschool.runescape.wiki/w/Abyssal_whip), [Abyssal dagger](https://oldschool.runescape.wiki/w/Abyssal_dagger)
+> - __**Alternatives**__: [Abyssal demons](https://oldschool.runescape.wiki/w/Abyssal_demon)
+
+The Abyssal Sire is a **Slayer boss** requiring level 85 Slayer to kill. Located in the **Abyssal Nexus**, it drops the **Unsired**, which can be used at the Font of Consumption for a chance at obtaining various abyssal items. The fight involves multiple phases, including disabling respiratory systems and dealing with spawned minions.
+
+__**Assigned by**__:
+# :Nieve::Duradel: 
+;
+
+  color:#8B0000;
+  thumbnail.url:https://oldschool.runescape.wiki/images/thumb/2/2d/Abyssal_Sire.png/150px-Abyssal_Sire.png;
+  footer.icon_url:https://oldschool.runescape.wiki/images/thumb/1/13/Slayer_icon.png/20px-Slayer_icon.png;
+  footer.text:{time;DD-MM-YYYY;;;;} @ {time;HH:mm;;;;} UTC
+}}}
+
 
 {//;———————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————}
 
-43
+{//;44. Kree'arras} 
+{if;{capitalize;{args;0}};==;Kree'arra;
+{embed;
+{buildembed;
+  title:__**Kree'arra**__;
+  url:https://oldschool.runescape.wiki/w/Kree%27arra;
+  description:(Weight: 7): 
+
+> - __**Location**__: [God Wars Dungeon – Armadyl's Eyrie](https://oldschool.runescape.wiki/w/Kree%27arra)
+> - __**Items**__: [70 Ranged](https://oldschool.runescape.wiki/w/Ranged), [Armadyl killcount](https://oldschool.runescape.wiki/w/God_Wars_Dungeon)
+> - __**Key drops**__: [Armadyl helmet](https://oldschool.runescape.wiki/w/Armadyl_helmet), [Armadyl chestplate](https://oldschool.runescape.wiki/w/Armadyl_chestplate), [Armadyl chainskirt](https://oldschool.runescape.wiki/w/Armadyl_chainskirt), [Armadyl hilt](https://oldschool.runescape.wiki/w/Armadyl_hilt)
+> - __**Alternatives**__: None
+
+Kree'arra is the **Armadyl general** in the God Wars Dungeon, requiring **70 Ranged** to access. He attacks with **ranged and magic**, and his **knockback effect** can disrupt positioning. Kree'arra is sought after for his **Armadyl equipment** and **Armadyl hilt** drops.
+
+__**Assigned by**__:
+# :Nieve::Duradel: 
+;
+
+  color:#1E90FF;
+  thumbnail.url:https://oldschool.runescape.wiki/images/thumb/0/0b/Kree%27arra.png/150px-Kree%27arra.png;
+  footer.icon_url:https://oldschool.runescape.wiki/images/thumb/1/13/Slayer_icon.png/20px-Slayer_icon.png;
+  footer.text:{time;DD-MM-YYYY;;;;} @ {time;HH:mm;;;;} UTC
+}}}
+
 
 {//;———————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————}
 
-44
+{//;Flight Kilisa} 
+{if;{capitalize;{args;0}} {capitalize;{args;1}};==;Flight Kilisa;
+{embed;
+{buildembed;
+  title:__**Flight Kilisa**__;
+  url:https://oldschool.runescape.wiki/w/Flight_Kilisa;
+  description:(Weight: N/A): 
 
-{//;———————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————}
+> - __**Location**__: [God Wars Dungeon – Armadyl's Eyrie](https://oldschool.runescape.wiki/w/God_Wars_Dungeon)
+> - __**Items**__: [Armadyl item](https://oldschool.runescape.wiki/w/God_wars_dungeon#Armadyl) to prevent aggression
+> - __**Key drops**__: [Armadyl helmet](https://oldschool.runescape.wiki/w/Armadyl_helmet), [Armadyl chestplate](https://oldschool.runescape.wiki/w/Armadyl_chestplate), [Godsword shard](https://oldschool.runescape.wiki/w/Godsword_shard)
+> - __**Alternatives**__: None
 
-45
+Flight Kilisa is one of **Kree'arra's minions** in the **Armadyl boss room** within the God Wars Dungeon. She attacks with **melee** and can be dangerous without **high Defence or protection prayers**. She must be killed when fighting **Kree'arra**.
+
+__**Assigned by**__:
+# 🚫
+;
+
+  color:#BCC6CC;
+  thumbnail.url:https://oldschool.runescape.wiki/images/thumb/f/f5/Flight_Kilisa.png/150px-Flight_Kilisa.png;
+  footer.icon_url:https://oldschool.runescape.wiki/images/thumb/1/13/Slayer_icon.png/20px-Slayer_icon.png;
+  footer.text:{time;DD-MM-YYYY;;;;} @ {time;HH:mm;;;;} UTC
+}}}
+
 
 {//;———————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————}
 

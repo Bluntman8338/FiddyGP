@@ -1,19 +1,51 @@
 Aberrant spectre  ✅
+    Deviant spectre
 Abyssal demon  ✅
+    Abyssal Sire
 Adamant dragon  ✅
 Ankou  ✅
 Aviansie  ✅
+    Kree'arra
+    Flight Kilisa
+    Flockleader Geerin
+    Wingman Skree
 Bandit  ✅
 Banshee  ✅
+    Twisted Banshee
 Basilisk  ✅
+    Knight Basilisk
 Bat  ✅
+    Giant Bat
+    Albino Bat
+    Deathwing
 Bear  ✅
+    Black Bear
+    Grizzly Bear
+    Callisto
 Bird  ✅
+    Chicken
+    Mounted Terrorbird Gnome
+    Rooster
+    Seagull
+    Terrorbird
+    Vulture
+    Undead Chicken
 Black demon  ✅
+    Demonic Gorilla
+    Balfrug Kreeyath
+    Skotizo
+    Porazdir
 Black dragon  ✅
+    Baby black dragon
+    King Black Dragon 
+    Brutal black dragon
 Black Knight  ✅
 Bloodveld  ✅
+    Mutated Bloodveld
 Blue dragon  ✅
+    Baby blue dragon
+    Burtal blue dragon
+    Vorkath
 Brine rat  ✅
 Bronze dragon  ✅
 Catablepon  ✅
@@ -21,34 +53,63 @@ Cave bug  ✅
 Cave crawler  ✅
 Cave horror  ✅
 Cave kraken  ✅
+    Kraken
 Cave slime  ✅
 Chaos druid  ✅
+    Elder Chaos druid
 Cockatrice  ✅
 Cow  ✅
+    Cow calf
+    Undead cow
 Crawling hand  ✅
 Crocodile  ✅
 Dagannoth  ✅
-Dark beast  
-Dark warrior  
-Dog  
-Drake  
+    Dagannoth fledgeling
+    Dagannoth spawn
+    Dagannoth Prime
+    Dagannoth Rex
+    Dagannoth Supreme
+Dark beast ✅ 
+Dark warrior  ✅
+Dog  ✅
+    Guard dog
+    Wild dog
+    Jackal
+    Temple Guardian
+Drake  ✅
 Dust devil  
 Dwarf  
+    Black Guard
+    Chaos Dwarf
 Earth warrior  
 Elf  
+    Mourner (108 variant only)
 Ent  
 Fever spider  
 Fire giant  
 Flesh crawler  
 Fossil Island wyvern  
+    Spitting Wyvern
+    Taloned Wyvern
+    Long-tailed Wyvern
+    Ancient Wyvern
 Gargoyle  
+    Marble gargoyle (Superior)
+    Grotesque Guardians (Boss)
 Ghost  
 Ghoul  
 Goblin  
-Greater demon  
+Greater demon 
+    K'ril Tsutsaroth (Boss)
+    Tstanon Karlak (Minion)
+    Skotizo (Boss) 
 Green dragon  
+    Baby green dragon
+    Brutal green dragon
 Harpie bug swarm  
 Hellhound  
+    Cerberus (Boss)
+    Skeletal Hellhound (Vet'ion's minion)
 Hill giant  
 Hobgoblin  
 Hydra  
@@ -58,13 +119,22 @@ Ice warrior
 Infernal mage  
 Iron dragon  
 Jelly  
+    Warped Jelly
+    Vitreous Jelly (Superior)
+    Vitreous Warped Jelly (Superior)
 Jungle horror  
 Kalphite  
+    Kalphite Worker
+    Kalphite Soldier
+    Kalphite Guardian
+    Kalphite Queen (Boss)
 Killerwatt  
 Kurask  
+    King Kurask (Superior)
 Lava dragon  
 Lesser demon  
 Lizardman  
+    Lizardman Shaman
 Magic axe  
 Mammoth  
 Minotaur  
@@ -73,13 +143,15 @@ Molanisk
 Monkey  
 Morge  
 Moss giant  
-Nechryael  
-Ogre  
-Otherworldly being  
-Pirate  
-Pyrefiend  
-Rat  
-Red dragon  
+    Bryophyta (Boss)
+    Moss Guardian (Superior)
+Nechryael  ✅
+Ogre  ✅
+Otherworldly being  ✅
+Pirate  ✅
+Pyrefiend  ✅
+Rat  ✅
+Red dragon  ✅
 Revenant  
 Rockslug  
 Rogue  
