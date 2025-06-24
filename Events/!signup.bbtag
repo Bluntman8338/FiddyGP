@@ -9,9 +9,12 @@ Thank you for attempting to sign up for the  events.
 Unfortunately, you have forgotten to add which event you would like to participate in into the command line.
 
 Try again by sending:
-`skill`, `boss` or `both`
-After the command, `!signup`
-Depending which event you want to signup
+`skill`, `boss` or `both` after the command.
+
+### __**Examples**__ 
+`!signup` `skill`
+`!signup` `boss`
+`!signup` `both`
 ;
 color:#E2B81A;
 thumbnail.url:{guildIcon};
