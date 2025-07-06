@@ -1,4 +1,4 @@
-{//;Slayer Command Usage} 
+{//;///////// [Command Usage] //////////}
 {embed;
 {buildembed;
   title:__**Welcome to the Slayer Diaries**__;
@@ -22,8 +22,14 @@ fields.value:You must enter a valid **[Monster Name](https://docs.google.com/doc
   footer.icon_url:https://oldschool.runescape.wiki/images/thumb/1/13/Slayer_icon.png/20px-Slayer_icon.png;
   footer.text:{time;DD-MM-YYYY;;;;} @ {time;HH:mm;;;;} UTC
 }}
+{//;
+*****************************************
+*\                E N D                /*
+*****************************************
+}
 
-{//;Task Weight Explanation} 
+
+{//;////////// [Task Weight] //////////}
 {if;{capitalize;{args;0}};==;Task;
 {if;{capitalize;{args;1}};==;Weight;
 {embed;
@@ -36,3 +42,8 @@ description:The weight determines how often a monster is assigned as a Slayer ta
   footer.icon_url:https://oldschool.runescape.wiki/images/thumb/1/13/Slayer_icon.png/20px-Slayer_icon.png;
   footer.text:{time;DD-MM-YYYY;;;;} @ {time;HH:mm;;;;} UTC
 }}}}
+{//;
+*****************************************
+*\                E N D                /*
+*****************************************
+}

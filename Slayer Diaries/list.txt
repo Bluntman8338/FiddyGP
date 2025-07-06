@@ -227,7 +227,6 @@
 
 [Standard] Jungle horrors
 
-
 [Standard] Kalphite
   - [Variant] Kalphite Worker 
   - [Variant] Kalphite Soldier 
@@ -239,9 +238,9 @@
 [Standard] Kurasks
   - [Superior] King kurask
 
-[Standard] Lava dragons
+[Standard] Lava dragon
 
-[Standard] Lesser demons
+[Standard] Lesser demon
   - [Variant] Zakl'n Gritch
 
 [Standard] Lesser Nagua
@@ -276,13 +275,13 @@
   - [Variant] Zombie monkey
   - [Variant] Padulah
 
-[Standard] Moss giants
+[Standard] Moss giant
 
 [Standard] Nechryael
   - [Variant] Greater Nechryael
   - [Superior] Nechryarch
 
-[Standard] 	Ogres
+[Standard] 	Ogre
   - [Variant] Ogre chieftain 
   - [Variant] Enclave guard 
   - [Variant] Ogress Shaman 
@@ -290,14 +289,14 @@
 
 [Standard] Otherworldly beings
 
-[Standard] Pirates
+[Standard] Pirate
 
-[Standard] 	Pyrefiends
+[Standard] 	Pyrefiend
   - [Variant] Pyrelord
   - [Superior] Flaming pyrelord 
   - [Superior] Infernal pyrelord 
 
-[Standard] Rats
+[Standard] Rat
   - [Variant] Giant rat,
   - [Variant] Dungeon rat,
   - [Variant] Crypt rat
@@ -305,38 +304,38 @@
   - [Variant] Hell-Rat Behemoth
   - [Boss] Scurrius
   
-[Standard] 	Red dragons
+[Standard] 	Red dragon
   - [Variant] Baby red dragons 
   - [Variant] Brutal red dragons
 
-[Standard] Revenants
+[Standard] Revenant
 
-[Standard] Rockslugs
+[Standard] Rockslug
   - [Superior] Giant rockslug
 
-[Standard] 	Rogues
+[Standard] 	Rogue
 
-[Standard] Rune Dragons
+[Standard] Rune Dragon
 
-[Standard] Scabarites
+[Standard] Scabarite
   - [Variant] Locust riders 
   - [Variant] Scarab mages 
   - [Variant] Scarab swarms 
   - [Variant] Small scarabs 
 
-[Standard] 	Scorpions
+[Standard] 	Scorpion
   - [Variant] King Scorpion 
   - [Variant] Poison Scorpion 
   - [Variant] Pit Scorpion 
   - [Variant] Scorpia 
   - [Variant] Lobstrosity
 
-[Standard] 	Sea snakes
+[Standard] 	Sea snake
   - [Variant] Sea Snake Hatchling 
   - [Variant] Sea Snake Young 
   - [Variant] Giant Sea Snake 
 
-[Standard] Shades
+[Standard] Shade
   - [Variant] Loar
   - [Variant] Phryn,
   - [Variant] Riyl,
@@ -344,22 +343,22 @@
   - [Variant] Fiyr shades
     - [Note] Also Ghosts count
 
-[Standard] Shadow warriors
+[Standard] Shadow warrior
 
-[Standard] Skeletal Wyverns
+[Standard] Skeletal Wyvern
 
-[Standard] Skeletons
+[Standard] Skeleton
   - [Boss] Vet'ion 
   - [Boss] Calvar'ion
 
-  [Standard] Smoke devils
+  [Standard] Smoke devil
   - [Variant] Thermonuclear smoke devil 
   - [Variant] Nuclear smoke devil 
   - [Superior] Nuclear smoke devil 
 
-[Standard] Sourhogs
+[Standard] Sourhog
 
-[Standard] Spiders
+[Standard] Spider
   - [Variant] Giant spider,
   - [Variant] Shadow spider,
   - [Variant] Jungle spider,
@@ -375,10 +374,56 @@
   - [Variant] Araxyte,
   - [Variant] Araxxor
 
-[Standard] 	Spiritual creatures
+[Standard] 	Spiritual creature
 
-[Standard] 	Steel dragons
+[Standard] 	Steel dragon
 
-[Standard] 	Suqahs
+[Standard] 	Suqah
 
-[Standard] Terror dogs
+[Standard] Terror dog
+
+[Standard] Trolls
+  - [Variant] Mountain troll
+  - [Variant] Ice troll grunt
+  - [Variant] Runt
+  - [Variant] Male
+  - [Variant] Female
+  - [Variant] Ice troll
+  - [Variant] River troll
+  
+[Standard] Turoth
+  - [Superior] Spiked Turoth
+  
+[Standard] TzHaar
+  - [Variant] TzTok-Jad
+  - [Variant] TzKal-Zuk
+  
+[Standard] Vampyres
+  - [Variant] Vyrewatch
+  - [Variant] Vyrewatch Sentinel
+
+[Standard] Wall beasts
+
+[Standard] Warped creatures
+  - [Superior] Mutated Terrorbird
+  - [Superior] Mutated Tortoise
+  
+[Standard] Waterfiends
+
+[Standard] Werewolves
+
+[Standard] Wolves
+  - [Variant] Big Wolf  
+  - [Variant] Dire wolf  
+  - [Variant] Jungle wolf  
+  - [Variant] Desert Wolf  
+  - [Variant] Ice Wolf
+
+[Standard] Wyrms
+  - [Superior] Shadow Wyrm
+
+[Standard] Zombies
+  - [Note] Any zombie-class except Zogres and Zombie monkeys
+
+[Standard] Zygomites
+  - [Variant] Ancient Zygomite
