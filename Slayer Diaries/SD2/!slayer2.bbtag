@@ -52,7 +52,8 @@ description:The weight determines how often a monster is assigned as a Slayer ta
 {if;{capitalize;{args;0}} {capitalize;{args;1}};==;Aberrant Spectre;
 {embed;
 {buildembed;
-title:__**Aberrant Spectres**__{newline}(https://oldschool.runescape.wiki/w/Aberrant_spectre);
+title:__**Aberrant Spectres**__;
+url:(https://oldschool.runescape.wiki/w/Aberrant_spectre);
 description:(Type::green_circle: Standard)
 (Weight: 6):
 
