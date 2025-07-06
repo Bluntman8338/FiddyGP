@@ -54,7 +54,11 @@ description:The weight determines how often a monster is assigned as a Slayer ta
 {buildembed;
 title:__**Aberrant Spectres**__{newline}(https://oldschool.runescape.wiki/w/Aberrant_spectre);
 description:(Type::green_circle: Standard)
-(Weight: 6):;
+(Weight: 6):
+
+📜 __**Assigned by**__:
+> # <:Mazchna:1356028248391159901><:Vannaka:1356028255898964120><:Chaeldar:1356028242540101672><:Konar:1356028245530644742><:Nieve:1356028249255444622><:Duradel:1356028243777425579>
+;
 
 fields.name:📌 __**Information**__;
 fields.value:
@@ -69,11 +73,9 @@ fields.value:> __***DO***__ — Great for herb stacks, dark totem pieces, and pa
 fields.name:📖 __**Summary**__:;
 fields.value:> Aberrant Spectres require 60 Slayer and a nose peg or Slayer helmet. They attack with Magic, so Protect from Magic or high defence gear is recommended. Catacombs are ideal due to Prayer restoration and shard drops. Superiors give better loot and XP.;
 
-fields.name:📜 __**Assigned by**__:; 
-fields.value: 
-> <:Mazchna:1356028248391159901><:Vannaka:1356028255898964120><:Chaeldar:1356028242540101672><:Konar:1356028245530644742><:Nieve:1356028249255444622><:Duradel:1356028243777425579> ;
+
 color:#7AAB61;
 thumbnail.url:https://oldschool.runescape.wiki/images/thumb/b/bb/Aberrant_spectre.png/120px-Aberrant_spectre.png;
 footer.icon_url:https://gyazo.com/eba1012515f77f8f231e1ecff813d27a.png;
-footer.text:{time;DD-MM-YYYY;;;;} @ {time;HH:mm;;;;} UTC
+footer.text:{time;DD-MM-YYYY;;;;} @ {time;HH:mm;;;;} UTC  |  Requested by {userNickname;{messageSender}}
 }}}
