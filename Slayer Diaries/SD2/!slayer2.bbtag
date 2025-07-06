@@ -47,3 +47,33 @@ description:The weight determines how often a monster is assigned as a Slayer ta
 *\                E N D                /*
 *****************************************
 }
+
+{//;////////// 01. Aberrant Spectres //////////}
+{if;{capitalize;{args;0}} {capitalize;{args;1}};==;Aberrant Spectre;
+{embed;
+{buildembed;
+title:__**Aberrant Spectres**__{newline}(https://oldschool.runescape.wiki/w/Aberrant_spectre);
+description:(Type::green_circle: Standard)
+(Weight: 6):;
+
+fields.name:📌 __**Information**__;
+fields.value:
+> - __**Location**__: [Slayer Tower](https://oldschool.runescape.wiki/w/Slayer_Tower), [Catacombs of Kourend](https://oldschool.runescape.wiki/w/Catacombs_of_Kourend)
+> - __**Items**__: [Nose peg](https://oldschool.runescape.wiki/w/Nose_peg) or [Slayer helmet](https://oldschool.runescape.wiki/w/Slayer_helmet), [Prayer gear](https://oldschool.runescape.wiki/w/Prayer_armour), [Magic defence](https://oldschool.runescape.wiki/w/Magic_armour)
+> - __**Key drops**__: [Herbs](https://oldschool.runescape.wiki/w/Herblore), [Rune items](https://oldschool.runescape.wiki/w/Rune_equipment), [Lava battlestaff](https://oldschool.runescape.wiki/w/Lava_battlestaff), [Clue scroll (hard)](https://oldschool.runescape.wiki/w/Clue_scroll_(Hard))
+> - __**Alternatives**__: [Deviant spectre](https://oldschool.runescape.wiki/w/Deviant_spectre), [Abhorrent Spectre](https://oldschool.runescape.wiki/w/Abhorrent_spectre), [Repugnant Spectre](https://oldschool.runescape.wiki/w/Repugnant_spectre);
+
+fields.name:<:Ironman:1391543679818137610> __**Ironman**__:;
+fields.value:> __***DO***__ — Great for herb stacks, dark totem pieces, and passive clues;
+
+fields.name:📖 __**Summary**__:;
+fields.value:> Aberrant Spectres require 60 Slayer and a nose peg or Slayer helmet. They attack with Magic, so Protect from Magic or high defence gear is recommended. Catacombs are ideal due to Prayer restoration and shard drops. Superiors give better loot and XP.;
+
+fields.name:📜 __**Assigned by**__:; 
+fields.value: 
+> <:Mazchna:1356028248391159901><:Vannaka:1356028255898964120><:Chaeldar:1356028242540101672><:Konar:1356028245530644742><:Nieve:1356028249255444622><:Duradel:1356028243777425579> ;
+color:#7AAB61;
+thumbnail.url:https://oldschool.runescape.wiki/images/thumb/b/bb/Aberrant_spectre.png/120px-Aberrant_spectre.png;
+footer.icon_url:https://gyazo.com/eba1012515f77f8f231e1ecff813d27a.png;
+footer.text:{time;DD-MM-YYYY;;;;} @ {time;HH:mm;;;;} UTC
+}}}
