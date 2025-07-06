@@ -1,191 +1,384 @@
-Aberrant spectre  ✅
-    Deviant spectre
-Abyssal demon  ✅
-    Abyssal Sire
-Adamant dragon  ✅
-Ankou  ✅
-Aviansie  ✅
-    Kree'arra
-    Flight Kilisa
-    Flockleader Geerin
-    Wingman Skree
-Bandit  ✅
-Banshee  ✅
-    Twisted Banshee
-Basilisk  ✅
-    Knight Basilisk
-Bat  ✅
-    Giant Bat
-    Albino Bat
-    Deathwing
-Bear  ✅
-    Black Bear
-    Grizzly Bear
-    Callisto
-Bird  ✅
-    Chicken
-    Mounted Terrorbird Gnome
-    Rooster
-    Seagull
-    Terrorbird
-    Vulture
-    Undead Chicken
-Black demon  ✅
-    Demonic Gorilla
-    Balfrug Kreeyath
-    Skotizo
-    Porazdir
-Black dragon  ✅
-    Baby black dragon
-    King Black Dragon 
-    Brutal black dragon
-Black Knight  ✅
-Bloodveld  ✅
-    Mutated Bloodveld
-Blue dragon  ✅
-    Baby blue dragon
-    Burtal blue dragon
-    Vorkath
-Brine rat  ✅
-Bronze dragon  ✅
-Catablepon  ✅
-Cave bug  ✅
-Cave crawler  ✅
-Cave horror  ✅
-Cave kraken  ✅
-    Kraken
-Cave slime  ✅
-Chaos druid  ✅
-    Elder Chaos druid
-Cockatrice  ✅
-Cow  ✅
-    Cow calf
-    Undead cow
-Crawling hand  ✅
-Crocodile  ✅
-Dagannoth  ✅
-    Dagannoth fledgeling
-    Dagannoth spawn
-    Dagannoth Prime
-    Dagannoth Rex
-    Dagannoth Supreme
-Dark beast ✅ 
-Dark warrior  ✅
-Dog  ✅
-    Guard dog
-    Wild dog
-    Jackal
-    Temple Guardian
-Drake  ✅
-Dust devil  
-Dwarf  
-    Black Guard
-    Chaos Dwarf
-Earth warrior  
-Elf  
-    Mourner (108 variant only)
-Ent  
-Fever spider  
-Fire giant  
-Flesh crawler  
-Fossil Island wyvern  
-    Spitting Wyvern
-    Taloned Wyvern
-    Long-tailed Wyvern
-    Ancient Wyvern
-Gargoyle  
-    Marble gargoyle (Superior)
-    Grotesque Guardians (Boss)
-Ghost  
-Ghoul  
-Goblin  
-Greater demon 
-    K'ril Tsutsaroth (Boss)
-    Tstanon Karlak (Minion)
-    Skotizo (Boss) 
-Green dragon  
-    Baby green dragon
-    Brutal green dragon
-Harpie bug swarm  
-Hellhound  
-    Cerberus (Boss)
-    Skeletal Hellhound (Vet'ion's minion)
-Hill giant  
-Hobgoblin  
-Hydra  
-Icefiend  
-Ice giant  
-Ice warrior  
-Infernal mage  
-Iron dragon  
-Jelly  
-    Warped Jelly
-    Vitreous Jelly (Superior)
-    Vitreous Warped Jelly (Superior)
-Jungle horror  
-Kalphite  
-    Kalphite Worker
-    Kalphite Soldier
-    Kalphite Guardian
-    Kalphite Queen (Boss)
-Killerwatt  
-Kurask  
-    King Kurask (Superior)
-Lava dragon  
-Lesser demon  
-Lizardman  
-    Lizardman Shaman
-Magic axe  
-Mammoth  
-Minotaur  
-Mithril dragon  
-Molanisk  
-Monkey  
-Morge  
-Moss giant  
-    Bryophyta (Boss)
-    Moss Guardian (Superior)
-Nechryael  ✅
-Ogre  ✅
-Otherworldly being  ✅
-Pirate  ✅
-Pyrefiend  ✅
-Rat  ✅
-Red dragon  ✅
-Revenant  
-Rockslug  
-Rogue  
-Rune dragon  
-Scabarite  
-Scorpion  
-Sea snake  
-Shade  
-Shadow warrior  
-Skeletal wyvern  
-Skeleton  
-Smoke devil  
-Sourhog  
-Spider  
-Spiritual creature  
-Steel dragon  
-Suqah    
-Terror dog  
-Troll  
-Turoth  
-Vampyre  
-Wall beast  
-Waterfiend  
-Weight  
-Werewolf    
-Wolf  
-Wyrm  
-Zombie  
-Zygomite  
+[Standard] Aberrant spectre
+  - [Variant] Deviant spectre
+  - [Superior] Abhorrent spectre
+  - [Superior] Repugnant spectre 
+
+[Standard] Abyssal demon
+  - [Variant] Abyssal Sire
+  - [Superior] Greater abyssal demon
+
+[Standard] Adamant dragon
+
+[Standard] Ankou
+
+[Standard] Araxyte
+  - [Variant] Araxxor
+  - [Superior] Dreadborn Araxyte
+
+[Standard] Aviansie
+  - [Variant] Kree'arra 
+  - [Variant] Flight Kilisa 
+  - [Variant] Flockleader Geerin 
+  - [Variant] Wingman Skree
+
+[Standard] Bandit
+  - [Variant] Black Heather 
+  - [Variant] Speedy Keith 
+  - [Variant] Donny the lad 
+
+[Standard] Banshee
+  - [Variant] Twisted Banshee
+  - [Superior] Screaming banshee
+  - [Superior] Screaming twisted banshee
+
+[Standard] Basilisk
+  - [Variant] Basilisk Knights
+  - [Superior] Monstrous basilisk
+  - [Superior] Basilisk Sentinel
+
+[Standard] Bat
+  - [Variant] Giant bat
+  - [Variant] Albino bat
+  - [Variant] Deathwing
+
+[Standard] Bears
+  - [Variant] Black bear
+  - [Variant] Grizzly bear
+  - [Variant] Grizzly bear cub
+  - [Variant] Callisto
+  - [Variant] Artio
+
+[Standard] Bird
+  - [Variant] Chicken 
+  - [Variant] Mounted terrorbird gnome 
+  - [Variant] Rooster 
+  - [Variant] Seagull 
+  - [Variant] Terrorbird 
+  - [Variant] Vulture 
+  - [Variant] Undead chicken 
+  - [Variant] Chompy Bird	
+
+[Standard] Black demon
+  - [Variant] Demonic gorilla 
+  - [Variant] Balfrug Kreeyath 
+  - [Variant] Porazdir 
+  - [Boss] Skotizo 
+
+[Standard] Black dragon
+  - [Variant] Baby black dragon 
+  - [Variant] Brutal black dragon 
+  - [Boss] King Black Dragon 
+
+[Standard] Black Knight
+
+[Standard] Bloodveld
+  - [Variant] Mutated Bloodveld
+  - [Superior] Insatiable Bloodveld
+  - [Superior] Insatiable mutated Bloodveld
+
+[Standard] Blue dragon
+  - [Variant] Baby blue dragon
+  - [Variant] Brutal blue dragon,
+  - [Boss] Vorkath
+
+[Standard] Brine rat
+
+[Standard] Bronze dragon
+
+[Standard] Catablepon
+
+[Standard] Cave bug
+
+[Standard] 	Cave crawler
+  - [Superior] 	Chasm Crawler
+
+[Standard] Cave horror
+  - [Superior] Cave abomination
+
+[Standard] Cave slime
+
+[Standard] Cave kraken
+  - [Boss] Kraken
+
+[Standard] Chaos druid
+  - [Variant] Elder Chaos druid
+
+[Standard] 	Cockatrice
+  - [Superior] Cockathrice
+
+[Standard] Cow
+  - [Variant] Cow calf
+  - [Variant] Undead cows
+
+[Standard] Crab
+  - [Variant] Ammonite Crab 
+  - [Variant] Frost Crab 
+  - [Variant] King Sand Crab 
+  - [Variant] Rock Crab 
+  - [Variant] Sand Crab 
+  - [Variant] Swamp Crab 
+
+[Standard] Crawling Hand
+  - [Superior] Crushing hand
+
+[Standard] Crocodile
+
+[Standard] Dagannoth
+  - [Variant] Dagannoth fledgeling 
+  - [Variant] Dagannoth spawn 
+  - [Boss] Dagannoth Prime 
+  - [Boss] Dagannoth Rex 
+  - [Boss] Dagannoth Supreme
+
+[Standard] Dark beast
+  - [Superior] Night beast
+
+[Standard] Dark warrior
+
+[Standard] Dog
+  - [Variant] Guard dog 
+  - [Variant] Wild dog 
+  - [Variant] Jackal 
+  - [Variant] Temple Guardian
+
+[Standard] Drake
+  - [Superior] Guardian Drake
+
+[Standard] Dust devils
+  - [Superior] Choke devil
+
+[Standard] Dwarves
+  - [Variant] Black Guard 
+  - [Variant] Chaos dwarf
+
+[Standard] Earth Warriors
+
+[Standard] Elves
+  - [Variant] Mourner (Lvl 108 variant only)
+
+[Standard] Ent
+
+[Standard] Fever spiders
+
+[Standard] Fire giant
+  - [Variant] Branda the Fire Queen
+
+[Standard] Flesh Crawlers
+
+[Standard] Fossil Island Wyvern
+  - [Variant] Ancient wyvern
+  - [Variant] Spitting wyvern
+  - [Variant] Taloned wyvern
+  - [Variant] Long-tailed wyvern
+
+[Standard] Gargoyle
+  - [Variant] Grotesque Guardians
+  - [Superior] Marble gargoyle
+
+[Standard] Ghosts
+  - [Variant] Tortured soul
+
+[Standard] Ghouls
+  - [Variant] Sergeant Strongstack
+  - [Variant] Sergeant Grimspike
+  - [Variant] Sergeant Steelwill
+  - [Variant] Cave Goblin
+
+[Standard] 	Greater demons
+  - [Variant] K'ril Tsutsaroth,
+  - [Variant] Tstanon Karlak,
+  - [Variant] Tormented Demons
+  - [Boss] Skotizo 
+
+[Standard] Green dragons
+  - [Variant] Baby green dragon
+  - [Variant] Brutal green dragon
+  - [Variant] Elvarg
+
+[Standard] Harpie bug swarms
+
+[Standard] Hill Giant
+  - [Variant] Cyclops
+  - [Boss] Obor
+
+[Standard] Hobgoblins
+
+[Standard] Hydras
+  - [Variant] Alchemical Hydra
+  - [Superior] Colossal Hydra
+
+[Standard] Icefiends
+
+[Standard] Ice giants
+  - [Boss] Eldric the Ice King
+
+[Standard] Ice warriors
+  - [Variant] Icelord
+
+[Standard] Infernal Mages
+  - [Superior] 	Malevolent Mage
+
+[Standard] Iron dragons
+
+[Standard] 	Jellies
+  - [Variant] Warped Jelly
+  - [Superior] Vitreous Jelly 
+  - [Superior] Vitreous warped Jelly
+
+[Standard] Jungle horrors
 
 
+[Standard] Kalphite
+  - [Variant] Kalphite Worker 
+  - [Variant] Kalphite Soldier 
+  - [Variant] Kalphite Guardian
+  - [Boss] Kalphite Queen
 
-Subsections
+[Standard] Killerwatts
 
-Wild 
-Blank (Explanation)  ✅
-Task (Weight)  ✅
+[Standard] Kurasks
+  - [Superior] King kurask
+
+[Standard] Lava dragons
+
+[Standard] Lesser demons
+  - [Variant] Zakl'n Gritch
+
+[Standard] Lesser Nagua
+  - [Boss] Amoxliatl
+
+[Standard] Lizardmen
+  - [Variant] Lizardman brute 
+  - [Variant] Lizardman shaman
+
+[Standard] Lizard
+  - [Variant] Desert Lizard
+  - [Variant] Grimy Lizard 
+  - [Variant] Lizard
+  - [Variant] Small Lizard
+  - [Variant] Sulphur Lizard
+
+[Standard] Magic axe
+
+[Standard] Mammoth
+
+[Standard] 	Mithril dragon
+
+[Standard] Minotaur
+
+[Standard] Mogre
+
+[Standard] Molanisk
+
+[Standard] Monkey
+  - [Variant] Monkey Guard,
+  - [Variant] Monkey Archer
+  - [Variant] Zombie monkey
+  - [Variant] Padulah
+
+[Standard] Moss giants
+
+[Standard] Nechryael
+  - [Variant] Greater Nechryael
+  - [Superior] Nechryarch
+
+[Standard] 	Ogres
+  - [Variant] Ogre chieftain 
+  - [Variant] Enclave guard 
+  - [Variant] Ogress Shaman 
+  - [Variant] Ogress Warrior 
+
+[Standard] Otherworldly beings
+
+[Standard] Pirates
+
+[Standard] 	Pyrefiends
+  - [Variant] Pyrelord
+  - [Superior] Flaming pyrelord 
+  - [Superior] Infernal pyrelord 
+
+[Standard] Rats
+  - [Variant] Giant rat,
+  - [Variant] Dungeon rat,
+  - [Variant] Crypt rat
+  - [Variant] Brine rat,
+  - [Variant] Hell-Rat Behemoth
+  - [Boss] Scurrius
+  
+[Standard] 	Red dragons
+  - [Variant] Baby red dragons 
+  - [Variant] Brutal red dragons
+
+[Standard] Revenants
+
+[Standard] Rockslugs
+  - [Superior] Giant rockslug
+
+[Standard] 	Rogues
+
+[Standard] Rune Dragons
+
+[Standard] Scabarites
+  - [Variant] Locust riders 
+  - [Variant] Scarab mages 
+  - [Variant] Scarab swarms 
+  - [Variant] Small scarabs 
+
+[Standard] 	Scorpions
+  - [Variant] King Scorpion 
+  - [Variant] Poison Scorpion 
+  - [Variant] Pit Scorpion 
+  - [Variant] Scorpia 
+  - [Variant] Lobstrosity
+
+[Standard] 	Sea snakes
+  - [Variant] Sea Snake Hatchling 
+  - [Variant] Sea Snake Young 
+  - [Variant] Giant Sea Snake 
+
+[Standard] Shades
+  - [Variant] Loar
+  - [Variant] Phryn,
+  - [Variant] Riyl,
+  - [Variant] Asyn 
+  - [Variant] Fiyr shades
+    - [Note] Also Ghosts count
+
+[Standard] Shadow warriors
+
+[Standard] Skeletal Wyverns
+
+[Standard] Skeletons
+  - [Boss] Vet'ion 
+  - [Boss] Calvar'ion
+
+  [Standard] Smoke devils
+  - [Variant] Thermonuclear smoke devil 
+  - [Variant] Nuclear smoke devil 
+  - [Superior] Nuclear smoke devil 
+
+[Standard] Sourhogs
+
+[Standard] Spiders
+  - [Variant] Giant spider,
+  - [Variant] Shadow spider,
+  - [Variant] Jungle spider,
+  - [Variant] Deadly red spider,
+  - [Variant] Poison spider,
+  - [Variant] Blessed spider
+  - [Variant] Kalrag,
+  - [Variant] Crypt spider,
+  - [Variant] Temple Spider,
+  - [Variant] Sarachnis,
+  - [Variant] Spindel,
+  - [Variant] Venenatis,
+  - [Variant] Araxyte,
+  - [Variant] Araxxor
+
+[Standard] 	Spiritual creatures
+
+[Standard] 	Steel dragons
+
+[Standard] 	Suqahs
+
+[Standard] Terror dogs

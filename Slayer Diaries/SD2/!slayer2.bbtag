@@ -1,0 +1,38 @@
+{//;Slayer Command Usage} 
+{embed;
+{buildembed;
+  title:__**Welcome to the Slayer Diaries**__;
+  description:This command provides details about the specified **Slayer monster**, including **locations, drops, and requirements**. Whether you're looking for the best places to hunt, notable loot, or necessary preparations, this tool ensures you have everything needed for efficient Slayer training.;
+
+fields.name:__**Usage**__:;
+fields.value:`!slayer <monster>`;
+fields.name:__**Example**__:; 
+fields.value:`!slayer Abyssal demon`;
+
+fields.name:__**Sub Sections**__:;
+fields.value:`task` `master` `masters` `wild`;
+fields.name:__**Example**__:; 
+fields.value:`!slayer task weight`;
+
+fields.name:__**Note**__:; 
+fields.value:You must enter a valid **[Monster Name](https://docs.google.com/document/d/1ZOSL-9NY64oa9TfRyB1a0p-UP4v3VuTS3E2JyrOsaGg/edit?usp=sharing)**.;
+
+  color:#E2B81A;
+  thumbnail.url:https://gyazo.com/5924225206a61cb40188c12200294334.png;
+  footer.icon_url:https://oldschool.runescape.wiki/images/thumb/1/13/Slayer_icon.png/20px-Slayer_icon.png;
+  footer.text:{time;DD-MM-YYYY;;;;} @ {time;HH:mm;;;;} UTC
+}}
+
+{//;Task Weight Explanation} 
+{if;{capitalize;{args;0}};==;Task;
+{if;{capitalize;{args;1}};==;Weight;
+{embed;
+{buildembed;
+  title:__**Task Weight Explanation**__;
+description:The weight determines how often a monster is assigned as a Slayer task. Higher weight means a higher chance of being picked. For example, if Aberrant Spectres have a weight of 6 and Gargoyles have 10, Gargoyles are more likely to be assigned. Other factors like blocked tasks and Slayer level also affect the outcome.;
+
+  color:#E2B81A;
+  thumbnail.url:https://gyazo.com/5924225206a61cb40188c12200294334.png;
+  footer.icon_url:https://oldschool.runescape.wiki/images/thumb/1/13/Slayer_icon.png/20px-Slayer_icon.png;
+  footer.text:{time;DD-MM-YYYY;;;;} @ {time;HH:mm;;;;} UTC
+}}}}
