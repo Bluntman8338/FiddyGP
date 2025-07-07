@@ -2,25 +2,42 @@
 {embed;
 {buildembed;
   title:__**Welcome to the Slayer Diaries**__;
-  description:This command provides details about the specified **Slayer monster**, including **locations, drops, and requirements**. Whether you're looking for the best places to hunt, notable loot, or necessary preparations, this tool ensures you have everything needed for efficient Slayer training.;
+  description:This command provides details about your specified ***Slayer monster***, 
+Including:
+```🟢 Standard Monsters
+🟣 Variants
+🔺 Superiors
+👑 Bosses
+```
+Also useful information like 
+- Locations 
+- Key drops
+- Item requirements
+&
+- If **Ironman** should ***Do/Skip/Block*** it
 
-fields.name:__**Usage**__:;
-fields.value:`!slayer <monster>`;
-fields.name:__**Example**__:; 
-fields.value:`!slayer Abyssal demon`;
+Whether you're looking for the best places to hunt, notable loot, or necessary preparations, this tool ensures you have everything needed for efficient Slayer training.
+;
 
 fields.name:__**Sub Sections**__:;
-fields.value:`task` `master` `masters` `wild`;
+fields.value:`task`, `master`, `masters`, `wild`;
+
 fields.name:__**Example**__:; 
-fields.value:`!slayer task weight`;
+fields.value:`!slayer monsterName`
+`!slayer master Name`
+`!slayer task weight`
+`!slayer wild tips`
+;
 
 fields.name:__**Note**__:; 
-fields.value:You must enter a valid **[Monster Name](https://docs.google.com/document/d/1ZOSL-9NY64oa9TfRyB1a0p-UP4v3VuTS3E2JyrOsaGg/edit?usp=sharing)**.;
+fields.value:You must enter a valid **[Monster Name](https://docs.google.com/document/d/12gZubkI0Kj0GI2I1_fz1ArtkGUjAs-AbKi9HIYbOLlw/view?usp=drivesdk)**.
+```[Monster Names are NOT Case Sensitive]```
+;
 
-  color:#E2B81A;
-  thumbnail.url:https://gyazo.com/5924225206a61cb40188c12200294334.png;
+color:#E2B81A;
+thumbnail.url:https://gyazo.com/5924225206a61cb40188c12200294334.png;
   footer.icon_url:https://oldschool.runescape.wiki/images/thumb/1/13/Slayer_icon.png/20px-Slayer_icon.png;
-  footer.text:{time;DD-MM-YYYY;;;;} @ {time;HH:mm;;;;} UTC
+footer.text:{time;DD-MM-YYYY;;;;} @ {time;HH:mm;;;;} UTC  |  Requested by {userNickname;{messageSender}}
 }}
 {//;
 *****************************************
@@ -53,7 +70,7 @@ description:The weight determines how often a monster is assigned as a Slayer ta
 {embed;
 {buildembed;
 title:__**Aberrant Spectres**__;
-url:(https://oldschool.runescape.wiki/w/Aberrant_spectre);
+url:https://oldschool.runescape.wiki/w/Aberrant_spectre;
 description:(Type::green_circle: Standard)
 (Weight: 6):
 
