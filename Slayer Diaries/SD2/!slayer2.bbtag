@@ -1,3 +1,11 @@
+{//;
+**************************************************************************************************************************************
+***\                                                                                                                              /***
+***\                                                     Info Cmds                                                                /***
+***\                                                                                                                              /***
+**************************************************************************************************************************************
+}
+
 {//;///////// [Command Usage] //////////}
 {embed;
 {buildembed;
@@ -107,7 +115,7 @@ fields.value:
 fields.name:💎 __**Drops & Variants**__;
 fields.value:
 > - [Herbs](https://oldschool.runescape.wiki/w/Herblore), [Rune items](https://oldschool.runescape.wiki/w/Rune_equipment), [Lava battlestaff](https://oldschool.runescape.wiki/w/Lava_battlestaff), [Clue scroll (hard)](https://oldschool.runescape.wiki/w/Clue_scroll_(Hard))  
-> - Related: [Deviant spectre](https://oldschool.runescape.wiki/w/Deviant_spectre), [Abhorrent Spectre](https://oldschool.runescape.wiki/w/Abhorrent_spectre), [Repugnant Spectre](https://oldschool.runescape.wiki/w/Repugnant_spectre)
+> - Variant: [Deviant spectre](https://oldschool.runescape.wiki/w/Deviant_spectre), [Abhorrent Spectre](https://oldschool.runescape.wiki/w/Abhorrent_spectre), [Repugnant Spectre](https://oldschool.runescape.wiki/w/Repugnant_spectre)
 ;
 
 fields.name:<:Ironman:1391543679818137610> __**Ironman**__:;
@@ -122,7 +130,11 @@ thumbnail.url:https://oldschool.runescape.wiki/images/thumb/b/bb/Aberrant_spectr
 footer.icon_url:https://gyazo.com/eba1012515f77f8f231e1ecff813d27a.png;
 footer.text:{time;DD-MM-YYYY;;;;} @ {time;HH:mm;;;;} UTC  |  Requested by {userNickname;{messageSender}}
 }}}
-
+{//;
+*****************************************
+*\                E N D                /*
+*****************************************
+}
 
 
 {//;////////// 02. Deviant Spectres //////////}
@@ -147,7 +159,7 @@ fields.value:
 fields.name:💎 __**Drops & Variants**__;
 fields.value:
 > - [Herbs](https://oldschool.runescape.wiki/w/Herblore), [Dark totem pieces](https://oldschool.runescape.wiki/w/Dark_totem), [Ancient shard](https://oldschool.runescape.wiki/w/Ancient_shard), [Clue scroll (hard)](https://oldschool.runescape.wiki/w/Clue_scroll_(Hard))  
-> - Related: [Aberrant spectre](https://oldschool.runescape.wiki/w/Aberrant_spectre), [Abhorrent Spectre](https://oldschool.runescape.wiki/w/Abhorrent_spectre), [Repugnant Spectre](https://oldschool.runescape.wiki/w/Repugnant_spectre)
+> - __**Variant**__: [Aberrant spectre](https://oldschool.runescape.wiki/w/Aberrant_spectre), [Abhorrent Spectre](https://oldschool.runescape.wiki/w/Abhorrent_spectre), [Repugnant Spectre](https://oldschool.runescape.wiki/w/Repugnant_spectre)
 ;
 
 fields.name:<:Ironman:1391543679818137610> __**Ironman**__:;
@@ -163,7 +175,11 @@ thumbnail.url:https://oldschool.runescape.wiki/images/thumb/8/89/Deviant_spectre
 footer.icon_url:https://gyazo.com/eba1012515f77f8f231e1ecff813d27a.png;
 footer.text:{time;DD-MM-YYYY;;;;} @ {time;HH:mm;;;;} UTC  |  Requested by {userNickname;{messageSender}}
 }}}
-
+{//;
+*****************************************
+*\                E N D                /*
+*****************************************
+}
 
 
 {//;////////// 03. Abhorrent Spectres //////////}
@@ -190,7 +206,7 @@ fields.name:💎 __**Drops & Variants**__;
 fields.value:
 > - Key drops: [Eternal gem](https://oldschool.runescape.wiki/w/Eternal_gem), [Mist battlestaff](https://oldschool.runescape.wiki/w/Mist_battlestaff), [Clue scroll (hard)](https://oldschool.runescape.wiki/w/Clue_scroll_(Hard)), [Brimstone key](https://oldschool.runescape.wiki/w/Brimstone_key)
 > - Also drops [Ancient shard](https://oldschool.runescape.wiki/w/Ancient_shard) & [Totem pieces](https://oldschool.runescape.wiki/w/Dark_totem)
-> - Variants: [Aberrant](https://oldschool.runescape.wiki/w/Aberrant_spectre), [Deviant](https://oldschool.runescape.wiki/w/Deviant_spectre), [Repugnant](https://oldschool.runescape.wiki/w/Repugnant_spectre)
+> - __**Variants**__: [Aberrant](https://oldschool.runescape.wiki/w/Aberrant_spectre), [Deviant](https://oldschool.runescape.wiki/w/Deviant_spectre), [Repugnant](https://oldschool.runescape.wiki/w/Repugnant_spectre)
 ;
 
 fields.name:<:Ironman:1391543679818137610> __**Ironman**__:;
@@ -204,6 +220,11 @@ thumbnail.url:https://oldschool.runescape.wiki/images/thumb/5/5c/Abhorrent_spect
 footer.icon_url:https://gyazo.com/eba1012515f77f8f231e1ecff813d27a.png;
 footer.text:{time;DD-MM-YYYY;;;;} @ {time;HH:mm;;;;} UTC  |  Requested by {userNickname;{messageSender}}
 }}}
+{//;
+*****************************************
+*\                E N D                /*
+*****************************************
+}
 
 
 {//;////////// 04. Repugnant Spectres //////////}
@@ -229,8 +250,8 @@ fields.value:
 
 fields.name:💎 __**Drops & Variants**__;
 fields.value:
-> - Drops: [Eternal gem](https://oldschool.runescape.wiki/w/Eternal_gem), [Dust battlestaff](https://oldschool.runescape.wiki/w/Dust_battlestaff), [Brimstone key](https://oldschool.runescape.wiki/w/Brimstone_key), [Ancient shard](https://oldschool.runescape.wiki/w/Ancient_shard), [Totem pieces](https://oldschool.runescape.wiki/w/Dark_totem), [Clue scroll (hard)](https://oldschool.runescape.wiki/w/Clue_scroll_(Hard))  
-> - Related: [Aberrant spectre](https://oldschool.runescape.wiki/w/Aberrant_spectre), [Deviant spectre](https://oldschool.runescape.wiki/w/Deviant_spectre), [Abhorrent Spectre](https://oldschool.runescape.wiki/w/Abhorrent_spectre)
+> - __**Drops**__: [Eternal gem](https://oldschool.runescape.wiki/w/Eternal_gem), [Dust battlestaff](https://oldschool.runescape.wiki/w/Dust_battlestaff), [Brimstone key](https://oldschool.runescape.wiki/w/Brimstone_key), [Ancient shard](https://oldschool.runescape.wiki/w/Ancient_shard), [Totem pieces](https://oldschool.runescape.wiki/w/Dark_totem), [Clue scroll (hard)](https://oldschool.runescape.wiki/w/Clue_scroll_(Hard))  
+> - __**Variant**__: [Aberrant spectre](https://oldschool.runescape.wiki/w/Aberrant_spectre), [Deviant spectre](https://oldschool.runescape.wiki/w/Deviant_spectre), [Abhorrent Spectre](https://oldschool.runescape.wiki/w/Abhorrent_spectre)
 ;
 
 fields.name:<:Ironman:1391543679818137610> __**Ironman**__:;
@@ -261,11 +282,11 @@ footer.text:{time;DD-MM-YYYY;;;;} @ {time;HH:mm;;;;} UTC  |  Requested by {userN
 
 
 {//;
-*****************************************
-*\               Start of              /*
-*\               Category              /*
-*\             Abyssal Demons          /*
-*****************************************
+**************************************************************************************************************************************
+***\                                                  Start of Category                                                           /***
+***\                                                                                                                              /***
+***\                                                  Abyssal Demons                                                              /***
+**************************************************************************************************************************************
 }
 
 {//;////////// 05. Abyssal Demons //////////}
@@ -306,6 +327,11 @@ thumbnail.url:https://oldschool.runescape.wiki/images/thumb/7/7a/Abyssal_demon.p
 footer.icon_url:https://gyazo.com/eba1012515f77f8f231e1ecff813d27a.png;
 footer.text:{time;DD-MM-YYYY;;;;} @ {time;HH:mm;;;;} UTC  |  Requested by {userNickname;{messageSender}}
 }}}
+{//;
+*****************************************
+*\                E N D                /*
+*****************************************
+}
 
 
 {//;////////// 06. Abyssal Sire //////////}
@@ -346,15 +372,56 @@ thumbnail.url:https://oldschool.runescape.wiki/images/thumb/5/59/Abyssal_Sire.pn
 footer.icon_url:https://gyazo.com/eba1012515f77f8f231e1ecff813d27a.png;
 footer.text:{time;DD-MM-YYYY;;;;} @ {time;HH:mm;;;;} UTC  |  Requested by {userNickname;{messageSender}}
 }}}
-
-
-
-
-
 {//;
 *****************************************
-*\              End of the             /*
-*\               Category              /*
-*\             Abyssal Demons          /*
+*\                E N D                /*
 *****************************************
+}
+
+
+{//;07. Greater Abyssal Demon} 
+{if;{capitalize;{args;0}} {capitalize;{args;1} {capitalize;{args;2}};==;Greater Abyssal Demon;
+{embed;
+{buildembed;
+title:__**Greater Abyssal Demon**__;
+url:https://oldschool.runescape.wiki/w/Greater_abyssal_demon;
+description:(Type:🔺 Superior)
+(Weight: N/A):
+
+📜 __**Assigned by**__:
+> <:Konar:1356028245530644742><:Nieve:1356028249255444622><:Duradel:1356028243777425579>
+;
+
+fields.name:📌 __**Information**__:;
+fields.value:
+> - __**Location**__: Spawns randomly while on an [Abyssal demon](https://oldschool.runescape.wiki/w/Abyssal_demon) task with a [Slayer ring (imbued)](https://oldschool.runescape.wiki/w/Slayer_ring#Imbued)
+> - __**Items**__: [Slayer helmet](https://oldschool.runescape.wiki/w/Slayer_helmet), [High DPS gear](https://oldschool.runescape.wiki/w/Equipment), [Prayer potions](https://oldschool.runescape.wiki/w/Prayer_potion), [Antipoison](https://oldschool.runescape.wiki/w/Antipoison)
+;
+
+fields.name:💎 __**Drops & Mechanics**__:;
+fields.value:
+> - __**Key drops**__: [Imbued heart](https://oldschool.runescape.wiki/w/Imbued_heart), [Eternal gem](https://oldschool.runescape.wiki/w/Eternal_gem), [Dust battlestaff](https://oldschool.runescape.wiki/w/Dust_battlestaff), [Abyssal whip](https://oldschool.runescape.wiki/w/Abyssal_whip)
+> - __**Mechanics**__: Strong melee attacks, can teleport during combat, uses the superior Slayer creature drop table
+;
+
+fields.name:<:Ironman:1391543679818137610> __**Ironman**__:;
+fields.value:> __***DO***__ — Highly valuable for the Imbued heart and Eternal gem. A lucky spawn can be game-changing for Iron accounts;
+;
+
+fields.name:📖 __**Summary**__:;
+fields.value:> The Greater abyssal demon is the superior variant of the Abyssal demon, encountered randomly while on task. Though rare, it’s extremely rewarding thanks to its unique drop table which includes powerful utility items. Its teleport mechanic and high stats make it a notable threat.
+;
+
+color:#5B1B79;
+thumbnail.url:https://oldschool.runescape.wiki/images/Greater_abyssal_demon.png;
+footer.icon_url:https://gyazo.com/eba1012515f77f8f231e1ecff813d27a.png;
+footer.text:{time;DD-MM-YYYY;;;;} @ {time;HH:mm;;;;} UTC  |  Requested by {userNickname;{messageSender}}
+}}}}
+
+{//;
+**************************************************************************************************************************************
+***\                                                   End of Category                                                            /***
+***\                                                                                                                              /***
+***\                                                  Abyssal Demons                                                              /***
+**************************************************************************************************************************************
 }

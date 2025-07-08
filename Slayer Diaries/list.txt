@@ -1,429 +1,438 @@
-[Standard] Aberrant spectre
-  - [Variant] Deviant spectre
-  - [Superior] Abhorrent spectre
-  - [Superior] Repugnant spectre 
-
-[Standard] Abyssal demon
-  - [Boss] Abyssal Sire
-  - [Superior] Greater abyssal demon
+************************************************************************************************************************************** 
+***\                                                                                                                              /***
+***\                                                   Monster List                                                               /***
+***\                                                                                                                              /***
+***\                                                                                                                              /***
+***\                       🟢 Standard Monsters  |  🟣 Variants  |  🔺 Superiors  |  👑 Bosses                         s         /***
+**************************************************************************************************************************************
+
+
+🟢 Aberrant spectre
+  - 🟣 Deviant spectre
+  - 🔺 Abhorrent spectre
+  - 🔺 Repugnant spectre 
+
+🟢 Abyssal demon
+  - 👑 Abyssal Sire
+  - 🔺 Greater abyssal demon
+
+🟢 Adamant dragon
+
+🟢 Ankou
+
+🟢 Araxyte
+  - 🟣 Araxxor
+  - 🔺 Dreadborn Araxyte
+
+🟢 Aviansie
+  - 🟣 Kree'arra 
+  - 🟣 Flight Kilisa 
+  - 🟣 Flockleader Geerin 
+  - 🟣 Wingman Skree
+
+🟢 Bandit
+  - 🟣 Black Heather 
+  - 🟣 Speedy Keith 
+  - 🟣 Donny the lad 
+
+🟢 Banshee
+  - 🟣 Twisted Banshee
+  - 🔺 Screaming banshee
+  - 🔺 Screaming twisted banshee
+
+🟢 Basilisk
+  - 🟣 Basilisk Knights
+  - 🔺 Monstrous basilisk
+  - 🔺 Basilisk Sentinel
+
+🟢 Bat
+  - 🟣 Giant bat
+  - 🟣 Albino bat
+  - 🟣 Deathwing
+
+🟢 Bears
+  - 🟣 Black bear
+  - 🟣 Grizzly bear
+  - 🟣 Grizzly bear cub
+  - 🟣 Callisto
+  - 🟣 Artio
+
+🟢 Bird
+  - 🟣 Chicken 
+  - 🟣 Mounted terrorbird gnome 
+  - 🟣 Rooster 
+  - 🟣 Seagull 
+  - 🟣 Terrorbird 
+  - 🟣 Vulture 
+  - 🟣 Undead chicken 
+  - 🟣 Chompy Bird	
 
-[Standard] Adamant dragon
-
-[Standard] Ankou
+🟢 Black demon
+  - 🟣 Demonic gorilla 
+  - 🟣 Balfrug Kreeyath 
+  - 🟣 Porazdir 
+  - 👑 Skotizo 
 
-[Standard] Araxyte
-  - [Variant] Araxxor
-  - [Superior] Dreadborn Araxyte
-
-[Standard] Aviansie
-  - [Variant] Kree'arra 
-  - [Variant] Flight Kilisa 
-  - [Variant] Flockleader Geerin 
-  - [Variant] Wingman Skree
-
-[Standard] Bandit
-  - [Variant] Black Heather 
-  - [Variant] Speedy Keith 
-  - [Variant] Donny the lad 
-
-[Standard] Banshee
-  - [Variant] Twisted Banshee
-  - [Superior] Screaming banshee
-  - [Superior] Screaming twisted banshee
-
-[Standard] Basilisk
-  - [Variant] Basilisk Knights
-  - [Superior] Monstrous basilisk
-  - [Superior] Basilisk Sentinel
-
-[Standard] Bat
-  - [Variant] Giant bat
-  - [Variant] Albino bat
-  - [Variant] Deathwing
-
-[Standard] Bears
-  - [Variant] Black bear
-  - [Variant] Grizzly bear
-  - [Variant] Grizzly bear cub
-  - [Variant] Callisto
-  - [Variant] Artio
-
-[Standard] Bird
-  - [Variant] Chicken 
-  - [Variant] Mounted terrorbird gnome 
-  - [Variant] Rooster 
-  - [Variant] Seagull 
-  - [Variant] Terrorbird 
-  - [Variant] Vulture 
-  - [Variant] Undead chicken 
-  - [Variant] Chompy Bird	
+🟢 Black dragon
+  - 🟣 Baby black dragon 
+  - 🟣 Brutal black dragon 
+  - 👑 King Black Dragon 
 
-[Standard] Black demon
-  - [Variant] Demonic gorilla 
-  - [Variant] Balfrug Kreeyath 
-  - [Variant] Porazdir 
-  - [Boss] Skotizo 
+🟢 Black Knight
 
-[Standard] Black dragon
-  - [Variant] Baby black dragon 
-  - [Variant] Brutal black dragon 
-  - [Boss] King Black Dragon 
+🟢 Bloodveld
+  - 🟣 Mutated Bloodveld
+  - 🔺 Insatiable Bloodveld
+  - 🔺 Insatiable mutated Bloodveld
 
-[Standard] Black Knight
+🟢 Blue dragon
+  - 🟣 Baby blue dragon
+  - 🟣 Brutal blue dragon
+  - 👑 Vorkath
 
-[Standard] Bloodveld
-  - [Variant] Mutated Bloodveld
-  - [Superior] Insatiable Bloodveld
-  - [Superior] Insatiable mutated Bloodveld
+🟢 Brine rat
 
-[Standard] Blue dragon
-  - [Variant] Baby blue dragon
-  - [Variant] Brutal blue dragon,
-  - [Boss] Vorkath
+🟢 Bronze dragon
 
-[Standard] Brine rat
+🟢 Catablepon
 
-[Standard] Bronze dragon
+🟢 Cave bug
 
-[Standard] Catablepon
+🟢 Cave crawler
+  - 🔺 Chasm Crawler
 
-[Standard] Cave bug
+🟢 Cave horror
+  - 🔺 Cave abomination
 
-[Standard] 	Cave crawler
-  - [Superior] 	Chasm Crawler
+🟢 Cave slime
 
-[Standard] Cave horror
-  - [Superior] Cave abomination
+🟢 Cave kraken
+  - 👑 Kraken
 
-[Standard] Cave slime
+🟢 Chaos druid
+  - 🟣 Elder Chaos druid
 
-[Standard] Cave kraken
-  - [Boss] Kraken
+🟢 Cockatrice
+  - 🔺 Cockathrice
 
-[Standard] Chaos druid
-  - [Variant] Elder Chaos druid
+🟢 Cow
+  - 🟣 Cow calf
+  - 🟣 Undead cows
 
-[Standard] 	Cockatrice
-  - [Superior] Cockathrice
+🟢 Crab
+  - 🟣 Ammonite Crab 
+  - 🟣 Frost Crab 
+  - 🟣 King Sand Crab 
+  - 🟣 Rock Crab 
+  - 🟣 Sand Crab 
+  - 🟣 Swamp Crab 
 
-[Standard] Cow
-  - [Variant] Cow calf
-  - [Variant] Undead cows
+🟢 Crawling Hand
+  - 🔺 Crushing hand
 
-[Standard] Crab
-  - [Variant] Ammonite Crab 
-  - [Variant] Frost Crab 
-  - [Variant] King Sand Crab 
-  - [Variant] Rock Crab 
-  - [Variant] Sand Crab 
-  - [Variant] Swamp Crab 
+🟢 Crocodile
 
-[Standard] Crawling Hand
-  - [Superior] Crushing hand
+🟢 Dagannoth
+  - 🟣 Dagannoth fledgeling 
+  - 🟣 Dagannoth spawn 
+  - 👑 Dagannoth Prime 
+  - 👑 Dagannoth Rex 
+  - 👑 Dagannoth Supreme
 
-[Standard] Crocodile
+🟢 Dark beast
+  - 🔺 Night beast
 
-[Standard] Dagannoth
-  - [Variant] Dagannoth fledgeling 
-  - [Variant] Dagannoth spawn 
-  - [Boss] Dagannoth Prime 
-  - [Boss] Dagannoth Rex 
-  - [Boss] Dagannoth Supreme
+🟢 Dark warrior
 
-[Standard] Dark beast
-  - [Superior] Night beast
+🟢 Dog
+  - 🟣 Guard dog 
+  - 🟣 Wild dog 
+  - 🟣 Jackal 
+  - 🟣 Temple Guardian
 
-[Standard] Dark warrior
+🟢 Drake
+  - 🔺 Guardian Drake
 
-[Standard] Dog
-  - [Variant] Guard dog 
-  - [Variant] Wild dog 
-  - [Variant] Jackal 
-  - [Variant] Temple Guardian
+🟢 Dust devils
+  - 🔺 Choke devil
 
-[Standard] Drake
-  - [Superior] Guardian Drake
+🟢 Dwarves
+  - 🟣 Black Guard 
+  - 🟣 Chaos dwarf
 
-[Standard] Dust devils
-  - [Superior] Choke devil
+🟢 Earth Warriors
 
-[Standard] Dwarves
-  - [Variant] Black Guard 
-  - [Variant] Chaos dwarf
+🟢 Elves
+  - 🟣 Mourner (Lvl 108 variant only)
 
-[Standard] Earth Warriors
+🟢 Ent
 
-[Standard] Elves
-  - [Variant] Mourner (Lvl 108 variant only)
+🟢 Fever spiders
 
-[Standard] Ent
+🟢 Fire giant
+  - 🟣 Branda the Fire Queen
 
-[Standard] Fever spiders
+🟢 Flesh Crawlers
 
-[Standard] Fire giant
-  - [Variant] Branda the Fire Queen
+🟢 Fossil Island Wyvern
+  - 🟣 Ancient wyvern
+  - 🟣 Spitting wyvern
+  - 🟣 Taloned wyvern
+  - 🟣 Long-tailed wyvern
 
-[Standard] Flesh Crawlers
+🟢 Gargoyle
+  - 🟣 Grotesque Guardians
+  - 🔺 Marble gargoyle
 
-[Standard] Fossil Island Wyvern
-  - [Variant] Ancient wyvern
-  - [Variant] Spitting wyvern
-  - [Variant] Taloned wyvern
-  - [Variant] Long-tailed wyvern
+🟢 Ghosts
+  - 🟣 Tortured soul
 
-[Standard] Gargoyle
-  - [Variant] Grotesque Guardians
-  - [Superior] Marble gargoyle
+🟢 Ghouls
+  - 🟣 Sergeant Strongstack
+  - 🟣 Sergeant Grimspike
+  - 🟣 Sergeant Steelwill
+  - 🟣 Cave Goblin
 
-[Standard] Ghosts
-  - [Variant] Tortured soul
+🟢 Greater demons
+  - 🟣 K'ril Tsutsaroth
+  - 🟣 Tstanon Karlak
+  - 🟣 Tormented Demons
+  - 👑 Skotizo
 
-[Standard] Ghouls
-  - [Variant] Sergeant Strongstack
-  - [Variant] Sergeant Grimspike
-  - [Variant] Sergeant Steelwill
-  - [Variant] Cave Goblin
+🟢 Green dragons
+  - 🟣 Baby green dragon
+  - 🟣 Brutal green dragon
+  - 🟣 Elvarg
 
-[Standard] 	Greater demons
-  - [Variant] K'ril Tsutsaroth,
-  - [Variant] Tstanon Karlak,
-  - [Variant] Tormented Demons
-  - [Boss] Skotizo 
+🟢 Harpie bug swarms
 
-[Standard] Green dragons
-  - [Variant] Baby green dragon
-  - [Variant] Brutal green dragon
-  - [Variant] Elvarg
+🟢 Hill Giant
+  - 🟣 Cyclops
+  - 👑 Obor
 
-[Standard] Harpie bug swarms
+🟢 Hobgoblins
 
-[Standard] Hill Giant
-  - [Variant] Cyclops
-  - [Boss] Obor
+🟢 Hydras
+  - 🟣 Alchemical Hydra
+  - 🔺 Colossal Hydra
 
-[Standard] Hobgoblins
+🟢 Icefiends
 
-[Standard] Hydras
-  - [Variant] Alchemical Hydra
-  - [Superior] Colossal Hydra
+🟢 Ice giants
+  - 👑 Eldric the Ice King
 
-[Standard] Icefiends
+🟢 Ice warriors
+  - 🟣 Icelord
 
-[Standard] Ice giants
-  - [Boss] Eldric the Ice King
+🟢 Infernal Mages
+  - 🔺 Malevolent Mage
 
-[Standard] Ice warriors
-  - [Variant] Icelord
+🟢 Iron dragons
 
-[Standard] Infernal Mages
-  - [Superior] 	Malevolent Mage
+🟢 Jellies
+  - 🟣 Warped Jelly
+  - 🔺 Vitreous Jelly 
+  - 🔺 Vitreous warped Jelly
 
-[Standard] Iron dragons
+🟢 Jungle horrors
 
-[Standard] 	Jellies
-  - [Variant] Warped Jelly
-  - [Superior] Vitreous Jelly 
-  - [Superior] Vitreous warped Jelly
+🟢 Kalphite
+  - 🟣 Kalphite Worker 
+  - 🟣 Kalphite Soldier 
+  - 🟣 Kalphite Guardian
+  - 👑 Kalphite Queen
 
-[Standard] Jungle horrors
+🟢 Killerwatts
 
-[Standard] Kalphite
-  - [Variant] Kalphite Worker 
-  - [Variant] Kalphite Soldier 
-  - [Variant] Kalphite Guardian
-  - [Boss] Kalphite Queen
+🟢 Kurasks
+  - 🔺 King kurask
 
-[Standard] Killerwatts
+🟢 Lava dragon
 
-[Standard] Kurasks
-  - [Superior] King kurask
+🟢 Lesser demon
+  - 🟣 Zakl'n Gritch
 
-[Standard] Lava dragon
+🟢 Lesser Nagua
+  - 👑 Amoxliatl
 
-[Standard] Lesser demon
-  - [Variant] Zakl'n Gritch
+🟢 Lizardmen
+  - 🟣 Lizardman brute 
+  - 🟣 Lizardman shaman
 
-[Standard] Lesser Nagua
-  - [Boss] Amoxliatl
+🟢 Lizard
+  - 🟣 Desert Lizard
+  - 🟣 Grimy Lizard 
+  - 🟣 Lizard
+  - 🟣 Small Lizard
+  - 🟣 Sulphur Lizard
 
-[Standard] Lizardmen
-  - [Variant] Lizardman brute 
-  - [Variant] Lizardman shaman
+🟢 Magic axe
 
-[Standard] Lizard
-  - [Variant] Desert Lizard
-  - [Variant] Grimy Lizard 
-  - [Variant] Lizard
-  - [Variant] Small Lizard
-  - [Variant] Sulphur Lizard
+🟢 Mammoth
 
-[Standard] Magic axe
+🟢 Mithril dragon
 
-[Standard] Mammoth
+🟢 Minotaur
 
-[Standard] 	Mithril dragon
+🟢 Mogre
 
-[Standard] Minotaur
+🟢 Molanisk
 
-[Standard] Mogre
+🟢 Monkey
+  - 🟣 Monkey Guard
+  - 🟣 Monkey Archer
+  - 🟣 Zombie monkey
+  - 🟣 Padulah
 
-[Standard] Molanisk
+🟢 Moss giant
 
-[Standard] Monkey
-  - [Variant] Monkey Guard,
-  - [Variant] Monkey Archer
-  - [Variant] Zombie monkey
-  - [Variant] Padulah
+🟢 Nechryael
+  - 🟣 Greater Nechryael
+  - 🔺 Nechryarch
 
-[Standard] Moss giant
+🟢 Ogre
+  - 🟣 Ogre chieftain 
+  - 🟣 Enclave guard 
+  - 🟣 Ogress Shaman 
+  - 🟣 Ogress Warrior 
 
-[Standard] Nechryael
-  - [Variant] Greater Nechryael
-  - [Superior] Nechryarch
+🟢 Otherworldly beings
 
-[Standard] 	Ogre
-  - [Variant] Ogre chieftain 
-  - [Variant] Enclave guard 
-  - [Variant] Ogress Shaman 
-  - [Variant] Ogress Warrior 
+🟢 Pirate
 
-[Standard] Otherworldly beings
+🟢 Pyrefiend
+  - 🟣 Pyrelord
+  - 🔺 Flaming pyrelord 
+  - 🔺 Infernal pyrelord 
 
-[Standard] Pirate
-
-[Standard] 	Pyrefiend
-  - [Variant] Pyrelord
-  - [Superior] Flaming pyrelord 
-  - [Superior] Infernal pyrelord 
-
-[Standard] Rat
-  - [Variant] Giant rat,
-  - [Variant] Dungeon rat,
-  - [Variant] Crypt rat
-  - [Variant] Brine rat,
-  - [Variant] Hell-Rat Behemoth
-  - [Boss] Scurrius
+🟢 Rat
+  - 🟣 Giant rat
+  - 🟣 Dungeon rat
+  - 🟣 Crypt rat
+  - 🟣 Brine rat
+  - 🟣 Hell-Rat Behemoth
+  - 👑 Scurrius
   
-[Standard] 	Red dragon
-  - [Variant] Baby red dragons 
-  - [Variant] Brutal red dragons
+🟢 Red dragon
+  - 🟣 Baby red dragons 
+  - 🟣 Brutal red dragons
 
-[Standard] Revenant
+🟢 Revenant
 
-[Standard] Rockslug
-  - [Superior] Giant rockslug
+🟢 Rockslug
+  - 🔺 Giant rockslug
 
-[Standard] 	Rogue
+🟢 Rogue
 
-[Standard] Rune Dragon
+🟢 Rune Dragon
 
-[Standard] Scabarite
-  - [Variant] Locust riders 
-  - [Variant] Scarab mages 
-  - [Variant] Scarab swarms 
-  - [Variant] Small scarabs 
+🟢 Scabarite
+  - 🟣 Locust riders 
+  - 🟣 Scarab mages 
+  - 🟣 Scarab swarms 
+  - 🟣 Small scarabs 
 
-[Standard] 	Scorpion
-  - [Variant] King Scorpion 
-  - [Variant] Poison Scorpion 
-  - [Variant] Pit Scorpion 
-  - [Variant] Scorpia 
-  - [Variant] Lobstrosity
+🟢 Scorpion
+  - 🟣 King Scorpion 
+  - 🟣 Poison Scorpion 
+  - 🟣 Pit Scorpion 
+  - 🟣 Scorpia 
+  - 🟣 Lobstrosity
 
-[Standard] 	Sea snake
-  - [Variant] Sea Snake Hatchling 
-  - [Variant] Sea Snake Young 
-  - [Variant] Giant Sea Snake 
+🟢 Sea snake
+  - 🟣 Sea Snake Hatchling 
+  - 🟣 Sea Snake Young 
+  - 🟣 Giant Sea Snake 
 
-[Standard] Shade
-  - [Variant] Loar
-  - [Variant] Phryn,
-  - [Variant] Riyl,
-  - [Variant] Asyn 
-  - [Variant] Fiyr shades
-    - [Note] Also Ghosts count
+🟢 Shade
+  - 🟣 Loar
+  - 🟣 Phryn
+  - 🟣 Riyl
+  - 🟣 Asyn 
+  - 🟣 Fiyr shades
 
-[Standard] Shadow warrior
+🟢 Shadow warrior
 
-[Standard] Skeletal Wyvern
+🟢 Skeletal Wyvern
 
-[Standard] Skeleton
-  - [Boss] Vet'ion 
-  - [Boss] Calvar'ion
+🟢 Skeleton
+  - 👑 Vet'ion 
+  - 👑 Calvar'ion
 
-  [Standard] Smoke devil
-  - [Variant] Thermonuclear smoke devil 
-  - [Variant] Nuclear smoke devil 
-  - [Superior] Nuclear smoke devil 
+🟢 Smoke devil
+  - 🟣 Thermonuclear smoke devil 
+  - 🟣 Nuclear smoke devil 
+  - 🔺 Nuclear smoke devil 
 
-[Standard] Sourhog
+🟢 Sourhog
 
-[Standard] Spider
-  - [Variant] Giant spider,
-  - [Variant] Shadow spider,
-  - [Variant] Jungle spider,
-  - [Variant] Deadly red spider,
-  - [Variant] Poison spider,
-  - [Variant] Blessed spider
-  - [Variant] Kalrag,
-  - [Variant] Crypt spider,
-  - [Variant] Temple Spider,
-  - [Variant] Sarachnis,
-  - [Variant] Spindel,
-  - [Variant] Venenatis,
-  - [Variant] Araxyte,
-  - [Variant] Araxxor
+🟢 Spider
+  - 🟣 Giant spider
+  - 🟣 Shadow spider
+  - 🟣 Jungle spider
+  - 🟣 Deadly red spider
+  - 🟣 Poison spider
+  - 🟣 Blessed spider
+  - 🟣 Kalrag
+  - 🟣 Crypt spider
+  - 🟣 Temple Spider
+  - 🟣 Sarachnis
+  - 🟣 Spindel
+  - 🟣 Venenatis
+  - 🟣 Araxyte
+  - 🟣 Araxxor
 
-[Standard] 	Spiritual creature
+🟢 Spiritual creature
 
-[Standard] 	Steel dragon
+🟢 Steel dragon
 
-[Standard] 	Suqah
+🟢 Suqah
 
-[Standard] Terror dog
+🟢 Terror dog
 
-[Standard] Trolls
-  - [Variant] Mountain troll
-  - [Variant] Ice troll grunt
-  - [Variant] Runt
-  - [Variant] Male
-  - [Variant] Female
-  - [Variant] Ice troll
-  - [Variant] River troll
+🟢 Trolls
+  - 🟣 Mountain troll
+  - 🟣 Ice troll grunt
+  - 🟣 Runt
+  - 🟣 Male
+  - 🟣 Female
+  - 🟣 Ice troll
+  - 🟣 River troll
   
-[Standard] Turoth
-  - [Superior] Spiked Turoth
+🟢 Turoth
+  - 🔺 Spiked Turoth
   
-[Standard] TzHaar
-  - [Variant] TzTok-Jad
-  - [Variant] TzKal-Zuk
+🟢 TzHaar
+  - 🟣 TzTok-Jad
+  - 🟣 TzKal-Zuk
   
-[Standard] Vampyres
-  - [Variant] Vyrewatch
-  - [Variant] Vyrewatch Sentinel
+🟢 Vampyres
+  - 🟣 Vyrewatch
+  - 🟣 Vyrewatch Sentinel
 
-[Standard] Wall beasts
+🟢 Wall beasts
 
-[Standard] Warped creatures
-  - [Superior] Mutated Terrorbird
-  - [Superior] Mutated Tortoise
+🟢 Warped creatures
+  - 🔺 Mutated Terrorbird
+  - 🔺 Mutated Tortoise
   
-[Standard] Waterfiends
+🟢 Waterfiends
 
-[Standard] Werewolves
+🟢 Werewolves
 
-[Standard] Wolves
-  - [Variant] Big Wolf  
-  - [Variant] Dire wolf  
-  - [Variant] Jungle wolf  
-  - [Variant] Desert Wolf  
-  - [Variant] Ice Wolf
+🟢 Wolves
+  - 🟣 Big Wolf  
+  - 🟣 Dire wolf  
+  - 🟣 Jungle wolf  
+  - 🟣 Desert Wolf  
+  - 🟣 Ice Wolf
 
-[Standard] Wyrms
-  - [Superior] Shadow Wyrm
+🟢 Wyrms
+  - 🔺 Shadow Wyrm
 
-[Standard] Zombies
-  - [Note] Any zombie-class except Zogres and Zombie monkeys
+🟢 Zombies
+  - 🟣 Any zombie-class except Zogres and Zombie monkeys
 
-[Standard] Zygomites
-  - [Variant] Ancient Zygomite
+🟢 Zygomites
+  - 🟣 Ancient Zygomite
+
