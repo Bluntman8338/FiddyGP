@@ -4,7 +4,8 @@
   title:__**Welcome to the Slayer Diaries**__;
   description:This command provides details about your specified ***Slayer monster***, 
 Including:
-```🟢 Standard Monsters
+```
+🟢 Standard Monsters
 🟣 Variants
 🔺 Superiors
 👑 Bosses
@@ -46,6 +47,7 @@ footer.text:{time;DD-MM-YYYY;;;;} @ {time;HH:mm;;;;} UTC  |  Requested by {userN
 }
 
 
+
 {//;////////// [Task Weight] //////////}
 {if;{capitalize;{args;0}};==;Task;
 {if;{capitalize;{args;1}};==;Weight;
@@ -65,6 +67,24 @@ description:The weight determines how often a monster is assigned as a Slayer ta
 *****************************************
 }
 
+
+{//;
+**************************************************************************************************************************************
+***\                                                                                                                              /***
+***\                                                   Monster List                                                               /***
+***\                                                                                                                              /***
+**************************************************************************************************************************************
+}
+
+
+{//;
+**************************************************************************************************************************************
+***\                                                  Start of Category                                                           /***
+***\                                                                                                                              /***
+***\                                                      Spectres                                                                /***
+**************************************************************************************************************************************
+}
+
 {//;////////// 01. Aberrant Spectres //////////}
 {if;{capitalize;{args;0}} {capitalize;{args;1}};==;Aberrant Spectre;
 {embed;
@@ -75,25 +95,266 @@ description:(Type::green_circle: Standard)
 (Weight: 6):
 
 📜 __**Assigned by**__:
-> # <:Mazchna:1356028248391159901><:Vannaka:1356028255898964120><:Chaeldar:1356028242540101672><:Konar:1356028245530644742><:Nieve:1356028249255444622><:Duradel:1356028243777425579>
+> # <:Vannaka:1356028255898964120><:Chaeldar:1356028242540101672><:Konar:1356028245530644742><:Nieve:1356028249255444622><:Duradel:1356028243777425579>;
+
+fields.name:📌 __**Location & Gear**__;
+fields.value:
+> - [Slayer Tower](https://oldschool.runescape.wiki/w/Slayer_Tower) or [Catacombs of Kourend](https://oldschool.runescape.wiki/w/Catacombs_of_Kourend)  
+> - Requires [Nose peg](https://oldschool.runescape.wiki/w/Nose_peg) or [Slayer helmet](https://oldschool.runescape.wiki/w/Slayer_helmet)  
+> - Bring [Prayer gear](https://oldschool.runescape.wiki/w/Prayer_armour) or [Magic defence](https://oldschool.runescape.wiki/w/Magic_armour)
 ;
 
-fields.name:📌 __**Information**__;
+fields.name:💎 __**Drops & Variants**__;
 fields.value:
-> - __**Location**__: [Slayer Tower](https://oldschool.runescape.wiki/w/Slayer_Tower), [Catacombs of Kourend](https://oldschool.runescape.wiki/w/Catacombs_of_Kourend)
-> - __**Items**__: [Nose peg](https://oldschool.runescape.wiki/w/Nose_peg) or [Slayer helmet](https://oldschool.runescape.wiki/w/Slayer_helmet), [Prayer gear](https://oldschool.runescape.wiki/w/Prayer_armour), [Magic defence](https://oldschool.runescape.wiki/w/Magic_armour)
-> - __**Key drops**__: [Herbs](https://oldschool.runescape.wiki/w/Herblore), [Rune items](https://oldschool.runescape.wiki/w/Rune_equipment), [Lava battlestaff](https://oldschool.runescape.wiki/w/Lava_battlestaff), [Clue scroll (hard)](https://oldschool.runescape.wiki/w/Clue_scroll_(Hard))
-> - __**Alternatives**__: [Deviant spectre](https://oldschool.runescape.wiki/w/Deviant_spectre), [Abhorrent Spectre](https://oldschool.runescape.wiki/w/Abhorrent_spectre), [Repugnant Spectre](https://oldschool.runescape.wiki/w/Repugnant_spectre);
+> - [Herbs](https://oldschool.runescape.wiki/w/Herblore), [Rune items](https://oldschool.runescape.wiki/w/Rune_equipment), [Lava battlestaff](https://oldschool.runescape.wiki/w/Lava_battlestaff), [Clue scroll (hard)](https://oldschool.runescape.wiki/w/Clue_scroll_(Hard))  
+> - Related: [Deviant spectre](https://oldschool.runescape.wiki/w/Deviant_spectre), [Abhorrent Spectre](https://oldschool.runescape.wiki/w/Abhorrent_spectre), [Repugnant Spectre](https://oldschool.runescape.wiki/w/Repugnant_spectre)
+;
 
 fields.name:<:Ironman:1391543679818137610> __**Ironman**__:;
 fields.value:> __***DO***__ — Great for herb stacks, dark totem pieces, and passive clues;
 
 fields.name:📖 __**Summary**__:;
-fields.value:> Aberrant Spectres require 60 Slayer and a nose peg or Slayer helmet. They attack with Magic, so Protect from Magic or high defence gear is recommended. Catacombs are ideal due to Prayer restoration and shard drops. Superiors give better loot and XP.;
-
+fields.value:> Aberrant Spectres require 60 Slayer and a nose peg or Slayer helmet. They attack with Magic, so Protect from Magic or high defence gear is recommended. Catacombs are ideal due to Prayer restoration and shard drops. Superiors give better loot and XP.
+;
 
 color:#7AAB61;
 thumbnail.url:https://oldschool.runescape.wiki/images/thumb/b/bb/Aberrant_spectre.png/120px-Aberrant_spectre.png;
 footer.icon_url:https://gyazo.com/eba1012515f77f8f231e1ecff813d27a.png;
 footer.text:{time;DD-MM-YYYY;;;;} @ {time;HH:mm;;;;} UTC  |  Requested by {userNickname;{messageSender}}
 }}}
+
+
+
+{//;////////// 02. Deviant Spectres //////////}
+{if;{capitalize;{args;0}} {capitalize;{args;1}};==;Deviant Spectre;
+{embed;
+{buildembed;
+title:__**Deviant Spectres**__;
+url:https://oldschool.runescape.wiki/w/Deviant_spectre;
+description:(Type::purple_circle: Variant)
+(Weight: 6):
+
+📜 __**Assigned by**__:
+> # <:Vannaka:1356028255898964120><:Chaeldar:1356028242540101672><:Konar:1356028245530644742><:Nieve:1356028249255444622><:Duradel:1356028243777425579>;
+
+fields.name:📌 __**Location & Gear**__;
+fields.value:
+> - Only found in [Catacombs of Kourend](https://oldschool.runescape.wiki/w/Catacombs_of_Kourend)  
+> - Requires [Nose peg](https://oldschool.runescape.wiki/w/Nose_peg) or [Slayer helmet](https://oldschool.runescape.wiki/w/Slayer_helmet)  
+> - Use [Prayer armour](https://oldschool.runescape.wiki/w/Prayer_armour) or [Magic defence](https://oldschool.runescape.wiki/w/Magic_armour)
+;
+
+fields.name:💎 __**Drops & Variants**__;
+fields.value:
+> - [Herbs](https://oldschool.runescape.wiki/w/Herblore), [Dark totem pieces](https://oldschool.runescape.wiki/w/Dark_totem), [Ancient shard](https://oldschool.runescape.wiki/w/Ancient_shard), [Clue scroll (hard)](https://oldschool.runescape.wiki/w/Clue_scroll_(Hard))  
+> - Related: [Aberrant spectre](https://oldschool.runescape.wiki/w/Aberrant_spectre), [Abhorrent Spectre](https://oldschool.runescape.wiki/w/Abhorrent_spectre), [Repugnant Spectre](https://oldschool.runescape.wiki/w/Repugnant_spectre)
+;
+
+fields.name:<:Ironman:1391543679818137610> __**Ironman**__:;
+fields.value:> __***DO***__ — Solid for herb supply, shards, and passive hard clue farming
+;
+
+fields.name:📖 __**Summary**__:;
+fields.value:> Deviant Spectres are stronger versions of Aberrant Spectres found only in the Catacombs of Kourend. They hit harder and have more HP but share the same Magic-based attacks. Catacombs bonuses like totem pieces and ancient shards make them a strong Ironman task.
+;
+
+color:#9BC945;
+thumbnail.url:https://oldschool.runescape.wiki/images/thumb/8/89/Deviant_spectre.png/120px-Deviant_spectre.png;
+footer.icon_url:https://gyazo.com/eba1012515f77f8f231e1ecff813d27a.png;
+footer.text:{time;DD-MM-YYYY;;;;} @ {time;HH:mm;;;;} UTC  |  Requested by {userNickname;{messageSender}}
+}}}
+
+
+
+{//;////////// 03. Abhorrent Spectres //////////}
+{if;{capitalize;{args;0}} {capitalize;{args;1}};==;Abhorrent Spectre;
+{embed;
+{buildembed;
+title:__**Abhorrent Spectres**__;
+url:https://oldschool.runescape.wiki/w/Abhorrent_spectre;
+description:(Type::small_red_triangle: Superior)
+(Weight: 7):
+
+📜 __**Assigned by**__:
+> # <:Vannaka:1356028255898964120><:Chaeldar:1356028242540101672><:Konar:1356028245530644742><:Nieve:1356028249255444622><:Duradel:1356028243777425579>
+;
+
+fields.name:📌 __**Location & Gear**__;
+fields.value:
+> - [Slayer Tower](https://oldschool.runescape.wiki/w/Slayer_Tower), [Catacombs of Kourend](https://oldschool.runescape.wiki/w/Catacombs_of_Kourend)
+> - Requires [Nose peg](https://oldschool.runescape.wiki/w/Nose_peg) or [Slayer helmet](https://oldschool.runescape.wiki/w/Slayer_helmet)
+> - Use [Prayer gear](https://oldschool.runescape.wiki/w/Prayer_armour) or [Magic defence](https://oldschool.runescape.wiki/w/Magic_armour)
+;
+
+fields.name:💎 __**Drops & Variants**__;
+fields.value:
+> - Key drops: [Eternal gem](https://oldschool.runescape.wiki/w/Eternal_gem), [Mist battlestaff](https://oldschool.runescape.wiki/w/Mist_battlestaff), [Clue scroll (hard)](https://oldschool.runescape.wiki/w/Clue_scroll_(Hard)), [Brimstone key](https://oldschool.runescape.wiki/w/Brimstone_key)
+> - Also drops [Ancient shard](https://oldschool.runescape.wiki/w/Ancient_shard) & [Totem pieces](https://oldschool.runescape.wiki/w/Dark_totem)
+> - Variants: [Aberrant](https://oldschool.runescape.wiki/w/Aberrant_spectre), [Deviant](https://oldschool.runescape.wiki/w/Deviant_spectre), [Repugnant](https://oldschool.runescape.wiki/w/Repugnant_spectre)
+;
+
+fields.name:<:Ironman:1391543679818137610> __**Ironman**__:;
+fields.value:> __***DO***__ — One of the best superiors, Eternal gem potential and clue stack make it top-tier.;
+
+fields.name:📖 __**Summary**__:;
+fields.value:> Abhorrent Spectres are powerful superiors that attack with Magic and drain your stats. They require protection or defensive setups and drop rare Slayer rewards. Always prioritize killing these when spawned.;
+
+color:#C13F43;
+thumbnail.url:https://oldschool.runescape.wiki/images/thumb/5/5c/Abhorrent_spectre.png/120px-Abhorrent_spectre.png;
+footer.icon_url:https://gyazo.com/eba1012515f77f8f231e1ecff813d27a.png;
+footer.text:{time;DD-MM-YYYY;;;;} @ {time;HH:mm;;;;} UTC  |  Requested by {userNickname;{messageSender}}
+}}}
+
+
+{//;////////// 04. Repugnant Spectres //////////}
+{if;{capitalize;{args;0}} {capitalize;{args;1}};==;Repugnant Spectre;
+{embed;
+{buildembed;
+title:__**Repugnant Spectres**__;
+url:https://oldschool.runescape.wiki/w/Repugnant_spectre;
+description:(Type::small_red_triangle: Superior)
+(Weight: 7):
+
+📜 __**Assigned by**__:
+> # <:Vannaka:1356028255898964120><:Chaeldar:1356028242540101672><:Konar:1356028245530644742><:Nieve:1356028249255444622><:Duradel:1356028243777425579>
+;
+
+fields.name:📌 __**Location & Gear**__;
+fields.value:
+> - [Catacombs of Kourend](https://oldschool.runescape.wiki/w/Catacombs_of_Kourend) only  
+> - Requires [Nose peg](https://oldschool.runescape.wiki/w/Nose_peg) or [Slayer helmet](https://oldschool.runescape.wiki/w/Slayer_helmet)  
+> - Use [Prayer armour](https://oldschool.runescape.wiki/w/Prayer_armour) or [Magic defence](https://oldschool.runescape.wiki/w/Magic_armour)  
+> - Protect from Magic strongly advised
+;
+
+fields.name:💎 __**Drops & Variants**__;
+fields.value:
+> - Drops: [Eternal gem](https://oldschool.runescape.wiki/w/Eternal_gem), [Dust battlestaff](https://oldschool.runescape.wiki/w/Dust_battlestaff), [Brimstone key](https://oldschool.runescape.wiki/w/Brimstone_key), [Ancient shard](https://oldschool.runescape.wiki/w/Ancient_shard), [Totem pieces](https://oldschool.runescape.wiki/w/Dark_totem), [Clue scroll (hard)](https://oldschool.runescape.wiki/w/Clue_scroll_(Hard))  
+> - Related: [Aberrant spectre](https://oldschool.runescape.wiki/w/Aberrant_spectre), [Deviant spectre](https://oldschool.runescape.wiki/w/Deviant_spectre), [Abhorrent Spectre](https://oldschool.runescape.wiki/w/Abhorrent_spectre)
+;
+
+fields.name:<:Ironman:1391543679818137610> __**Ironman**__:;
+fields.value:> __***DO***__ — Very high-value superior with strong gem, shard, and clue scroll potential.
+;
+
+fields.name:📖 __**Summary**__:;
+fields.value:> Repugnant Spectres are the superior form of Deviant Spectres and only appear in the Catacombs. They hit with strong Magic and reduce player stats, requiring defensive or prayer-based setups. High-value drops make them a must-kill whenever they spawn.;
+
+color:#A3282F;
+thumbnail.url:https://oldschool.runescape.wiki/images/thumb/8/8c/Repugnant_spectre.png/120px-Repugnant_spectre.png;
+footer.icon_url:https://gyazo.com/eba1012515f77f8f231e1ecff813d27a.png;
+footer.text:{time;DD-MM-YYYY;;;;} @ {time;HH:mm;;;;} UTC  |  Requested by {userNickname;{messageSender}}
+}}}
+
+{//;
+**************************************************************************************************************************************
+***\                                                   End of Category                                                            /***
+***\                                                                                                                              /***
+***\                                                      Spectres                                                                /***
+**************************************************************************************************************************************
+}
+
+
+
+
+
+
+
+{//;
+*****************************************
+*\               Start of              /*
+*\               Category              /*
+*\             Abyssal Demons          /*
+*****************************************
+}
+
+{//;////////// 05. Abyssal Demons //////////}
+{if;{capitalize;{args;0}} {capitalize;{args;1}};==;Abyssal Demon;
+{embed;
+{buildembed;
+title:__**Abyssal Demons**__;
+url:https://oldschool.runescape.wiki/w/Abyssal_demon;
+description:(Type::green_circle: Standard)
+(Weight: 9):
+
+📜 __**Assigned by**__:
+> # <:Chaeldar:1356028242540101672><:Konar:1356028245530644742><:Nieve:1356028249255444622><:Duradel:1356028243777425579>
+;
+
+fields.name:📌 __**Information**__:;
+fields.value:
+> - __**Location**__: [Slayer Tower](https://oldschool.runescape.wiki/w/Slayer_Tower), [Catacombs of Kourend](https://oldschool.runescape.wiki/w/Catacombs_of_Kourend), [Abyssal Area](https://oldschool.runescape.wiki/w/Abyssal_area)
+> - __**Items**__: [Slayer helmet](https://oldschool.runescape.wiki/w/Slayer_helmet), [Prayer gear](https://oldschool.runescape.wiki/w/Prayer_armour) (optional), [Magic defence gear](https://oldschool.runescape.wiki/w/Magic_armour)
+;
+
+fields.name:💎 __**Drops & Variants**__:;
+fields.value:
+> - __**Key drops**__: [Abyssal whip](https://oldschool.runescape.wiki/w/Abyssal_whip), [Ancient shard](https://oldschool.runescape.wiki/w/Ancient_shard), [Totem pieces](https://oldschool.runescape.wiki/w/Dark_totem), [Clue scroll (hard)](https://oldschool.runescape.wiki/w/Clue_scroll_(Hard))
+> - __**Variants**__: [Abyssal Sire](https://oldschool.runescape.wiki/w/Abyssal_Sire), [Greater abyssal demon](https://oldschool.runescape.wiki/w/Greater_abyssal_demon)
+;
+
+fields.name:<:Ironman:1391543679818137610> __**Ironman**__:;
+fields.value:> __***DO***__ — Excellent source of Abyssal whips, totems, and shard stockpiling
+;
+
+fields.name:📖 __**Summary**__:;
+fields.value:> Abyssal Demons require 85 Slayer and are commonly farmed for the Abyssal whip. They teleport short distances when attacked and deal moderate melee damage. Catacombs provide the best experience and passive shard/totem drops. Superior versions and boss variant available.
+;
+
+color:#7D1D34;
+thumbnail.url:https://oldschool.runescape.wiki/images/thumb/7/7a/Abyssal_demon.png/120px-Abyssal_demon.png;
+footer.icon_url:https://gyazo.com/eba1012515f77f8f231e1ecff813d27a.png;
+footer.text:{time;DD-MM-YYYY;;;;} @ {time;HH:mm;;;;} UTC  |  Requested by {userNickname;{messageSender}}
+}}}
+
+
+{//;////////// 06. Abyssal Sire //////////}
+{if;{capitalize;{args;0}} {capitalize;{args;1}};==;Abyssal Sire;
+{embed;
+{buildembed;
+title:__**Abyssal Sire**__;
+url:https://oldschool.runescape.wiki/w/Abyssal_Sire;
+description:(Type::crown: Boss)
+(Weight: 9):
+
+📜 __**Assigned by**__:
+> # <:Konar:1356028245530644742><:Nieve:1356028249255444622><:Duradel:1356028243777425579>
+;
+
+fields.name:📌 __**Information**__:;
+fields.value:
+> - __**Location**__: [Sire's Lair](https://oldschool.runescape.wiki/w/Abyssal_Sire#Location) (Abyssal Nexus, accessed via Fairy ring **DIP**)
+> - __**Items**__: [Slayer helmet](https://oldschool.runescape.wiki/w/Slayer_helmet), [High DPS gear](https://oldschool.runescape.wiki/w/Equipment), [Stamina potion](https://oldschool.runescape.wiki/w/Stamina_potion), [Prayer potions](https://oldschool.runescape.wiki/w/Prayer_potion), [Antipoison](https://oldschool.runescape.wiki/w/Antipoison)
+;
+  
+fields.name:💎 __**Drops & Mechanics**__:;
+fields.value:
+> - __**Key drops**__: [Bludgeon pieces](https://oldschool.runescape.wiki/w/Abyssal_bludgeon), [Abyssal dagger](https://oldschool.runescape.wiki/w/Abyssal_dagger), [Abyssal whip](https://oldschool.runescape.wiki/w/Abyssal_whip), [Clue scroll (elite)](https://oldschool.runescape.wiki/w/Clue_scroll_(Elite))
+> - __**Phases**__: Vent disabling → Spawn kill → Sire kill (avoid poison clouds, stuns, and spawns)
+;
+  
+fields.name:<:Ironman:1391543679818137610> __**Ironman**__:;
+fields.value:> __***DO***__ — Crucial for obtaining the Abyssal bludgeon and dagger, especially for mid-to-late game;
+;
+  
+fields.name:📖 __**Summary**__:;
+fields.value:> The Abyssal Sire is a boss variant of Abyssal demons requiring 85 Slayer. It's fought in instanced encounters and features multiple combat phases. Effective use of mechanics like disabling vents and spawn control are vital. High supply usage but solid profit and unlocks.
+;
+  
+color:#8B1A2B;
+thumbnail.url:https://oldschool.runescape.wiki/images/thumb/5/59/Abyssal_Sire.png/120px-Abyssal_Sire.png;
+footer.icon_url:https://gyazo.com/eba1012515f77f8f231e1ecff813d27a.png;
+footer.text:{time;DD-MM-YYYY;;;;} @ {time;HH:mm;;;;} UTC  |  Requested by {userNickname;{messageSender}}
+}}}
+
+
+
+
+
+{//;
+*****************************************
+*\              End of the             /*
+*\               Category              /*
+*\             Abyssal Demons          /*
+*****************************************
+}

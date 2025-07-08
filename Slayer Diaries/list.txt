@@ -4,7 +4,7 @@
   - [Superior] Repugnant spectre 
 
 [Standard] Abyssal demon
-  - [Variant] Abyssal Sire
+  - [Boss] Abyssal Sire
   - [Superior] Greater abyssal demon
 
 [Standard] Adamant dragon
