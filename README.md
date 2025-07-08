@@ -6,10 +6,11 @@
   <p align="left">
 - Admin <br>
 - Book of Echos <br>
-- Events <br>
 - Dink <br>
+- Events <br>
 - Goals <br>
 - Help Menu <br>
+- Images <br>
 - Slayer Diaries <br>
 - Suggestions <br>
 - Time <br>
