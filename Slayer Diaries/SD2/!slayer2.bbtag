@@ -280,8 +280,6 @@ footer.text:{time;DD-MM-YYYY;;;;} @ {time;HH:mm;;;;} UTC  |  Requested by {userN
 
 
 
-
-
 {//;
 **************************************************************************************************************************************
 ***\                                                  Start of Category                                                           /***
@@ -380,8 +378,8 @@ footer.text:{time;DD-MM-YYYY;;;;} @ {time;HH:mm;;;;} UTC  |  Requested by {userN
 }
 
 
-{//;07. Greater Abyssal Demon} 
-{if;{capitalize;{args;0}} {capitalize;{args;1} {capitalize;{args;2}};==;Greater Abyssal Demon;
+{//;////////// 07. Greater Abyssal Demon //////////} 
+{if;{capitalize;{args;0}} {capitalize;{args;1}};==;Greater Abyssal Demon;
 {embed;
 {buildembed;
 title:__**Greater Abyssal Demon**__;
@@ -417,12 +415,136 @@ color:#5B1B79;
 thumbnail.url:https://oldschool.runescape.wiki/images/Greater_abyssal_demon.png;
 footer.icon_url:https://gyazo.com/eba1012515f77f8f231e1ecff813d27a.png;
 footer.text:{time;DD-MM-YYYY;;;;} @ {time;HH:mm;;;;} UTC  |  Requested by {userNickname;{messageSender}}
-}}}}
+}}}
 
 {//;
 **************************************************************************************************************************************
 ***\                                                   End of Category                                                            /***
 ***\                                                                                                                              /***
 ***\                                                  Abyssal Demons                                                              /***
+**************************************************************************************************************************************
+}
+
+
+
+
+
+{//;
+**************************************************************************************************************************************
+***\                                                 Start of Category                                                            /***
+***\                                                                                                                              /***
+***\                                                  Adamant Dragon                                                              /***
+**************************************************************************************************************************************
+}
+
+
+{//;////////// 08. Adamant Dragon //////////}
+{if;{capitalize;{args;0}} {capitalize;{args;1}};==;Adamant Dragon;
+{embed;
+{buildembed;
+title:__**Adamant Dragon**__;
+url:https://oldschool.runescape.wiki/w/Adamant_dragon;
+description:(Type:🟢 Standard)
+(Weight: 5):
+
+📜 __**Assigned by**__:
+> <:Konar:1356028245530644742><:Nieve:1356028249255444622><:Duradel:1356028243777425579>
+;
+
+fields.name:📌 __**Information**__:;
+fields.value:
+> - __**Location**__: [Brimhaven Dungeon](https://oldschool.runescape.wiki/w/Brimhaven_Dungeon) (requires 875 coins & axe) and [Myth's Guild Dungeon](https://oldschool.runescape.wiki/w/Myth%27s_Guild#Myth's_Guild_Dungeon)
+> - __**Items**__: [Anti-dragon shield](https://oldschool.runescape.wiki/w/Anti-dragon_shield) or [Dragonfire protection](https://oldschool.runescape.wiki/w/Dragonfire_shield), [Melee gear](https://oldschool.runescape.wiki/w/Equipment), [Antifire potion](https://oldschool.runescape.wiki/w/Antifire), [Prayer potions](https://oldschool.runescape.wiki/w/Prayer_potion)
+;
+
+fields.name:💎 __**Drops & Mechanics**__:;
+fields.value:
+> - __**Key drops**__: [Draconic visage](https://oldschool.runescape.wiki/w/Draconic_visage), [Dragon limbs](https://oldschool.runescape.wiki/w/Dragon_limbs), [Rune bars](https://oldschool.runescape.wiki/w/Rune_bar), [Clue scroll (hard)](https://oldschool.runescape.wiki/w/Clue_scroll_(hard))
+> - __**Mechanics**__: Uses melee and dragonfire. Can be safespotted in Myth's Guild, prayer and antifire essential
+;
+
+fields.name:<:Ironman:1391543679818137610> __**Ironman**__:;
+fields.value:> __***SKIP***__ — High supplies required for mid-tier loot, not worth early unless hunting visage or clues
+;
+
+fields.name:📖 __**Summary**__:;
+fields.value:> Adamant dragons are mid-tier metal dragons that use strong melee and dragonfire attacks. They offer decent loot but demand protection gear and high prayer or safespot setups. More efficient alternatives exist for experience and profit.
+;
+
+color:#4D6E5B;
+thumbnail.url:https://oldschool.runescape.wiki/images/thumb/e/e4/Adamant_dragon.png/120px-Adamant_dragon.png;
+footer.icon_url:https://gyazo.com/eba1012515f77f8f231e1ecff813d27a.png;
+footer.text:{time;DD-MM-YYYY;;;;} @ {time;HH:mm;;;;} UTC  |  Requested by {userNickname;{messageSender}}
+}}}
+
+{//;
+**************************************************************************************************************************************
+***\                                                  End of Category                                                             /***
+***\                                                                                                                              /***
+***\                                                  Adamant Dragon                                                              /***
+**************************************************************************************************************************************
+}
+
+
+
+
+
+{//;
+**************************************************************************************************************************************
+***\                                                  Start of Category                                                           /***
+***\                                                                                                                              /***
+***\                                                       Ankou                                                                  /***
+**************************************************************************************************************************************
+}
+
+
+{//;////////// 09. Ankou //////////}
+{if;{capitalize;{args;0}};==;Ankou;
+{embed;
+{buildembed;
+title:__**Ankou**__;
+url:https://oldschool.runescape.wiki/w/Ankou;
+description:(Type:🟢 Standard)
+(Weight: 4):
+
+📜 __**Assigned by**__:
+> <:Mazchna:1356028243069542400><:Vannaka:1356028247107254272><:Chaeldar:1356028247757985792><:Konar:1356028245530644742><:Nieve:1356028249255444622><:Duradel:1356028243777425579>
+;
+
+fields.name:📌 __**Information**__:;
+fields.value:
+> - __**Location**__: [Stronghold of Security](https://oldschool.runescape.wiki/w/Stronghold_of_Security) (F2P), [Catacombs of Kourend](https://oldschool.runescape.wiki/w/Catacombs_of_Kourend), and [Wilderness Slayer Cave](https://oldschool.runescape.wiki/w/Wilderness_Slayer_Cave)
+> - __**Items**__: [Prayer gear](https://oldschool.runescape.wiki/w/Equipment), [Salve amulet (ei)](https://oldschool.runescape.wiki/w/Salve_amulet#Enchanted_and_improved), [Cannon](https://oldschool.runescape.wiki/w/Dwarf_multicannon), [Bracelet of slaughter](https://oldschool.runescape.wiki/w/Bracelet_of_slaughter)
+;
+
+fields.name:💎 __**Drops & Mechanics**__:;
+fields.value:
+> - __**Key drops**__: [Ancient shard](https://oldschool.runescape.wiki/w/Ancient_shard), [Dark totem pieces](https://oldschool.runescape.wiki/w/Dark_totem), [Clue scroll (medium)](https://oldschool.runescape.wiki/w/Clue_scroll_(medium)), [Death runes](https://oldschool.runescape.wiki/w/Death_rune)
+> - __**Mechanics**__: Undead tag, can be safespotted or bursted in Kourend, aggressive and found in multi-combat zones
+;
+
+fields.name:<:Ironman:1391543679818137610> __**Ironman**__:;
+fields.value:> __***DO***__ — Good source of totem pieces, death runes, and shards, easy to burst in Catacombs early game;
+;
+
+fields.name:📖 __**Summary**__:;
+fields.value:> Ankou are undead creatures with high task volume and low defense, ideal for cannoning or bursting. They're a good mid-game Slayer option, especially for Ironmen collecting dark totems or shards. Highly efficient in multi-combat areas with proper gear.
+;
+
+author.name:Made by: PJFry8338;
+author.url:https://bit.ly/m/PJFry8338;
+author.icon_url:https://gyazo.com/e6a2a402f9b8bf80a34b7426bc96649e.png;
+
+color:#6D6875;
+thumbnail.url:https://oldschool.runescape.wiki/images/thumb/3/30/Ankou.png/120px-Ankou.png;
+footer.icon_url:https://gyazo.com/eba1012515f77f8f231e1ecff813d27a.png;
+footer.text:{time;DD-MM-YYYY;;;;} @ {time;HH:mm;;;;} UTC  |  Requested by {userNickname;{messageSender}}
+}}}
+
+{//;
+**************************************************************************************************************************************
+***\                                                   End of Category                                                            /***
+***\                                                                                                                              /***
+***\                                                       Ankou                                                                  /***
 **************************************************************************************************************************************
 }
